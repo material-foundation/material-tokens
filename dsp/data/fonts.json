@@ -1,0 +1,774 @@
+{
+  "dsp_spec_version": "0.54",
+  "last_updated_by": "Material",
+  "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.label-small",
+      "name": "md.sys.typescale.label-small",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.label-small",
+          "type": "custom",
+          "value": null,
+          "key": "label-small"
+        },
+        {
+          "id": "md.sys.typescale.label-small.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.label-small.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.label-small.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.label-small.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-medium}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.label-small.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain-medium}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.headline6",
+      "name": "md.sys.typescale.headline6",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material"
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.subtitle2",
+      "name": "md.sys.typescale.subtitle2",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material"
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.subtitle1",
+      "name": "md.sys.typescale.subtitle1",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material"
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.display1",
+      "name": "md.sys.typescale.display1",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material"
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.label-medium",
+      "name": "md.sys.typescale.label-medium",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.label-medium",
+          "type": "custom",
+          "value": null,
+          "key": "label-medium"
+        },
+        {
+          "id": "md.sys.typescale.label-medium.text-transform",
+          "type": "custom",
+          "value": null,
+          "key": "text-transform"
+        },
+        {
+          "id": "md.sys.typescale.label-medium.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.label-medium.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.label-medium.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.label-medium.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-medium}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.label-medium.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain-medium}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.label-large",
+      "name": "md.sys.typescale.label-large",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.label-large",
+          "type": "custom",
+          "value": null,
+          "key": "label-large"
+        },
+        {
+          "id": "md.sys.typescale.label-large.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.label-large.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.label-large.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.label-large.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-medium}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.label-large.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain-medium}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.body-small",
+      "name": "md.sys.typescale.body-small",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.body-small",
+          "type": "custom",
+          "value": null,
+          "key": "body-small"
+        },
+        {
+          "id": "md.sys.typescale.body-small.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.body-small.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.body-small.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.body-small.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.body-small.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain-regular}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.body-medium",
+      "name": "md.sys.typescale.body-medium",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.body-medium",
+          "type": "custom",
+          "value": null,
+          "key": "body-medium"
+        },
+        {
+          "id": "md.sys.typescale.body-medium.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.body-medium.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.body-medium.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.body-medium.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.body-medium.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain-regular}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.body-large",
+      "name": "md.sys.typescale.body-large",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.body-large",
+          "type": "custom",
+          "value": null,
+          "key": "body-large"
+        },
+        {
+          "id": "md.sys.typescale.body-large.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.body-large.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.body-large.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.body-large.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.body-large.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain-regular}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.title-small",
+      "name": "md.sys.typescale.title-small",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.title-small",
+          "type": "custom",
+          "value": null,
+          "key": "title-small"
+        },
+        {
+          "id": "md.sys.typescale.title-small.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.title-small.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.title-small.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.title-small.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-medium}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.title-small.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain-medium}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.title-medium",
+      "name": "md.sys.typescale.title-medium",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.title-medium",
+          "type": "custom",
+          "value": null,
+          "key": "title-medium"
+        },
+        {
+          "id": "md.sys.typescale.title-medium.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.title-medium.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.title-medium.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.title-medium.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-medium}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.title-medium.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain-medium}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.title-large",
+      "name": "md.sys.typescale.title-large",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.title-large",
+          "type": "custom",
+          "value": null,
+          "key": "title-large"
+        },
+        {
+          "id": "md.sys.typescale.title-large.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.title-large.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.title-large.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.title-large.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.title-large.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.brand-regular}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.headline-small",
+      "name": "md.sys.typescale.headline-small",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.headline-small",
+          "type": "custom",
+          "value": null,
+          "key": "headline-small"
+        },
+        {
+          "id": "md.sys.typescale.headline-small.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.headline-small.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.headline-small.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.headline-small.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.headline-small.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.brand-regular}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.headline-medium",
+      "name": "md.sys.typescale.headline-medium",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.headline-medium",
+          "type": "custom",
+          "value": null,
+          "key": "headline-medium"
+        },
+        {
+          "id": "md.sys.typescale.headline-medium.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.headline-medium.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.headline-medium.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.headline-medium.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.headline-medium.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.brand-regular}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.headline-large",
+      "name": "md.sys.typescale.headline-large",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.headline-large",
+          "type": "custom",
+          "value": null,
+          "key": "headline-large"
+        },
+        {
+          "id": "md.sys.typescale.headline-large.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.headline-large.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.headline-large.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.headline-large.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.brand-regular}",
+          "key": "family"
+        },
+        {
+          "id": "md.sys.typescale.headline-large.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.display-small",
+      "name": "md.sys.typescale.display-small",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.display-small",
+          "type": "custom",
+          "value": null,
+          "key": "display-small"
+        },
+        {
+          "id": "md.sys.typescale.display-small.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.display-small.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.display-small.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.display-small.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.display-small.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.brand-regular}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.display-medium",
+      "name": "md.sys.typescale.display-medium",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.display-medium",
+          "type": "custom",
+          "value": null,
+          "key": "display-medium"
+        },
+        {
+          "id": "md.sys.typescale.display-medium.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.display-medium.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.display-medium.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.display-medium.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.display-medium.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.brand-regular}",
+          "key": "family"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "md.sys.typescale.display-large",
+      "name": "md.sys.typescale.display-large",
+      "description": "",
+      "tags": [],
+      "last_updated": "Fri, 08 Oct 2021 23:26:47 GMT",
+      "last_updated_by": "Material",
+      "tokens": [
+        {
+          "id": "md.sys.typescale.display-large",
+          "type": "custom",
+          "value": null,
+          "key": "display-large"
+        },
+        {
+          "id": "md.sys.typescale.display-large.line-height",
+          "type": "custom",
+          "value": null,
+          "key": "line-height"
+        },
+        {
+          "id": "md.sys.typescale.display-large.tracking",
+          "type": "custom",
+          "value": null,
+          "key": "tracking"
+        },
+        {
+          "id": "md.sys.typescale.display-large.size",
+          "type": "custom",
+          "value": null,
+          "key": "size"
+        },
+        {
+          "id": "md.sys.typescale.display-large.weight",
+          "type": "alias",
+          "value": "{md.ref.typeface.weight-regular}",
+          "key": "weight"
+        },
+        {
+          "id": "md.sys.typescale.display-large.font",
+          "type": "alias",
+          "value": "{md.ref.typeface.brand-regular}",
+          "key": "family"
+        }
+      ]
+    }
+  ],
+  "categories": []
+}
