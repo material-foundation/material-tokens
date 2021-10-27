@@ -30,7 +30,7 @@ After the plugin opens it should look like the following screenshot.
 
 ## Opening a DSP
 
-Download a customized DSP from the Material Theme Builder or default Material Theme values from this repo and save it to your computer.
+Download a customized DSP from the [Material Theme Builder](http://material.io/material-theme-builder) or default Material Theme values from [this repo](https://goo.gle/material-tokens) and save it to your computer.
 
 Open up the folder in VSCode by either dragging it onto the open window or selecting “Open Folder”.
 
@@ -90,4 +90,4 @@ The “android/colors.xml” should look similar.
 ![alt_text](/assets/image13.png "image_tooltip")
 
 
-Using the Material Tokens (DSP) will ensure your styles are shared throughout your designer and developer workflow. Learn more about Material Tokens.
+Using the Material Tokens (DSP) will ensure your styles are shared throughout your designer and developer workflow. Learn more about [Material Design Tokens](http://m3.material.io/foundations/design-tokens/overview).
