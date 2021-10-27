@@ -1,8 +1,6 @@
 # Material Tokens
 
-
-
-Material Design now supports the [Design System Package (DSP) ](https://github.com/AdobeXD/design-system-package-dsp) for importing and exporting Material Tokens within  the Material Theme Builder. DSP can be used in designer and developer workflow tools and Material Component libraries. Let’s dive into how you can use Material Tokens (DSP) within the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) to generate code.
+Material Design now supports the [Design System Package (DSP)](https://github.com/AdobeXD/design-system-package-dsp)  for importing and exporting [Material Design Tokens](http://m3.material.io/foundations/design-tokens/overview) within the [Material Theme Builder](http://material.io/material-theme-builder). DSP can be used in designer and developer workflow tools and Material Component libraries. Let’s dive into how you can use Material Tokens (DSP) within the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) to generate code.
 
 
 ## Getting Started
