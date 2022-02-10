@@ -260,7 +260,7 @@ body {
   --md-sys-color-inverse-surface-dark: #e6e1e5;
   --md-sys-color-inverse-on-surface-dark: #1c1b1f;
 }
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   body {
     --md-sys-color-primary: var(--md-sys-color-primary-light);
     --md-sys-color-on-primary: var(--md-sys-color-on-primary-light);
