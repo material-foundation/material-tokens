@@ -2,25 +2,8 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 11 Oct 2021 15:57:59 GMT
+  Generated on Wed, 30 Mar 2022 17:20:19 GMT
 -->
 <resources>
-  <dimen name="md_sys_typescale_display_1_size">1024.00sp</dimen>
-  <dimen name="md_sys_typescale_display_large_size">912.00sp</dimen>
-  <dimen name="md_sys_typescale_display_medium_size">720.00sp</dimen>
-  <dimen name="md_sys_typescale_display_small_size">576.00sp</dimen>
-  <dimen name="md_sys_typescale_headline_large_size">512.00sp</dimen>
-  <dimen name="md_sys_typescale_headline_medium_size">448.00sp</dimen>
-  <dimen name="md_sys_typescale_headline_small_size">384.00sp</dimen>
-  <dimen name="md_sys_typescale_title_large_size">352.00sp</dimen>
-  <dimen name="md_sys_typescale_headline_6_size">288.00sp</dimen>
-  <dimen name="md_sys_typescale_title_medium_size">256.00sp</dimen>
-  <dimen name="md_sys_typescale_title_small_size">224.00sp</dimen>
-  <dimen name="md_sys_typescale_label_large_size">224.00sp</dimen>
-  <dimen name="md_sys_typescale_body_large_size">256.00sp</dimen>
-  <dimen name="md_sys_typescale_body_medium_size">224.00sp</dimen>
-  <dimen name="md_sys_typescale_body_small_size">192.00sp</dimen>
-  <dimen name="md_sys_typescale_label_medium_size">192.00sp</dimen>
-  <dimen name="md_sys_typescale_label_small_size">176.00sp</dimen>
   
 </resources>
