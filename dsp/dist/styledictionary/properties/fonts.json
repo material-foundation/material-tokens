@@ -1,195 +1,127 @@
 {
   "font": {
-    "md_sys_typescale_display1": {
+    "md_sys_typescale_label-small": {
       "family": {
-        "value": "Roboto"
+        "value": "{custom.md_ref_typeface_plain.value}"
       },
       "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_display-large": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_display-medium": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_display-small": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_headline-large": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_headline-medium": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_headline-small": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_title-large": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_headline6": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_title-medium": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Medium"
-      }
-    },
-    "md_sys_typescale_title-small": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Medium"
-      }
-    },
-    "md_sys_typescale_label-large": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Medium"
-      }
-    },
-    "md_sys_typescale_body-large": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_body-medium": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
-      }
-    },
-    "md_sys_typescale_body-small": {
-      "family": {
-        "value": "Roboto"
-      },
-      "weight": {
-        "value": "Regular"
+        "value": "{custom.md_ref_typeface_weight-medium.value}"
       }
     },
     "md_sys_typescale_label-medium": {
       "family": {
-        "value": "Roboto"
+        "value": "{custom.md_ref_typeface_plain.value}"
       },
       "weight": {
-        "value": "Medium"
+        "value": "{custom.md_ref_typeface_weight-medium.value}"
       }
     },
-    "md_sys_typescale_label-small": {
+    "md_sys_typescale_label-large": {
       "family": {
-        "value": "Roboto"
+        "value": "{custom.md_ref_typeface_plain.value}"
       },
       "weight": {
-        "value": "Medium"
+        "value": "{custom.md_ref_typeface_weight-medium.value}"
+      }
+    },
+    "md_sys_typescale_body-small": {
+      "family": {
+        "value": "{custom.md_ref_typeface_plain.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
+      }
+    },
+    "md_sys_typescale_body-medium": {
+      "family": {
+        "value": "{custom.md_ref_typeface_plain.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
+      }
+    },
+    "md_sys_typescale_body-large": {
+      "family": {
+        "value": "{custom.md_ref_typeface_plain.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
+      }
+    },
+    "md_sys_typescale_title-small": {
+      "family": {
+        "value": "{custom.md_ref_typeface_plain.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-medium.value}"
+      }
+    },
+    "md_sys_typescale_title-medium": {
+      "family": {
+        "value": "{custom.md_ref_typeface_plain.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-medium.value}"
+      }
+    },
+    "md_sys_typescale_title-large": {
+      "family": {
+        "value": "{custom.md_ref_typeface_brand.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
+      }
+    },
+    "md_sys_typescale_headline-small": {
+      "family": {
+        "value": "{custom.md_ref_typeface_brand.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
+      }
+    },
+    "md_sys_typescale_headline-medium": {
+      "family": {
+        "value": "{custom.md_ref_typeface_brand.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
+      }
+    },
+    "md_sys_typescale_headline-large": {
+      "family": {
+        "value": "{custom.md_ref_typeface_brand.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
+      }
+    },
+    "md_sys_typescale_display-small": {
+      "family": {
+        "value": "{custom.md_ref_typeface_brand.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
+      }
+    },
+    "md_sys_typescale_display-medium": {
+      "family": {
+        "value": "{custom.md_ref_typeface_brand.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
+      }
+    },
+    "md_sys_typescale_display-large": {
+      "family": {
+        "value": "{custom.md_ref_typeface_brand.value}"
+      },
+      "weight": {
+        "value": "{custom.md_ref_typeface_weight-regular.value}"
       }
     }
   },
   "size": {
-    "font": {
-      "md_sys_typescale_display1": {
-        "value": "64"
-      },
-      "md_sys_typescale_display-large": {
-        "value": "57"
-      },
-      "md_sys_typescale_display-medium": {
-        "value": "45"
-      },
-      "md_sys_typescale_display-small": {
-        "value": "36"
-      },
-      "md_sys_typescale_headline-large": {
-        "value": "32"
-      },
-      "md_sys_typescale_headline-medium": {
-        "value": "28"
-      },
-      "md_sys_typescale_headline-small": {
-        "value": "24"
-      },
-      "md_sys_typescale_title-large": {
-        "value": "22"
-      },
-      "md_sys_typescale_headline6": {
-        "value": "18"
-      },
-      "md_sys_typescale_title-medium": {
-        "value": "16"
-      },
-      "md_sys_typescale_title-small": {
-        "value": "14"
-      },
-      "md_sys_typescale_label-large": {
-        "value": "14"
-      },
-      "md_sys_typescale_body-large": {
-        "value": "16"
-      },
-      "md_sys_typescale_body-medium": {
-        "value": "14"
-      },
-      "md_sys_typescale_body-small": {
-        "value": "12"
-      },
-      "md_sys_typescale_label-medium": {
-        "value": "12"
-      },
-      "md_sys_typescale_label-small": {
-        "value": "11"
-      }
-    }
+    "font": {}
   }
 }
