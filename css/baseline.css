@@ -1,145 +1,25 @@
-@import url(tokens.css);
-@import url(theme.css);
+/*
+ Copyright 2016 Google Inc. All rights reserved.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+*/
+
+@import url(palette.css);
 @import url(typography.css);
-
-.display1 {
-  font-family: var(--md-sys-typescale-display1-font);
-  font-weight: var(--md-sys-typescale-display1-weight);
-  font-size: var(--md-sys-typescale-display1-size);
-  line-height: var(--md-sys-typescale-display1-line-height);
-  letter-spacing: var(--md-sys-typescale-display1-tracking);
-}
-
-.display2,
-.display-large {
-  font-family: var(--md-sys-typescale-display2-font);
-  font-weight: var(--md-sys-typescale-display2-weight);
-  font-size: var(--md-sys-typescale-display2-size);
-  line-height: var(--md-sys-typescale-display2-line-height);
-  letter-spacing: var(--md-sys-typescale-display2-tracking);
-}
-
-.display3,
-.display-medium {
-  font-family: var(--md-sys-typescale-display3-font);
-  font-weight: var(--md-sys-typescale-display3-weight);
-  font-size: var(--md-sys-typescale-display3-size);
-  line-height: var(--md-sys-typescale-display3-line-height);
-  letter-spacing: var(--md-sys-typescale-display3-tracking);
-}
-
-.headline1,
-.display-small {
-  font-family: var(--md-sys-typescale-headline1-font);
-  font-weight: var(--md-sys-typescale-headline1-weight);
-  font-size: var(--md-sys-typescale-headline1-size);
-  line-height: var(--md-sys-typescale-headline1-line-height);
-  letter-spacing: var(--md-sys-typescale-headline1-tracking);
-}
-
-.headline2,
-.headline-large {
-  font-family: var(--md-sys-typescale-headline2-font);
-  font-weight: var(--md-sys-typescale-headline2-weight);
-  font-size: var(--md-sys-typescale-headline2-size);
-  line-height: var(--md-sys-typescale-headline2-line-height);
-  letter-spacing: var(--md-sys-typescale-headline2-tracking);
-}
-
-.headline3,
-.headline-medium {
-  font-family: var(--md-sys-typescale-headline3-font);
-  font-weight: var(--md-sys-typescale-headline3-weight);
-  font-size: var(--md-sys-typescale-headline3-size);
-  line-height: var(--md-sys-typescale-headline3-line-height);
-  letter-spacing: var(--md-sys-typescale-headline3-tracking);
-}
-
-.headline4,
-.headline-small {
-  font-family: var(--md-sys-typescale-headline4-font);
-  font-weight: var(--md-sys-typescale-headline4-weight);
-  font-size: var(--md-sys-typescale-headline4-size);
-  line-height: var(--md-sys-typescale-headline4-line-height);
-  letter-spacing: var(--md-sys-typescale-headline4-tracking);
-}
-
-.headline5,
-.title-large {
-  font-family: var(--md-sys-typescale-headline5-font);
-  font-weight: var(--md-sys-typescale-headline5-weight);
-  font-size: var(--md-sys-typescale-headline5-size);
-  line-height: var(--md-sys-typescale-headline5-line-height);
-  letter-spacing: var(--md-sys-typescale-headline5-tracking);
-}
-
-.headline6 {
-  font-family: var(--md-sys-typescale-headline6-font);
-  font-weight: var(--md-sys-typescale-headline6-weight);
-  font-size: var(--md-sys-typescale-headline6-size);
-  line-height: var(--md-sys-typescale-headline6-line-height);
-  letter-spacing: var(--md-sys-typescale-headline6-tracking);
-}
-
-.subhead1,
-.title-medium {
-  font-family: var(--md-sys-typescale-subhead1-font);
-  font-weight: var(--md-sys-typescale-subhead1-weight);
-  font-size: var(--md-sys-typescale-subhead1-size);
-  line-height: var(--md-sys-typescale-subhead1-line-height);
-  letter-spacing: var(--md-sys-typescale-subhead1-tracking);
-}
-
-.subhead2,
-.title-small {
-  font-family: var(--md-sys-typescale-subhead2-font);
-  font-weight: var(--md-sys-typescale-subhead2-weight);
-  font-size: var(--md-sys-typescale-subhead2-size);
-  line-height: var(--md-sys-typescale-subhead2-line-height);
-  letter-spacing: var(--md-sys-typescale-subhead2-tracking);
-}
-
-.body1,
-.body-large {
-  font-family: var(--md-sys-typescale-body1-font);
-  font-weight: var(--md-sys-typescale-body1-weight);
-  font-size: var(--md-sys-typescale-body1-size);
-  line-height: var(--md-sys-typescale-body1-line-height);
-  letter-spacing: var(--md-sys-typescale-body1-tracking);
-}
-
-.body2,
-.body-medium {
-  font-family: var(--md-sys-typescale-body2-font);
-  font-weight: var(--md-sys-typescale-body2-weight);
-  font-size: var(--md-sys-typescale-body2-size);
-  line-height: var(--md-sys-typescale-body2-line-height);
-  letter-spacing: var(--md-sys-typescale-body2-tracking);
-}
-
-.caption,
-.body-small {
-  font-family: var(--md-sys-typescale-caption-font);
-  font-weight: var(--md-sys-typescale-caption-weight);
-  font-size: var(--md-sys-typescale-caption-size);
-  line-height: var(--md-sys-typescale-caption-line-height);
-  letter-spacing: var(--md-sys-typescale-caption-tracking);
-}
-
-.button,
-.label-large {
-  font-family: var(--md-sys-typescale-button-font);
-  font-weight: var(--md-sys-typescale-button-weight);
-  font-size: var(--md-sys-typescale-button-size);
-  line-height: var(--md-sys-typescale-button-line-height);
-  letter-spacing: var(--md-sys-typescale-button-tracking);
-}
-
-.overline,
-.label-medium {
-  font-family: var(--md-sys-typescale-overline-font);
-  font-weight: var(--md-sys-typescale-overline-weight);
-  font-size: var(--md-sys-typescale-overline-size);
-  line-height: var(--md-sys-typescale-overline-line-height);
-  letter-spacing: var(--md-sys-typescale-overline-tracking);
-}
+@import url(colors.css);
+@import url(shape.css);
+@import url(motion.css);
+@import url(state.css);
+@import url(elevation.css);
+@import url(theme/light.css) screen and (prefers-color-scheme: light);
+@import url(theme/dark.css) screen and (prefers-color-scheme: dark);
