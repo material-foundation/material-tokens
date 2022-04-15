@@ -100,3 +100,15 @@
 .surface-tint {
   background-color: var(--md-sys-color-on-surface-tint);
 }
+.black {
+  background-color: var(--md-ref-palette-black);
+}
+.black-text {
+  color: var(--md-ref-palette-black);
+}
+.white {
+  background-color: var(--md-ref-palette-white);
+}
+.white-text {
+  color: var(--md-ref-palette-white);
+}
