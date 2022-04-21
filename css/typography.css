@@ -25,17 +25,17 @@
   --md-sys-typescale-label-small-font-style: unset;
   --md-sys-typescale-label-small-text-decoration: unset;
   /* Label Small line height */
-  --md-sys-typescale-label-small-line-height-value: 16pxpx;
-  --md-sys-typescale-label-small-line-height-unit: 2pxpx;
-  --md-sys-typescale-label-small-line-height: 16pxpx;
+  --md-sys-typescale-label-small-line-height-value: 16px;
+  --md-sys-typescale-label-small-line-height-unit: 2px;
+  --md-sys-typescale-label-small-line-height: 16px;
   /* Label Small font tracking */
-  --md-sys-typescale-label-small-tracking-value: 0.5pxpx;
-  --md-sys-typescale-label-small-tracking-unit: 2pxpx;
-  --md-sys-typescale-label-small-tracking: 0.5pxpx;
+  --md-sys-typescale-label-small-tracking-value: 0.5px;
+  --md-sys-typescale-label-small-tracking-unit: 2px;
+  --md-sys-typescale-label-small-tracking: 0.5px;
   /* Label Small font size */
-  --md-sys-typescale-label-small-size-value: 11pxpx;
-  --md-sys-typescale-label-small-size-unit: 2pxpx;
-  --md-sys-typescale-label-small-size: 11pxpx;
+  --md-sys-typescale-label-small-size-value: 11px;
+  --md-sys-typescale-label-small-size-unit: 2px;
+  --md-sys-typescale-label-small-size: 11px;
   /* Label Small font weight */
   --md-sys-typescale-label-small-weight: var(--md-ref-typeface-weight-medium);
   /* Label Small font name */
@@ -47,17 +47,17 @@
   /* Label Medium text transform */
   --md-sys-typescale-label-medium-text-transform: 1;
   /* Label Medium line height */
-  --md-sys-typescale-label-medium-line-height-value: 16pxpx;
-  --md-sys-typescale-label-medium-line-height-unit: 2pxpx;
-  --md-sys-typescale-label-medium-line-height: 16pxpx;
+  --md-sys-typescale-label-medium-line-height-value: 16px;
+  --md-sys-typescale-label-medium-line-height-unit: 2px;
+  --md-sys-typescale-label-medium-line-height: 16px;
   /* Label Medium font tracking */
-  --md-sys-typescale-label-medium-tracking-value: 0.5pxpx;
-  --md-sys-typescale-label-medium-tracking-unit: 2pxpx;
-  --md-sys-typescale-label-medium-tracking: 0.5pxpx;
+  --md-sys-typescale-label-medium-tracking-value: 0.5px;
+  --md-sys-typescale-label-medium-tracking-unit: 2px;
+  --md-sys-typescale-label-medium-tracking: 0.5px;
   /* Label Medium font size */
-  --md-sys-typescale-label-medium-size-value: 12pxpx;
-  --md-sys-typescale-label-medium-size-unit: 2pxpx;
-  --md-sys-typescale-label-medium-size: 12pxpx;
+  --md-sys-typescale-label-medium-size-value: 12px;
+  --md-sys-typescale-label-medium-size-unit: 2px;
+  --md-sys-typescale-label-medium-size: 12px;
   /* Label Medium font weight */
   --md-sys-typescale-label-medium-weight: var(--md-ref-typeface-weight-medium);
   /* Label Medium font name */
