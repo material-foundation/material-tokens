@@ -8,7 +8,7 @@ graph LR;
 
     md.ref --> md.ref.palette[Palette];
 
-    md.ref.palette --> primary[Primary];
+    md.ref.palette --> primary(Primary);
     primary ----> md.ref.palette.primary0[Primary 0];
     primary ----> md.ref.palette.primary10[Primary 10];
     primary ----> md.ref.palette.primary20[Primary 20];
@@ -23,7 +23,7 @@ graph LR;
     primary ----> md.ref.palette.primary99[Primary 99];
     primary ----> md.ref.palette.primary100[Primary 100];
 
-    md.ref.palette --> secondary[Secondary];
+    md.ref.palette --> secondary(Secondary);
     secondary ----> md.ref.palette.secondary0[Secondary 0];
     secondary ----> md.ref.palette.secondary10[Secondary 10];
     secondary ----> md.ref.palette.secondary20[Secondary 20];
@@ -38,7 +38,7 @@ graph LR;
     secondary ----> md.ref.palette.secondary99[Secondary 99];
     secondary ----> md.ref.palette.secondary100[Secondary 100];
 
-    md.ref.palette --> tertiary[Tertiary];
+    md.ref.palette --> tertiary(Tertiary);
     tertiary ----> md.ref.palette.tertiary0[Tertiary 0];
     tertiary ----> md.ref.palette.tertiary10[Tertiary 10];
     tertiary ----> md.ref.palette.tertiary20[Tertiary 20];
@@ -53,7 +53,7 @@ graph LR;
     tertiary ----> md.ref.palette.tertiary99[Tertiary 99];
     tertiary ----> md.ref.palette.tertiary100[Tertiary 100];
 
-    md.ref.palette --> neutral[Neutral];
+    md.ref.palette --> neutral(Neutral);
     neutral ----> md.ref.palette.neutral0[Neutral 0];
     neutral ----> md.ref.palette.neutral10[Neutral 10];
     neutral ----> md.ref.palette.neutral20[Neutral 20];
@@ -68,7 +68,7 @@ graph LR;
     neutral ----> md.ref.palette.neutral99[Neutral 99];
     neutral ----> md.ref.palette.neutral100[Neutral 100];
 
-    md.ref.palette --> neutralVariant[Neutral Variant];
+    md.ref.palette --> neutralVariant(Neutral Variant);
     neutralVariant ----> md.ref.palette.neutral-variant0[Neutral Variant 0];
     neutralVariant ----> md.ref.palette.neutral-variant10[Neutral Variant 10];
     neutralVariant ----> md.ref.palette.neutral-variant20[Neutral Variant 20];
@@ -83,7 +83,7 @@ graph LR;
     neutralVariant ----> md.ref.palette.neutral-variant99[Neutral Variant 99];
     neutralVariant ----> md.ref.palette.neutral-variant100[Neutral Variant 100];
 
-    md.ref.palette --> error[Error];
+    md.ref.palette --> error(Error);
     error ----> md.ref.palette.error0[Error 0];
     error ----> md.ref.palette.error10[Error 10];
     error ----> md.ref.palette.error20[Error 20];
