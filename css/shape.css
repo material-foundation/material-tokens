@@ -19,76 +19,56 @@
   --md-sys-shape-corner-full-family: 3px;
   /* Extra large top rounding */
   --md-sys-shape-corner-extra-large-top-family: 1px;
-  --md-sys-shape-corner-extra-large-top-default-size-value: 0px;
-  --md-sys-shape-corner-extra-large-top-default-size-unit: 1px;
   --md-sys-shape-corner-extra-large-top-default-size: 0px;
-  --md-sys-shape-corner-extra-large-top-top-left-value: 28px;
-  --md-sys-shape-corner-extra-large-top-top-left-unit: 1px;
   --md-sys-shape-corner-extra-large-top-top-left: 28px;
-  --md-sys-shape-corner-extra-large-top-top-right-value: 28px;
   --md-sys-shape-corner-extra-large-top-top-right-unit: 1px;
   --md-sys-shape-corner-extra-large-top-top-right: 28px;
   /* Extra large rounding */
   --md-sys-shape-corner-extra-large-family: 1px;
-  --md-sys-shape-corner-extra-large-default-size-value: 28px;
   --md-sys-shape-corner-extra-large-default-size-unit: 1px;
   --md-sys-shape-corner-extra-large-default-size: 28px;
   /* Large top rounding */
   --md-sys-shape-corner-large-top-family: 1px;
-  --md-sys-shape-corner-large-top-default-size-value: 0px;
   --md-sys-shape-corner-large-top-default-size-unit: 1px;
   --md-sys-shape-corner-large-top-default-size: 0px;
-  --md-sys-shape-corner-large-top-top-left-value: 16px;
   --md-sys-shape-corner-large-top-top-left-unit: 1px;
   --md-sys-shape-corner-large-top-top-left: 16px;
-  --md-sys-shape-corner-large-top-top-right-value: 16px;
   --md-sys-shape-corner-large-top-top-right-unit: 1px;
   --md-sys-shape-corner-large-top-top-right: 16px;
   /* Large end rounding */
   --md-sys-shape-corner-large-end-family: 1px;
-  --md-sys-shape-corner-large-end-default-size-value: 0px;
   --md-sys-shape-corner-large-end-default-size-unit: 1px;
   --md-sys-shape-corner-large-end-default-size: 0px;
-  --md-sys-shape-corner-large-end-top-right-value: 16px;
   --md-sys-shape-corner-large-end-top-right-unit: 1px;
   --md-sys-shape-corner-large-end-top-right: 16px;
-  --md-sys-shape-corner-large-end-bottom-right-value: 16px;
   --md-sys-shape-corner-large-end-bottom-right-unit: 1px;
   --md-sys-shape-corner-large-end-bottom-right: 16px;
   /* Large rounding */
   --md-sys-shape-corner-large-family: 1px;
-  --md-sys-shape-corner-large-default-size-value: 16px;
   --md-sys-shape-corner-large-default-size-unit: 1px;
   --md-sys-shape-corner-large-default-size: 16px;
   /* Medium rounding */
   --md-sys-shape-corner-medium-family: 1px;
-  --md-sys-shape-corner-medium-default-size-value: 12px;
   --md-sys-shape-corner-medium-default-size-unit: 1px;
   --md-sys-shape-corner-medium-default-size: 12px;
   /* Small rounding */
   --md-sys-shape-corner-small-family: 1px;
-  --md-sys-shape-corner-small-default-size-value: 8px;
   --md-sys-shape-corner-small-default-size-unit: 1px;
   --md-sys-shape-corner-small-default-size: 8px;
   /* Extra small top rounding */
   --md-sys-shape-corner-extra-small-top-family: 1px;
-  --md-sys-shape-corner-extra-small-top-default-size-value: 0px;
   --md-sys-shape-corner-extra-small-top-default-size-unit: 1px;
   --md-sys-shape-corner-extra-small-top-default-size: 0px;
-  --md-sys-shape-corner-extra-small-top-top-left-value: 4px;
   --md-sys-shape-corner-extra-small-top-top-left-unit: 1px;
   --md-sys-shape-corner-extra-small-top-top-left: 4px;
-  --md-sys-shape-corner-extra-small-top-top-right-value: 4px;
   --md-sys-shape-corner-extra-small-top-top-right-unit: 1px;
   --md-sys-shape-corner-extra-small-top-top-right: 4px;
   /* Extra small rounding */
   --md-sys-shape-corner-extra-small-family: 1px;
-  --md-sys-shape-corner-extra-small-default-size-value: 4px;
   --md-sys-shape-corner-extra-small-default-size-unit: 1px;
   --md-sys-shape-corner-extra-small-default-size: 4px;
   /* No rounding */
   --md-sys-shape-corner-none-family: 1px;
-  --md-sys-shape-corner-none-default-size-value: 0px;
   --md-sys-shape-corner-none-default-size-unit: 1px;
   --md-sys-shape-corner-none-default-size: 0px;
 
