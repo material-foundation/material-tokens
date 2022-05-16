@@ -100,6 +100,22 @@
 .surface-tint {
   background-color: var(--md-sys-color-on-surface-tint);
 }
+.error {
+  color: var(--md-sys-color-on-error);
+  background-color: var(--md-sys-color-error);
+}
+.on-error {
+  color: var(--md-sys-color-error);
+  background-color: var(--md-sys-color-on-error);
+}
+.error-container {
+  color: var(--md-sys-color-on-error-container);
+  background-color: var(--md-sys-color-error-container);
+}
+.on-error-container {
+  color: var(--md-sys-color-error-container);
+  background-color: var(--md-sys-color-on-error-container);
+}
 .black {
   background-color: var(--md-ref-palette-black);
 }
