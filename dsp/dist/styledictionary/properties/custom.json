@@ -19,6 +19,124 @@
     "md_ref_typeface_weight-regular": {
       "value": "400",
       "comment": "Regular weight"
+    },
+    "md_sys_typescale_label-small_tracking": {
+      "value": "0.5"
+    },
+    "md_sys_typescale_label-small_line-height": {
+      "value": "16",
+      "comment": "typescale label small line height"
+    },
+    "md_sys_typescale_label-medium_line-height": {
+      "value": "16",
+      "comment": "Typescale label medium line height"
+    },
+    "md_sys_typescale_label-medium_tracking": {
+      "value": "0.5",
+      "comment": "typescale label medium tracking"
+    },
+    "md_sys_typescale_label-large_line-height": {
+      "value": "24",
+      "comment": "Typescale label large line height"
+    },
+    "md_sys_typescale_label-large_tracking": {
+      "value": "0.5",
+      "comment": "Typescale label large tracking"
+    },
+    "md_sys_typescale_body-small_tracking": {
+      "value": "0.4",
+      "comment": "Typescale body small tracking"
+    },
+    "md_sys_typescale_body-small_line-height": {
+      "value": "16",
+      "comment": "typescale body small line-height"
+    },
+    "md_sys_typescale_body-medium_line-height": {
+      "value": "20",
+      "comment": "typescale body medium line-height"
+    },
+    "md_sys_typescale_body-medium_tracking": {
+      "value": "0.25",
+      "comment": "typescale body medium.tracking"
+    },
+    "md_sys_typescale_body-large_line-height": {
+      "value": "24",
+      "comment": "typescale body large line-height"
+    },
+    "md_sys_typescale_body-large_tracking": {
+      "value": "0.5",
+      "comment": "typescale body large tracking"
+    },
+    "md_sys_typescale_title-small_line-height": {
+      "value": "20",
+      "comment": "typescale title small line-height"
+    },
+    "md_sys_typescale_title-small_tracking": {
+      "value": "0.1",
+      "comment": "typescale title small tracking"
+    },
+    "md_sys_typescale_title-medium_line-height": {
+      "value": "24",
+      "comment": "typescale title medium line-height"
+    },
+    "md_sys_typescale_title-medium_tracking": {
+      "value": "0.15",
+      "comment": "typescale title medium.tracking"
+    },
+    "md_sys_typescale_title-large_line-height": {
+      "value": "28",
+      "comment": "typescale title large line-height"
+    },
+    "md_sys_typescale_title-large_tracking": {
+      "value": "0",
+      "comment": "title large tracking"
+    },
+    "md_sys_typescale_headline-small_line-height": {
+      "value": "32",
+      "comment": " typescale headline small line height"
+    },
+    "md_sys_typescale_headline-small_tracking": {
+      "value": "0",
+      "comment": "typescale headline  small.tracking"
+    },
+    "md_sys_typescale_headline-medium_line-height": {
+      "value": "36",
+      "comment": "typescale headline medium line-height"
+    },
+    "md_sys_typescale_headline-medium_tracking": {
+      "value": "0",
+      "comment": "typescale headline medium tracking"
+    },
+    "md_sys_typescale_headline-large_line-height": {
+      "value": "40",
+      "comment": "typescale headline large line height"
+    },
+    "md_sys_typescale_headline-large_tracking": {
+      "value": "0",
+      "comment": "typescale headline large tracking"
+    },
+    "md_sys_typescale_display-small_line-height": {
+      "value": "44",
+      "comment": "typescale display small line-height"
+    },
+    "md_sys_typescale_display-small_tracking": {
+      "value": "0",
+      "comment": "typescale display-small tracking"
+    },
+    "md_sys_typescale_display-medium_line-height": {
+      "value": "52",
+      "comment": "typescale display medium line height"
+    },
+    "md_sys_typescale_display-medium_tracking": {
+      "value": "0"
+    },
+    "md_sys_typescale_display-large_line-height": {
+      "value": "64",
+      "comment": "typescale display large line-height"
+    },
+    "md_sys_typescale_display-large_tracking": {
+      "value": "0",
+      "comment": "typescale display large tracking"
     }
   }
 }

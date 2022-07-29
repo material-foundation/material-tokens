@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Jul 2022 19:31:43 GMT
+ * Generated on Fri, 29 Jul 2022 21:16:23 GMT
  */
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
@@ -197,6 +197,7 @@ export const MdSysTypescaleDisplayMediumFamily = "Roboto";
 export const MdSysTypescaleDisplayMediumWeight = "400";
 export const MdSysTypescaleDisplayLargeFamily = "Roboto";
 export const MdSysTypescaleDisplayLargeWeight = "400";
+export const MdSysTypescaleLabelSmallSize = "11rem";
 export const MdSysTypescaleLabelMediumSize = "12rem";
 export const MdSysTypescaleLabelLargeSize = "16rem";
 export const MdSysTypescaleBodySmallSize = "12rem";
@@ -216,3 +217,33 @@ export const MdRefTypefaceBrand = "Roboto"; // Brand typeface
 export const MdRefTypefaceWeightBold = "700"; // Bold weight
 export const MdRefTypefaceWeightMedium = "500"; // Medium weight
 export const MdRefTypefaceWeightRegular = "400"; // Regular weight
+export const MdSysTypescaleLabelSmallTracking = "0.5";
+export const MdSysTypescaleLabelSmallLineHeight = "16"; // typescale label small line height
+export const MdSysTypescaleLabelMediumLineHeight = "16"; // Typescale label medium line height
+export const MdSysTypescaleLabelMediumTracking = "0.5"; // typescale label medium tracking
+export const MdSysTypescaleLabelLargeLineHeight = "24"; // Typescale label large line height
+export const MdSysTypescaleLabelLargeTracking = "0.5"; // Typescale label large tracking
+export const MdSysTypescaleBodySmallTracking = "0.4"; // Typescale body small tracking
+export const MdSysTypescaleBodySmallLineHeight = "16"; // typescale body small line-height
+export const MdSysTypescaleBodyMediumLineHeight = "20"; // typescale body medium line-height
+export const MdSysTypescaleBodyMediumTracking = "0.25"; // typescale body medium.tracking
+export const MdSysTypescaleBodyLargeLineHeight = "24"; // typescale body large line-height
+export const MdSysTypescaleBodyLargeTracking = "0.5"; // typescale body large tracking
+export const MdSysTypescaleTitleSmallLineHeight = "20"; // typescale title small line-height
+export const MdSysTypescaleTitleSmallTracking = "0.1"; // typescale title small tracking
+export const MdSysTypescaleTitleMediumLineHeight = "24"; // typescale title medium line-height
+export const MdSysTypescaleTitleMediumTracking = "0.15"; // typescale title medium.tracking
+export const MdSysTypescaleTitleLargeLineHeight = "28"; // typescale title large line-height
+export const MdSysTypescaleTitleLargeTracking = "0"; // title large tracking
+export const MdSysTypescaleHeadlineSmallLineHeight = "32"; //  typescale headline small line height
+export const MdSysTypescaleHeadlineSmallTracking = "0"; // typescale headline  small.tracking
+export const MdSysTypescaleHeadlineMediumLineHeight = "36"; // typescale headline medium line-height
+export const MdSysTypescaleHeadlineMediumTracking = "0"; // typescale headline medium tracking
+export const MdSysTypescaleHeadlineLargeLineHeight = "40"; // typescale headline large line height
+export const MdSysTypescaleHeadlineLargeTracking = "0"; // typescale headline large tracking
+export const MdSysTypescaleDisplaySmallLineHeight = "44"; // typescale display small line-height
+export const MdSysTypescaleDisplaySmallTracking = "0"; // typescale display-small tracking
+export const MdSysTypescaleDisplayMediumLineHeight = "52"; // typescale display medium line height
+export const MdSysTypescaleDisplayMediumTracking = "0";
+export const MdSysTypescaleDisplayLargeLineHeight = "64"; // typescale display large line-height
+export const MdSysTypescaleDisplayLargeTracking = "0"; // typescale display large tracking

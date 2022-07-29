@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 29 Jul 2022 19:31:43 GMT
+// Generated on Fri, 29 Jul 2022 21:16:23 GMT
 
 
 
@@ -183,47 +183,78 @@ class StyleDictionary {
     static const mdSysColorTertiaryDark = Color(0xFFEFB8C8); /* Tertiary */
     static const mdSysColorTertiaryLight = Color(0xFF7D5260); /* Tertiary */
     static const mdSysTypescaleBodyLargeFamily = Roboto;
+    static const mdSysTypescaleBodyLargeLineHeight = 24; /* typescale body large line-height */
     static const mdSysTypescaleBodyLargeSize = 256.00;
+    static const mdSysTypescaleBodyLargeTracking = 0.5; /* typescale body large tracking */
     static const mdSysTypescaleBodyLargeWeight = 400;
     static const mdSysTypescaleBodyMediumFamily = Roboto;
+    static const mdSysTypescaleBodyMediumLineHeight = 20; /* typescale body medium line-height */
     static const mdSysTypescaleBodyMediumSize = 224.00;
+    static const mdSysTypescaleBodyMediumTracking = 0.25; /* typescale body medium.tracking */
     static const mdSysTypescaleBodyMediumWeight = 400;
     static const mdSysTypescaleBodySmallFamily = Roboto;
+    static const mdSysTypescaleBodySmallLineHeight = 16; /* typescale body small line-height */
     static const mdSysTypescaleBodySmallSize = 192.00;
+    static const mdSysTypescaleBodySmallTracking = 0.4; /* Typescale body small tracking */
     static const mdSysTypescaleBodySmallWeight = 400;
     static const mdSysTypescaleDisplayLargeFamily = Roboto;
+    static const mdSysTypescaleDisplayLargeLineHeight = 64; /* typescale display large line-height */
     static const mdSysTypescaleDisplayLargeSize = 912.00;
+    static const mdSysTypescaleDisplayLargeTracking = 0; /* typescale display large tracking */
     static const mdSysTypescaleDisplayLargeWeight = 400;
     static const mdSysTypescaleDisplayMediumFamily = Roboto;
+    static const mdSysTypescaleDisplayMediumLineHeight = 52; /* typescale display medium line height */
     static const mdSysTypescaleDisplayMediumSize = 720.00;
+    static const mdSysTypescaleDisplayMediumTracking = 0;
     static const mdSysTypescaleDisplayMediumWeight = 400;
     static const mdSysTypescaleDisplaySmallFamily = Roboto;
+    static const mdSysTypescaleDisplaySmallLineHeight = 44; /* typescale display small line-height */
     static const mdSysTypescaleDisplaySmallSize = 576.00;
+    static const mdSysTypescaleDisplaySmallTracking = 0; /* typescale display-small tracking */
     static const mdSysTypescaleDisplaySmallWeight = 400;
     static const mdSysTypescaleHeadlineLargeFamily = Roboto;
+    static const mdSysTypescaleHeadlineLargeLineHeight = 40; /* typescale headline large line height */
     static const mdSysTypescaleHeadlineLargeSize = 512.00;
+    static const mdSysTypescaleHeadlineLargeTracking = 0; /* typescale headline large tracking */
     static const mdSysTypescaleHeadlineLargeWeight = 400;
     static const mdSysTypescaleHeadlineMediumFamily = Roboto;
+    static const mdSysTypescaleHeadlineMediumLineHeight = 36; /* typescale headline medium line-height */
     static const mdSysTypescaleHeadlineMediumSize = 448.00;
+    static const mdSysTypescaleHeadlineMediumTracking = 0; /* typescale headline medium tracking */
     static const mdSysTypescaleHeadlineMediumWeight = 400;
     static const mdSysTypescaleHeadlineSmallFamily = Roboto;
+    static const mdSysTypescaleHeadlineSmallLineHeight = 32; /*  typescale headline small line height */
     static const mdSysTypescaleHeadlineSmallSize = 384.00;
+    static const mdSysTypescaleHeadlineSmallTracking = 0; /* typescale headline  small.tracking */
     static const mdSysTypescaleHeadlineSmallWeight = 400;
     static const mdSysTypescaleLabelLargeFamily = Roboto;
+    static const mdSysTypescaleLabelLargeLineHeight = 24; /* Typescale label large line height */
     static const mdSysTypescaleLabelLargeSize = 256.00;
+    static const mdSysTypescaleLabelLargeTracking = 0.5; /* Typescale label large tracking */
     static const mdSysTypescaleLabelLargeWeight = 500;
     static const mdSysTypescaleLabelMediumFamily = Roboto;
+    static const mdSysTypescaleLabelMediumLineHeight = 16; /* Typescale label medium line height */
     static const mdSysTypescaleLabelMediumSize = 192.00;
+    static const mdSysTypescaleLabelMediumTracking = 0.5; /* typescale label medium tracking */
     static const mdSysTypescaleLabelMediumWeight = 500;
     static const mdSysTypescaleLabelSmallFamily = Roboto;
+    static const mdSysTypescaleLabelSmallLineHeight = 16; /* typescale label small line height */
+    static const mdSysTypescaleLabelSmallSize = 176.00;
+    static const mdSysTypescaleLabelSmallTracking = 0.5;
     static const mdSysTypescaleLabelSmallWeight = 500;
     static const mdSysTypescaleTitleLargeFamily = Roboto;
+    static const mdSysTypescaleTitleLargeLineHeight = 28; /* typescale title large line-height */
     static const mdSysTypescaleTitleLargeSize = 352.00;
+    static const mdSysTypescaleTitleLargeTracking = 0; /* title large tracking */
     static const mdSysTypescaleTitleLargeWeight = 400;
     static const mdSysTypescaleTitleMediumFamily = Roboto;
+    static const mdSysTypescaleTitleMediumLineHeight = 24; /* typescale title medium line-height */
     static const mdSysTypescaleTitleMediumSize = 256.00;
+    static const mdSysTypescaleTitleMediumTracking = 0.15; /* typescale title medium.tracking */
     static const mdSysTypescaleTitleMediumWeight = 500;
     static const mdSysTypescaleTitleSmallFamily = Roboto;
+    static const mdSysTypescaleTitleSmallLineHeight = 20; /* typescale title small line-height */
     static const mdSysTypescaleTitleSmallSize = 224.00;
+    static const mdSysTypescaleTitleSmallTracking = 0.1; /* typescale title small tracking */
     static const mdSysTypescaleTitleSmallWeight = 500;
 }

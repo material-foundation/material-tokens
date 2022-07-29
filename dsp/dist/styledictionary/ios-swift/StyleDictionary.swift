@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 29 Jul 2022 19:31:43 GMT
+// Generated on Fri, 29 Jul 2022 21:16:23 GMT
 
 
 import UIKit
@@ -180,47 +180,78 @@ public class StyleDictionary {
     public static let mdSysColorTertiaryDark = UIColor(red: 0.937, green: 0.722, blue: 0.784, alpha: 1) /* Tertiary */
     public static let mdSysColorTertiaryLight = UIColor(red: 0.490, green: 0.322, blue: 0.376, alpha: 1) /* Tertiary */
     public static let mdSysTypescaleBodyLargeFamily = Roboto
+    public static let mdSysTypescaleBodyLargeLineHeight = 24 /* typescale body large line-height */
     public static let mdSysTypescaleBodyLargeSize = CGFloat(256.00)
+    public static let mdSysTypescaleBodyLargeTracking = 0.5 /* typescale body large tracking */
     public static let mdSysTypescaleBodyLargeWeight = 400
     public static let mdSysTypescaleBodyMediumFamily = Roboto
+    public static let mdSysTypescaleBodyMediumLineHeight = 20 /* typescale body medium line-height */
     public static let mdSysTypescaleBodyMediumSize = CGFloat(224.00)
+    public static let mdSysTypescaleBodyMediumTracking = 0.25 /* typescale body medium.tracking */
     public static let mdSysTypescaleBodyMediumWeight = 400
     public static let mdSysTypescaleBodySmallFamily = Roboto
+    public static let mdSysTypescaleBodySmallLineHeight = 16 /* typescale body small line-height */
     public static let mdSysTypescaleBodySmallSize = CGFloat(192.00)
+    public static let mdSysTypescaleBodySmallTracking = 0.4 /* Typescale body small tracking */
     public static let mdSysTypescaleBodySmallWeight = 400
     public static let mdSysTypescaleDisplayLargeFamily = Roboto
+    public static let mdSysTypescaleDisplayLargeLineHeight = 64 /* typescale display large line-height */
     public static let mdSysTypescaleDisplayLargeSize = CGFloat(912.00)
+    public static let mdSysTypescaleDisplayLargeTracking = 0 /* typescale display large tracking */
     public static let mdSysTypescaleDisplayLargeWeight = 400
     public static let mdSysTypescaleDisplayMediumFamily = Roboto
+    public static let mdSysTypescaleDisplayMediumLineHeight = 52 /* typescale display medium line height */
     public static let mdSysTypescaleDisplayMediumSize = CGFloat(720.00)
+    public static let mdSysTypescaleDisplayMediumTracking = 0
     public static let mdSysTypescaleDisplayMediumWeight = 400
     public static let mdSysTypescaleDisplaySmallFamily = Roboto
+    public static let mdSysTypescaleDisplaySmallLineHeight = 44 /* typescale display small line-height */
     public static let mdSysTypescaleDisplaySmallSize = CGFloat(576.00)
+    public static let mdSysTypescaleDisplaySmallTracking = 0 /* typescale display-small tracking */
     public static let mdSysTypescaleDisplaySmallWeight = 400
     public static let mdSysTypescaleHeadlineLargeFamily = Roboto
+    public static let mdSysTypescaleHeadlineLargeLineHeight = 40 /* typescale headline large line height */
     public static let mdSysTypescaleHeadlineLargeSize = CGFloat(512.00)
+    public static let mdSysTypescaleHeadlineLargeTracking = 0 /* typescale headline large tracking */
     public static let mdSysTypescaleHeadlineLargeWeight = 400
     public static let mdSysTypescaleHeadlineMediumFamily = Roboto
+    public static let mdSysTypescaleHeadlineMediumLineHeight = 36 /* typescale headline medium line-height */
     public static let mdSysTypescaleHeadlineMediumSize = CGFloat(448.00)
+    public static let mdSysTypescaleHeadlineMediumTracking = 0 /* typescale headline medium tracking */
     public static let mdSysTypescaleHeadlineMediumWeight = 400
     public static let mdSysTypescaleHeadlineSmallFamily = Roboto
+    public static let mdSysTypescaleHeadlineSmallLineHeight = 32 /*  typescale headline small line height */
     public static let mdSysTypescaleHeadlineSmallSize = CGFloat(384.00)
+    public static let mdSysTypescaleHeadlineSmallTracking = 0 /* typescale headline  small.tracking */
     public static let mdSysTypescaleHeadlineSmallWeight = 400
     public static let mdSysTypescaleLabelLargeFamily = Roboto
+    public static let mdSysTypescaleLabelLargeLineHeight = 24 /* Typescale label large line height */
     public static let mdSysTypescaleLabelLargeSize = CGFloat(256.00)
+    public static let mdSysTypescaleLabelLargeTracking = 0.5 /* Typescale label large tracking */
     public static let mdSysTypescaleLabelLargeWeight = 500
     public static let mdSysTypescaleLabelMediumFamily = Roboto
+    public static let mdSysTypescaleLabelMediumLineHeight = 16 /* Typescale label medium line height */
     public static let mdSysTypescaleLabelMediumSize = CGFloat(192.00)
+    public static let mdSysTypescaleLabelMediumTracking = 0.5 /* typescale label medium tracking */
     public static let mdSysTypescaleLabelMediumWeight = 500
     public static let mdSysTypescaleLabelSmallFamily = Roboto
+    public static let mdSysTypescaleLabelSmallLineHeight = 16 /* typescale label small line height */
+    public static let mdSysTypescaleLabelSmallSize = CGFloat(176.00)
+    public static let mdSysTypescaleLabelSmallTracking = 0.5
     public static let mdSysTypescaleLabelSmallWeight = 500
     public static let mdSysTypescaleTitleLargeFamily = Roboto
+    public static let mdSysTypescaleTitleLargeLineHeight = 28 /* typescale title large line-height */
     public static let mdSysTypescaleTitleLargeSize = CGFloat(352.00)
+    public static let mdSysTypescaleTitleLargeTracking = 0 /* title large tracking */
     public static let mdSysTypescaleTitleLargeWeight = 400
     public static let mdSysTypescaleTitleMediumFamily = Roboto
+    public static let mdSysTypescaleTitleMediumLineHeight = 24 /* typescale title medium line-height */
     public static let mdSysTypescaleTitleMediumSize = CGFloat(256.00)
+    public static let mdSysTypescaleTitleMediumTracking = 0.15 /* typescale title medium.tracking */
     public static let mdSysTypescaleTitleMediumWeight = 500
     public static let mdSysTypescaleTitleSmallFamily = Roboto
+    public static let mdSysTypescaleTitleSmallLineHeight = 20 /* typescale title small line-height */
     public static let mdSysTypescaleTitleSmallSize = CGFloat(224.00)
+    public static let mdSysTypescaleTitleSmallTracking = 0.1 /* typescale title small tracking */
     public static let mdSysTypescaleTitleSmallWeight = 500
 }

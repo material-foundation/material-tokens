@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Jul 2022 19:31:43 GMT
+ * Generated on Fri, 29 Jul 2022 21:16:23 GMT
  */
 
 :root {
@@ -198,6 +198,7 @@
   --md-sys-typescale-display-medium-weight: 400;
   --md-sys-typescale-display-large-family: Roboto;
   --md-sys-typescale-display-large-weight: 400;
+  --md-sys-typescale-label-small-size: 11rem;
   --md-sys-typescale-label-medium-size: 12rem;
   --md-sys-typescale-label-large-size: 16rem;
   --md-sys-typescale-body-small-size: 12rem;
@@ -217,4 +218,34 @@
   --md-ref-typeface-weight-bold: 700; /* Bold weight */
   --md-ref-typeface-weight-medium: 500; /* Medium weight */
   --md-ref-typeface-weight-regular: 400; /* Regular weight */
+  --md-sys-typescale-label-small-tracking: 0.5;
+  --md-sys-typescale-label-small-line-height: 16; /* typescale label small line height */
+  --md-sys-typescale-label-medium-line-height: 16; /* Typescale label medium line height */
+  --md-sys-typescale-label-medium-tracking: 0.5; /* typescale label medium tracking */
+  --md-sys-typescale-label-large-line-height: 24; /* Typescale label large line height */
+  --md-sys-typescale-label-large-tracking: 0.5; /* Typescale label large tracking */
+  --md-sys-typescale-body-small-tracking: 0.4; /* Typescale body small tracking */
+  --md-sys-typescale-body-small-line-height: 16; /* typescale body small line-height */
+  --md-sys-typescale-body-medium-line-height: 20; /* typescale body medium line-height */
+  --md-sys-typescale-body-medium-tracking: 0.25; /* typescale body medium.tracking */
+  --md-sys-typescale-body-large-line-height: 24; /* typescale body large line-height */
+  --md-sys-typescale-body-large-tracking: 0.5; /* typescale body large tracking */
+  --md-sys-typescale-title-small-line-height: 20; /* typescale title small line-height */
+  --md-sys-typescale-title-small-tracking: 0.1; /* typescale title small tracking */
+  --md-sys-typescale-title-medium-line-height: 24; /* typescale title medium line-height */
+  --md-sys-typescale-title-medium-tracking: 0.15; /* typescale title medium.tracking */
+  --md-sys-typescale-title-large-line-height: 28; /* typescale title large line-height */
+  --md-sys-typescale-title-large-tracking: 0; /* title large tracking */
+  --md-sys-typescale-headline-small-line-height: 32; /*  typescale headline small line height */
+  --md-sys-typescale-headline-small-tracking: 0; /* typescale headline  small.tracking */
+  --md-sys-typescale-headline-medium-line-height: 36; /* typescale headline medium line-height */
+  --md-sys-typescale-headline-medium-tracking: 0; /* typescale headline medium tracking */
+  --md-sys-typescale-headline-large-line-height: 40; /* typescale headline large line height */
+  --md-sys-typescale-headline-large-tracking: 0; /* typescale headline large tracking */
+  --md-sys-typescale-display-small-line-height: 44; /* typescale display small line-height */
+  --md-sys-typescale-display-small-tracking: 0; /* typescale display-small tracking */
+  --md-sys-typescale-display-medium-line-height: 52; /* typescale display medium line height */
+  --md-sys-typescale-display-medium-tracking: 0;
+  --md-sys-typescale-display-large-line-height: 64; /* typescale display large line-height */
+  --md-sys-typescale-display-large-tracking: 0; /* typescale display large tracking */
 }

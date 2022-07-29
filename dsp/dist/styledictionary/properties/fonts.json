@@ -123,6 +123,9 @@
   },
   "size": {
     "font": {
+      "md_sys_typescale_label-small": {
+        "value": "11"
+      },
       "md_sys_typescale_label-medium": {
         "value": "12"
       },
