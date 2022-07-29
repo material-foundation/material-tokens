@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 30 Mar 2022 17:36:39 GMT
+ * Generated on Fri, 29 Jul 2022 19:31:43 GMT
  */
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
@@ -197,6 +197,20 @@ export const MdSysTypescaleDisplayMediumFamily = "Roboto";
 export const MdSysTypescaleDisplayMediumWeight = "400";
 export const MdSysTypescaleDisplayLargeFamily = "Roboto";
 export const MdSysTypescaleDisplayLargeWeight = "400";
+export const MdSysTypescaleLabelMediumSize = "12rem";
+export const MdSysTypescaleLabelLargeSize = "16rem";
+export const MdSysTypescaleBodySmallSize = "12rem";
+export const MdSysTypescaleBodyMediumSize = "14rem";
+export const MdSysTypescaleBodyLargeSize = "16rem";
+export const MdSysTypescaleTitleSmallSize = "14rem";
+export const MdSysTypescaleTitleMediumSize = "16rem";
+export const MdSysTypescaleTitleLargeSize = "22rem";
+export const MdSysTypescaleHeadlineSmallSize = "24rem";
+export const MdSysTypescaleHeadlineMediumSize = "28rem";
+export const MdSysTypescaleHeadlineLargeSize = "32rem";
+export const MdSysTypescaleDisplaySmallSize = "36rem";
+export const MdSysTypescaleDisplayMediumSize = "45rem";
+export const MdSysTypescaleDisplayLargeSize = "57rem";
 export const MdRefTypefacePlain = "Roboto"; // Plain typeface
 export const MdRefTypefaceBrand = "Roboto"; // Brand typeface
 export const MdRefTypefaceWeightBold = "700"; // Bold weight

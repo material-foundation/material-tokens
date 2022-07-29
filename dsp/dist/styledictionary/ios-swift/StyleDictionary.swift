@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 30 Mar 2022 17:36:39 GMT
+// Generated on Fri, 29 Jul 2022 19:31:43 GMT
 
 
 import UIKit
@@ -180,33 +180,47 @@ public class StyleDictionary {
     public static let mdSysColorTertiaryDark = UIColor(red: 0.937, green: 0.722, blue: 0.784, alpha: 1) /* Tertiary */
     public static let mdSysColorTertiaryLight = UIColor(red: 0.490, green: 0.322, blue: 0.376, alpha: 1) /* Tertiary */
     public static let mdSysTypescaleBodyLargeFamily = Roboto
+    public static let mdSysTypescaleBodyLargeSize = CGFloat(256.00)
     public static let mdSysTypescaleBodyLargeWeight = 400
     public static let mdSysTypescaleBodyMediumFamily = Roboto
+    public static let mdSysTypescaleBodyMediumSize = CGFloat(224.00)
     public static let mdSysTypescaleBodyMediumWeight = 400
     public static let mdSysTypescaleBodySmallFamily = Roboto
+    public static let mdSysTypescaleBodySmallSize = CGFloat(192.00)
     public static let mdSysTypescaleBodySmallWeight = 400
     public static let mdSysTypescaleDisplayLargeFamily = Roboto
+    public static let mdSysTypescaleDisplayLargeSize = CGFloat(912.00)
     public static let mdSysTypescaleDisplayLargeWeight = 400
     public static let mdSysTypescaleDisplayMediumFamily = Roboto
+    public static let mdSysTypescaleDisplayMediumSize = CGFloat(720.00)
     public static let mdSysTypescaleDisplayMediumWeight = 400
     public static let mdSysTypescaleDisplaySmallFamily = Roboto
+    public static let mdSysTypescaleDisplaySmallSize = CGFloat(576.00)
     public static let mdSysTypescaleDisplaySmallWeight = 400
     public static let mdSysTypescaleHeadlineLargeFamily = Roboto
+    public static let mdSysTypescaleHeadlineLargeSize = CGFloat(512.00)
     public static let mdSysTypescaleHeadlineLargeWeight = 400
     public static let mdSysTypescaleHeadlineMediumFamily = Roboto
+    public static let mdSysTypescaleHeadlineMediumSize = CGFloat(448.00)
     public static let mdSysTypescaleHeadlineMediumWeight = 400
     public static let mdSysTypescaleHeadlineSmallFamily = Roboto
+    public static let mdSysTypescaleHeadlineSmallSize = CGFloat(384.00)
     public static let mdSysTypescaleHeadlineSmallWeight = 400
     public static let mdSysTypescaleLabelLargeFamily = Roboto
+    public static let mdSysTypescaleLabelLargeSize = CGFloat(256.00)
     public static let mdSysTypescaleLabelLargeWeight = 500
     public static let mdSysTypescaleLabelMediumFamily = Roboto
+    public static let mdSysTypescaleLabelMediumSize = CGFloat(192.00)
     public static let mdSysTypescaleLabelMediumWeight = 500
     public static let mdSysTypescaleLabelSmallFamily = Roboto
     public static let mdSysTypescaleLabelSmallWeight = 500
     public static let mdSysTypescaleTitleLargeFamily = Roboto
+    public static let mdSysTypescaleTitleLargeSize = CGFloat(352.00)
     public static let mdSysTypescaleTitleLargeWeight = 400
     public static let mdSysTypescaleTitleMediumFamily = Roboto
+    public static let mdSysTypescaleTitleMediumSize = CGFloat(256.00)
     public static let mdSysTypescaleTitleMediumWeight = 500
     public static let mdSysTypescaleTitleSmallFamily = Roboto
+    public static let mdSysTypescaleTitleSmallSize = CGFloat(224.00)
     public static let mdSysTypescaleTitleSmallWeight = 500
 }

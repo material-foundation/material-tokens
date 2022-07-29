@@ -122,6 +122,49 @@
     }
   },
   "size": {
-    "font": {}
+    "font": {
+      "md_sys_typescale_label-medium": {
+        "value": "12"
+      },
+      "md_sys_typescale_label-large": {
+        "value": "16"
+      },
+      "md_sys_typescale_body-small": {
+        "value": "12"
+      },
+      "md_sys_typescale_body-medium": {
+        "value": "14"
+      },
+      "md_sys_typescale_body-large": {
+        "value": "16"
+      },
+      "md_sys_typescale_title-small": {
+        "value": "14"
+      },
+      "md_sys_typescale_title-medium": {
+        "value": "16"
+      },
+      "md_sys_typescale_title-large": {
+        "value": "22"
+      },
+      "md_sys_typescale_headline-small": {
+        "value": "24"
+      },
+      "md_sys_typescale_headline-medium": {
+        "value": "28"
+      },
+      "md_sys_typescale_headline-large": {
+        "value": "32"
+      },
+      "md_sys_typescale_display-small": {
+        "value": "36"
+      },
+      "md_sys_typescale_display-medium": {
+        "value": "45"
+      },
+      "md_sys_typescale_display-large": {
+        "value": "57"
+      }
+    }
   }
 }

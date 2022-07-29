@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 30 Mar 2022 17:36:39 GMT
+// Generated on Fri, 29 Jul 2022 19:31:43 GMT
 
 
 
@@ -183,33 +183,47 @@ class StyleDictionary {
     static const mdSysColorTertiaryDark = Color(0xFFEFB8C8); /* Tertiary */
     static const mdSysColorTertiaryLight = Color(0xFF7D5260); /* Tertiary */
     static const mdSysTypescaleBodyLargeFamily = Roboto;
+    static const mdSysTypescaleBodyLargeSize = 256.00;
     static const mdSysTypescaleBodyLargeWeight = 400;
     static const mdSysTypescaleBodyMediumFamily = Roboto;
+    static const mdSysTypescaleBodyMediumSize = 224.00;
     static const mdSysTypescaleBodyMediumWeight = 400;
     static const mdSysTypescaleBodySmallFamily = Roboto;
+    static const mdSysTypescaleBodySmallSize = 192.00;
     static const mdSysTypescaleBodySmallWeight = 400;
     static const mdSysTypescaleDisplayLargeFamily = Roboto;
+    static const mdSysTypescaleDisplayLargeSize = 912.00;
     static const mdSysTypescaleDisplayLargeWeight = 400;
     static const mdSysTypescaleDisplayMediumFamily = Roboto;
+    static const mdSysTypescaleDisplayMediumSize = 720.00;
     static const mdSysTypescaleDisplayMediumWeight = 400;
     static const mdSysTypescaleDisplaySmallFamily = Roboto;
+    static const mdSysTypescaleDisplaySmallSize = 576.00;
     static const mdSysTypescaleDisplaySmallWeight = 400;
     static const mdSysTypescaleHeadlineLargeFamily = Roboto;
+    static const mdSysTypescaleHeadlineLargeSize = 512.00;
     static const mdSysTypescaleHeadlineLargeWeight = 400;
     static const mdSysTypescaleHeadlineMediumFamily = Roboto;
+    static const mdSysTypescaleHeadlineMediumSize = 448.00;
     static const mdSysTypescaleHeadlineMediumWeight = 400;
     static const mdSysTypescaleHeadlineSmallFamily = Roboto;
+    static const mdSysTypescaleHeadlineSmallSize = 384.00;
     static const mdSysTypescaleHeadlineSmallWeight = 400;
     static const mdSysTypescaleLabelLargeFamily = Roboto;
+    static const mdSysTypescaleLabelLargeSize = 256.00;
     static const mdSysTypescaleLabelLargeWeight = 500;
     static const mdSysTypescaleLabelMediumFamily = Roboto;
+    static const mdSysTypescaleLabelMediumSize = 192.00;
     static const mdSysTypescaleLabelMediumWeight = 500;
     static const mdSysTypescaleLabelSmallFamily = Roboto;
     static const mdSysTypescaleLabelSmallWeight = 500;
     static const mdSysTypescaleTitleLargeFamily = Roboto;
+    static const mdSysTypescaleTitleLargeSize = 352.00;
     static const mdSysTypescaleTitleLargeWeight = 400;
     static const mdSysTypescaleTitleMediumFamily = Roboto;
+    static const mdSysTypescaleTitleMediumSize = 256.00;
     static const mdSysTypescaleTitleMediumWeight = 500;
     static const mdSysTypescaleTitleSmallFamily = Roboto;
+    static const mdSysTypescaleTitleSmallSize = 224.00;
     static const mdSysTypescaleTitleSmallWeight = 500;
 }
