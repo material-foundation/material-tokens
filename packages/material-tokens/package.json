@@ -1,0 +1,26 @@
+{
+  "name": "@jmsstudiosinc/material-tokens",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "yerloveraaa <yerloveraaa@gmail.com>",
+  "homepage": "https://github.com/JmsStudiosInc/material-tokens/tree/main/packages/material-tokens#readme",
+  "license": "ISC",
+  "main": "lib/material-tokens.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JmsStudiosInc/material-tokens.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/JmsStudiosInc/material-tokens/issues"
+  }
+}
