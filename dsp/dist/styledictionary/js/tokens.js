@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Jul 2022 21:16:23 GMT
+ * Generated on Wed, 24 Aug 2022 20:33:41 GMT
  */
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
@@ -199,7 +199,7 @@ export const MdSysTypescaleDisplayLargeFamily = "Roboto";
 export const MdSysTypescaleDisplayLargeWeight = "400";
 export const MdSysTypescaleLabelSmallSize = "11rem";
 export const MdSysTypescaleLabelMediumSize = "12rem";
-export const MdSysTypescaleLabelLargeSize = "16rem";
+export const MdSysTypescaleLabelLargeSize = "14rem";
 export const MdSysTypescaleBodySmallSize = "12rem";
 export const MdSysTypescaleBodyMediumSize = "14rem";
 export const MdSysTypescaleBodyLargeSize = "16rem";
@@ -221,8 +221,8 @@ export const MdSysTypescaleLabelSmallTracking = "0.5";
 export const MdSysTypescaleLabelSmallLineHeight = "16"; // typescale label small line height
 export const MdSysTypescaleLabelMediumLineHeight = "16"; // Typescale label medium line height
 export const MdSysTypescaleLabelMediumTracking = "0.5"; // typescale label medium tracking
-export const MdSysTypescaleLabelLargeLineHeight = "24"; // Typescale label large line height
-export const MdSysTypescaleLabelLargeTracking = "0.5"; // Typescale label large tracking
+export const MdSysTypescaleLabelLargeLineHeight = "20"; // Typescale label large line height
+export const MdSysTypescaleLabelLargeTracking = "0.1"; // Typescale label large tracking
 export const MdSysTypescaleBodySmallTracking = "0.4"; // Typescale body small tracking
 export const MdSysTypescaleBodySmallLineHeight = "16"; // typescale body small line-height
 export const MdSysTypescaleBodyMediumLineHeight = "20"; // typescale body medium line-height

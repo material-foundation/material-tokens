@@ -88,8 +88,8 @@
       "type": "font",
       "id": "md.sys.typescale.label-large",
       "name": "md.sys.typescale.label-large",
-      "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated": "2022-08-24T20:33:37.993Z",
+      "last_updated_by": "",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
@@ -101,22 +101,22 @@
           "key": "label-large"
         },
         {
-          "id": "md.sys.typescale.label-large.size",
-          "type": "custom",
-          "value": "16",
-          "key": "size"
+          "id": "md.sys.typescale.label-large-family",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain}",
+          "key": "family"
         },
         {
-          "id": "md.sys.typescale.label-large.weight",
+          "id": "md.sys.typescale.label-large-weight",
           "type": "alias",
           "value": "{md.ref.typeface.weight-medium}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.label-large.font",
-          "type": "alias",
-          "value": "{md.ref.typeface.plain}",
-          "key": "family"
+          "id": "md.sys.typescale.label-large-size",
+          "type": "custom",
+          "value": "14",
+          "key": "size"
         }
       ]
     },

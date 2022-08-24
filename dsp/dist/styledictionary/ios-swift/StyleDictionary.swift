@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 29 Jul 2022 21:16:23 GMT
+// Generated on Wed, 24 Aug 2022 20:33:41 GMT
 
 
 import UIKit
@@ -225,9 +225,9 @@ public class StyleDictionary {
     public static let mdSysTypescaleHeadlineSmallTracking = 0 /* typescale headline  small.tracking */
     public static let mdSysTypescaleHeadlineSmallWeight = 400
     public static let mdSysTypescaleLabelLargeFamily = Roboto
-    public static let mdSysTypescaleLabelLargeLineHeight = 24 /* Typescale label large line height */
-    public static let mdSysTypescaleLabelLargeSize = CGFloat(256.00)
-    public static let mdSysTypescaleLabelLargeTracking = 0.5 /* Typescale label large tracking */
+    public static let mdSysTypescaleLabelLargeLineHeight = 20 /* Typescale label large line height */
+    public static let mdSysTypescaleLabelLargeSize = CGFloat(224.00)
+    public static let mdSysTypescaleLabelLargeTracking = 0.1 /* Typescale label large tracking */
     public static let mdSysTypescaleLabelLargeWeight = 500
     public static let mdSysTypescaleLabelMediumFamily = Roboto
     public static let mdSysTypescaleLabelMediumLineHeight = 16 /* Typescale label medium line height */

@@ -2,12 +2,12 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 29 Jul 2022 21:16:23 GMT
+  Generated on Wed, 24 Aug 2022 20:33:41 GMT
 -->
 <resources>
   <dimen name="md_sys_typescale_label_small_size">176.00sp</dimen>
   <dimen name="md_sys_typescale_label_medium_size">192.00sp</dimen>
-  <dimen name="md_sys_typescale_label_large_size">256.00sp</dimen>
+  <dimen name="md_sys_typescale_label_large_size">224.00sp</dimen>
   <dimen name="md_sys_typescale_body_small_size">192.00sp</dimen>
   <dimen name="md_sys_typescale_body_medium_size">224.00sp</dimen>
   <dimen name="md_sys_typescale_body_large_size">256.00sp</dimen>

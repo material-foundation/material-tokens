@@ -36,11 +36,11 @@
       "comment": "typescale label medium tracking"
     },
     "md_sys_typescale_label-large_line-height": {
-      "value": "24",
+      "value": "20",
       "comment": "Typescale label large line height"
     },
     "md_sys_typescale_label-large_tracking": {
-      "value": "0.5",
+      "value": "0.1",
       "comment": "Typescale label large tracking"
     },
     "md_sys_typescale_body-small_tracking": {

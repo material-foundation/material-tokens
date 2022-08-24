@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 29 Jul 2022 21:16:23 GMT
+// Generated on Wed, 24 Aug 2022 20:33:41 GMT
 
 
 
@@ -228,9 +228,9 @@ class StyleDictionary {
     static const mdSysTypescaleHeadlineSmallTracking = 0; /* typescale headline  small.tracking */
     static const mdSysTypescaleHeadlineSmallWeight = 400;
     static const mdSysTypescaleLabelLargeFamily = Roboto;
-    static const mdSysTypescaleLabelLargeLineHeight = 24; /* Typescale label large line height */
-    static const mdSysTypescaleLabelLargeSize = 256.00;
-    static const mdSysTypescaleLabelLargeTracking = 0.5; /* Typescale label large tracking */
+    static const mdSysTypescaleLabelLargeLineHeight = 20; /* Typescale label large line height */
+    static const mdSysTypescaleLabelLargeSize = 224.00;
+    static const mdSysTypescaleLabelLargeTracking = 0.1; /* Typescale label large tracking */
     static const mdSysTypescaleLabelLargeWeight = 500;
     static const mdSysTypescaleLabelMediumFamily = Roboto;
     static const mdSysTypescaleLabelMediumLineHeight = 16; /* Typescale label medium line height */
