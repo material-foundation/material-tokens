@@ -1,0 +1,207 @@
+{
+  "md.comp.filled-text-field.supporting-text.type": {
+    "description": "Filled text field supporting text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.filled-text-field.supporting-text.font",
+      "fontWeightTokenName": "md.comp.filled-text-field.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.filled-text-field.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.filled-text-field.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.filled-text-field.supporting-text.line-height"
+    }
+  },
+  "md.comp.filled-text-field.container.height": {
+    "description": "Filled text field container height",
+    "value": {
+      "value": 56,
+      "unit": 1
+    }
+  },
+  "md.comp.filled-text-field.label-text.type": {
+    "description": "Filled text field label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.filled-text-field.label-text.font",
+      "fontWeightTokenName": "md.comp.filled-text-field.label-text.weight",
+      "fontSizeTokenName": "md.comp.filled-text-field.label-text.size",
+      "fontTrackingTokenName": "md.comp.filled-text-field.label-text.tracking",
+      "lineHeightTokenName": "md.comp.filled-text-field.label-text.line-height"
+    }
+  },
+  "md.comp.filled-text-field.label-text.tracking": {
+    "description": "Filled text field label text tracking",
+    "value": "md.sys.typescale.body-large.tracking"
+  },
+  "md.comp.filled-text-field.label-text.weight": {
+    "description": "Filled text field label text weight",
+    "value": "md.sys.typescale.body-large.weight"
+  },
+  "md.comp.filled-text-field.label-text.size": {
+    "description": "Filled text field label text size",
+    "value": "md.sys.typescale.body-large.size"
+  },
+  "md.comp.filled-text-field.label-text.line-height": {
+    "description": "Filled text field label text line height",
+    "value": "md.sys.typescale.body-large.line-height"
+  },
+  "md.comp.filled-text-field.label-text.font": {
+    "description": "Filled text field label text font",
+    "value": "md.sys.typescale.body-large.font"
+  },
+  "md.comp.filled-text-field.error.hover.state-layer.opacity": {
+    "description": "Filled text field error hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.filled-text-field.hover.state-layer.opacity": {
+    "description": "Filled text field hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.filled-text-field.hover.active-indicator.height": {
+    "description": "Filled text field hover active indicator height",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.filled-text-field.focus.active-indicator.height": {
+    "description": "Filled text field focus active indicator height",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.filled-text-field.disabled.trailing-icon.opacity": {
+    "description": "Filled text field disabled trailing icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.filled-text-field.disabled.leading-icon.opacity": {
+    "description": "Filled text field disabled leading icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.filled-text-field.disabled.supporting-text.opacity": {
+    "description": "Filled text field disabled supporting text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.filled-text-field.disabled.input-text.opacity": {
+    "description": "Filled text field disabled input text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.filled-text-field.disabled.label-text.opacity": {
+    "description": "Filled text field disabled label text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.filled-text-field.disabled.active-indicator.opacity": {
+    "description": "Filled text field disabled active indicator opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.filled-text-field.disabled.active-indicator.height": {
+    "description": "Filled text field disabled active indicator height",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.filled-text-field.disabled.container.opacity": {
+    "description": "Filled text field disabled container opacity",
+    "value": 0.03999999910593033
+  },
+  "md.comp.filled-text-field.trailing-icon.size": {
+    "description": "Filled text field trailing icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.filled-text-field.leading-icon.size": {
+    "description": "Filled text field leading icon size",
+    "value": {
+      "value": 20,
+      "unit": 1
+    }
+  },
+  "md.comp.filled-text-field.supporting-text.tracking": {
+    "description": "Filled text field supporting text tracking",
+    "value": "md.sys.typescale.body-small.tracking"
+  },
+  "md.comp.filled-text-field.supporting-text.weight": {
+    "description": "Filled text field supporting text weight",
+    "value": "md.sys.typescale.body-small.weight"
+  },
+  "md.comp.filled-text-field.supporting-text.size": {
+    "description": "Filled text field supporting text size",
+    "value": "md.sys.typescale.body-small.size"
+  },
+  "md.comp.filled-text-field.supporting-text.line-height": {
+    "description": "Filled text field supporting text line height",
+    "value": "md.sys.typescale.body-small.line-height"
+  },
+  "md.comp.filled-text-field.supporting-text.font": {
+    "description": "Filled text field supporting text font",
+    "value": "md.sys.typescale.body-small.font"
+  },
+  "md.comp.filled-text-field.label-text.populated.size": {
+    "description": "Filled text field label text populated size",
+    "value": "md.sys.typescale.body-small.size"
+  },
+  "md.comp.filled-text-field.label-text.populated.line-height": {
+    "description": "Filled text field label text populated line height",
+    "value": "md.sys.typescale.body-small.line-height"
+  },
+  "md.comp.filled-text-field.input-text.type": {
+    "description": "Filled text field input text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.filled-text-field.input-text.font",
+      "fontWeightTokenName": "md.comp.filled-text-field.input-text.weight",
+      "fontSizeTokenName": "md.comp.filled-text-field.input-text.size",
+      "fontTrackingTokenName": "md.comp.filled-text-field.input-text.tracking",
+      "lineHeightTokenName": "md.comp.filled-text-field.input-text.line-height"
+    }
+  },
+  "md.comp.filled-text-field.input-text.tracking": {
+    "description": "Filled text field input text tracking",
+    "value": "md.sys.typescale.body-large.tracking"
+  },
+  "md.comp.filled-text-field.input-text.weight": {
+    "description": "Filled text field input text weight",
+    "value": "md.sys.typescale.body-large.weight"
+  },
+  "md.comp.filled-text-field.input-text.size": {
+    "description": "Filled text field input text size",
+    "value": "md.sys.typescale.body-large.size"
+  },
+  "md.comp.filled-text-field.input-text.line-height": {
+    "description": "Filled text field input text line height",
+    "value": "md.sys.typescale.body-large.line-height"
+  },
+  "md.comp.filled-text-field.input-text.font": {
+    "description": "Filled text field input text font",
+    "value": "md.sys.typescale.body-large.font"
+  },
+  "md.comp.filled-text-field.active-indicator.height": {
+    "description": "Filled text field active indicator height",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.filled-text-field.container.shape": {
+    "description": "Filled text field container shape",
+    "value": "md.sys.shape.corner.extra-small.top"
+  }
+}

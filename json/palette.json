@@ -1,0 +1,882 @@
+{
+  "md.ref.palette.error0": {
+    "description": "Error 0",
+    "value": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error10": {
+    "description": "Error 10",
+    "value": {
+      "red": 0.2549019753932953,
+      "green": 0.054901961237192154,
+      "blue": 0.04313725605607033,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error20": {
+    "description": "Error 20",
+    "value": {
+      "red": 0.3764705955982208,
+      "green": 0.0784313753247261,
+      "blue": 0.062745101749897,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error30": {
+    "description": "Error 30",
+    "value": {
+      "red": 0.5490196347236633,
+      "green": 0.11372549086809158,
+      "blue": 0.0941176488995552,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error40": {
+    "description": "Error 40",
+    "value": {
+      "red": 0.7019608020782471,
+      "green": 0.14901961386203766,
+      "blue": 0.11764705926179886,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error50": {
+    "description": "Error 50",
+    "value": {
+      "red": 0.8627451062202454,
+      "green": 0.21176470816135406,
+      "blue": 0.18039216101169586,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error60": {
+    "description": "Error 60",
+    "value": {
+      "red": 0.8941176533699036,
+      "green": 0.4117647111415863,
+      "blue": 0.3843137323856354,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error70": {
+    "description": "Error 70",
+    "value": {
+      "red": 0.9254902005195618,
+      "green": 0.572549045085907,
+      "blue": 0.5568627715110779,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error80": {
+    "description": "Error 80",
+    "value": {
+      "red": 0.9490196108818054,
+      "green": 0.7215686440467834,
+      "blue": 0.7098039388656616,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error90": {
+    "description": "Error 90",
+    "value": {
+      "red": 0.9764705896377563,
+      "green": 0.8705882430076599,
+      "blue": 0.8627451062202454,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error95": {
+    "description": "Error 95",
+    "value": {
+      "red": 0.9882352948188782,
+      "green": 0.9333333373069763,
+      "blue": 0.9333333373069763,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error99": {
+    "description": "Error 99",
+    "value": {
+      "red": 1,
+      "green": 0.9843137264251709,
+      "blue": 0.9764705896377563,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.error100": {
+    "description": "Error 100",
+    "value": {
+      "red": 1,
+      "green": 1,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary0": {
+    "description": "Tertiary 0",
+    "value": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary10": {
+    "description": "Tertiary 10",
+    "value": {
+      "red": 0.1921568661928177,
+      "green": 0.06666667014360428,
+      "blue": 0.11372549086809158,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary20": {
+    "description": "Tertiary 20",
+    "value": {
+      "red": 0.2862745225429535,
+      "green": 0.14509804546833038,
+      "blue": 0.19607843458652496,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary30": {
+    "description": "Tertiary 30",
+    "value": {
+      "red": 0.38823530077934265,
+      "green": 0.23137255012989044,
+      "blue": 0.2823529541492462,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary40": {
+    "description": "Tertiary 40",
+    "value": {
+      "red": 0.4901960790157318,
+      "green": 0.32156863808631897,
+      "blue": 0.3764705955982208,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary50": {
+    "description": "Tertiary 50",
+    "value": {
+      "red": 0.5960784554481506,
+      "green": 0.4117647111415863,
+      "blue": 0.46666666865348816,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary60": {
+    "description": "Tertiary 60",
+    "value": {
+      "red": 0.7098039388656616,
+      "green": 0.5137255191802979,
+      "blue": 0.572549045085907,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary70": {
+    "description": "Tertiary 70",
+    "value": {
+      "red": 0.8235294222831726,
+      "green": 0.615686297416687,
+      "blue": 0.6745098233222961,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary80": {
+    "description": "Tertiary 80",
+    "value": {
+      "red": 0.9372549057006836,
+      "green": 0.7215686440467834,
+      "blue": 0.7843137383460999,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary90": {
+    "description": "Tertiary 90",
+    "value": {
+      "red": 1,
+      "green": 0.8470588326454163,
+      "blue": 0.8941176533699036,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary95": {
+    "description": "Tertiary 95",
+    "value": {
+      "red": 1,
+      "green": 0.9254902005195618,
+      "blue": 0.9450980424880981,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary99": {
+    "description": "Tertiary 99",
+    "value": {
+      "red": 1,
+      "green": 0.9843137264251709,
+      "blue": 0.9803921580314636,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.tertiary100": {
+    "description": "Tertiary 100",
+    "value": {
+      "red": 1,
+      "green": 1,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary0": {
+    "description": "Secondary 0",
+    "value": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary10": {
+    "description": "Secondary 10",
+    "value": {
+      "red": 0.11372549086809158,
+      "green": 0.09803921729326248,
+      "blue": 0.16862745583057404,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary20": {
+    "description": "Secondary 20",
+    "value": {
+      "red": 0.20000000298023224,
+      "green": 0.1764705926179886,
+      "blue": 0.2549019753932953,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary30": {
+    "description": "Secondary 30",
+    "value": {
+      "red": 0.29019609093666077,
+      "green": 0.2666666805744171,
+      "blue": 0.3450980484485626,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary40": {
+    "description": "Secondary 40",
+    "value": {
+      "red": 0.3843137323856354,
+      "green": 0.35686275362968445,
+      "blue": 0.4431372582912445,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary50": {
+    "description": "Secondary 50",
+    "value": {
+      "red": 0.47843137383461,
+      "green": 0.4470588266849518,
+      "blue": 0.5372549295425415,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary60": {
+    "description": "Secondary 60",
+    "value": {
+      "red": 0.5843137502670288,
+      "green": 0.5529412031173706,
+      "blue": 0.6470588445663452,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary70": {
+    "description": "Secondary 70",
+    "value": {
+      "red": 0.6901960968971252,
+      "green": 0.6549019813537598,
+      "blue": 0.7529411911964417,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary80": {
+    "description": "Secondary 80",
+    "value": {
+      "red": 0.800000011920929,
+      "green": 0.7607843279838562,
+      "blue": 0.8627451062202454,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary90": {
+    "description": "Secondary 90",
+    "value": {
+      "red": 0.9098039269447327,
+      "green": 0.8705882430076599,
+      "blue": 0.9725490212440491,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary95": {
+    "description": "Secondary 95",
+    "value": {
+      "red": 0.9647058844566345,
+      "green": 0.929411768913269,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary99": {
+    "description": "Secondary 99",
+    "value": {
+      "red": 1,
+      "green": 0.9843137264251709,
+      "blue": 0.9960784316062927,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.secondary100": {
+    "description": "Secondary 100",
+    "value": {
+      "red": 1,
+      "green": 1,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary0": {
+    "description": "Primary 0",
+    "value": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary10": {
+    "description": "Primary 10",
+    "value": {
+      "red": 0.12941177189350128,
+      "green": 0,
+      "blue": 0.364705890417099,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary20": {
+    "description": "Primary 20",
+    "value": {
+      "red": 0.21960784494876862,
+      "green": 0.11764705926179886,
+      "blue": 0.4470588266849518,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary30": {
+    "description": "Primary 30",
+    "value": {
+      "red": 0.30980393290519714,
+      "green": 0.21568627655506134,
+      "blue": 0.545098066329956,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary40": {
+    "description": "Primary 40",
+    "value": {
+      "red": 0.40392157435417175,
+      "green": 0.3137255012989044,
+      "blue": 0.6431372761726379,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary50": {
+    "description": "Primary 50",
+    "value": {
+      "red": 0.49803921580314636,
+      "green": 0.40392157435417175,
+      "blue": 0.7450980544090271,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary60": {
+    "description": "Primary 60",
+    "value": {
+      "red": 0.6039215922355652,
+      "green": 0.5098039507865906,
+      "blue": 0.8588235378265381,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary70": {
+    "description": "Primary 70",
+    "value": {
+      "red": 0.7137255072593689,
+      "green": 0.615686297416687,
+      "blue": 0.9725490212440491,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary80": {
+    "description": "Primary 80",
+    "value": {
+      "red": 0.8156862854957581,
+      "green": 0.7372549176216125,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary90": {
+    "description": "Primary 90",
+    "value": {
+      "red": 0.9176470637321472,
+      "green": 0.8666666746139526,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary95": {
+    "description": "Primary 95",
+    "value": {
+      "red": 0.9647058844566345,
+      "green": 0.929411768913269,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary99": {
+    "description": "Primary 99",
+    "value": {
+      "red": 1,
+      "green": 0.9843137264251709,
+      "blue": 0.9960784316062927,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.primary100": {
+    "description": "Primary 100",
+    "value": {
+      "red": 1,
+      "green": 1,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant0": {
+    "description": "Neutral Variant 0",
+    "value": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant10": {
+    "description": "Neutral Variant 10",
+    "value": {
+      "red": 0.11372549086809158,
+      "green": 0.10196078568696976,
+      "blue": 0.13333334028720856,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant20": {
+    "description": "Neutral Variant 20",
+    "value": {
+      "red": 0.19607843458652496,
+      "green": 0.18431372940540314,
+      "blue": 0.21568627655506134,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant30": {
+    "description": "Neutral Variant 30",
+    "value": {
+      "red": 0.2862745225429535,
+      "green": 0.2705882489681244,
+      "blue": 0.30980393290519714,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant40": {
+    "description": "Neutral Variant 40",
+    "value": {
+      "red": 0.3764705955982208,
+      "green": 0.364705890417099,
+      "blue": 0.4000000059604645,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant50": {
+    "description": "Neutral Variant 50",
+    "value": {
+      "red": 0.4745098054409027,
+      "green": 0.45490196347236633,
+      "blue": 0.4941176474094391,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant60": {
+    "description": "Neutral Variant 60",
+    "value": {
+      "red": 0.5764706134796143,
+      "green": 0.5607843399047852,
+      "blue": 0.6000000238418579,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant70": {
+    "description": "Neutral Variant 70",
+    "value": {
+      "red": 0.6823529601097107,
+      "green": 0.6627451181411743,
+      "blue": 0.7058823704719543,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant80": {
+    "description": "Neutral Variant 80",
+    "value": {
+      "red": 0.7921568751335144,
+      "green": 0.7686274647712708,
+      "blue": 0.8156862854957581,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant90": {
+    "description": "Neutral Variant 90",
+    "value": {
+      "red": 0.9058823585510254,
+      "green": 0.8784313797950745,
+      "blue": 0.9254902005195618,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant95": {
+    "description": "Neutral Variant 95",
+    "value": {
+      "red": 0.9607843160629272,
+      "green": 0.9333333373069763,
+      "blue": 0.9803921580314636,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant99": {
+    "description": "Neutral Variant 99",
+    "value": {
+      "red": 1,
+      "green": 0.9843137264251709,
+      "blue": 0.9960784316062927,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral-variant100": {
+    "description": "Neutral Variant 100",
+    "value": {
+      "red": 1,
+      "green": 1,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral0": {
+    "description": "Neutral 0",
+    "value": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral10": {
+    "description": "Neutral 10",
+    "value": {
+      "red": 0.10980392247438431,
+      "green": 0.10588235408067703,
+      "blue": 0.12156862765550613,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral20": {
+    "description": "Neutral 20",
+    "value": {
+      "red": 0.1921568661928177,
+      "green": 0.1882352977991104,
+      "blue": 0.20000000298023224,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral30": {
+    "description": "Neutral 30",
+    "value": {
+      "red": 0.2823529541492462,
+      "green": 0.27450981736183167,
+      "blue": 0.2862745225429535,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral40": {
+    "description": "Neutral 40",
+    "value": {
+      "red": 0.3764705955982208,
+      "green": 0.364705890417099,
+      "blue": 0.3843137323856354,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral50": {
+    "description": "Neutral 50",
+    "value": {
+      "red": 0.47058823704719543,
+      "green": 0.4588235318660736,
+      "blue": 0.4745098054409027,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral60": {
+    "description": "Neutral 60",
+    "value": {
+      "red": 0.5764706134796143,
+      "green": 0.5647059082984924,
+      "blue": 0.5803921818733215,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral70": {
+    "description": "Neutral 70",
+    "value": {
+      "red": 0.6823529601097107,
+      "green": 0.6666666865348816,
+      "blue": 0.6823529601097107,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral80": {
+    "description": "Neutral 80",
+    "value": {
+      "red": 0.7882353067398071,
+      "green": 0.772549033164978,
+      "blue": 0.7921568751335144,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral90": {
+    "description": "Neutral 90",
+    "value": {
+      "red": 0.9019607901573181,
+      "green": 0.8823529481887817,
+      "blue": 0.8980392217636108,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral95": {
+    "description": "Neutral 95",
+    "value": {
+      "red": 0.95686274766922,
+      "green": 0.9372549057006836,
+      "blue": 0.95686274766922,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral99": {
+    "description": "Neutral 99",
+    "value": {
+      "red": 1,
+      "green": 0.9843137264251709,
+      "blue": 0.9960784316062927,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.neutral100": {
+    "description": "Neutral 100",
+    "value": {
+      "red": 1,
+      "green": 1,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.black": {
+    "description": "Black",
+    "value": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": {
+        "value": 1
+      }
+    }
+  },
+  "md.ref.palette.white": {
+    "description": "White",
+    "value": {
+      "red": 1,
+      "green": 1,
+      "blue": 1,
+      "alpha": {
+        "value": 1
+      }
+    }
+  }
+}

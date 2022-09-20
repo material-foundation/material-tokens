@@ -1,0 +1,180 @@
+{
+  "md.comp.dialog.with-divider.divider.height": {
+    "description": "Dialog divider color",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.dialog.subhead.type": {
+    "description": "Subhead type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.dialog.subhead.font",
+      "fontWeightTokenName": "md.comp.dialog.subhead.weight",
+      "fontSizeTokenName": "md.comp.dialog.subhead.size",
+      "fontTrackingTokenName": "md.comp.dialog.subhead.tracking",
+      "lineHeightTokenName": "md.comp.dialog.subhead.line-height"
+    }
+  },
+  "md.comp.dialog.subhead.tracking": {
+    "description": "Dialog subhead tracking",
+    "value": "md.sys.typescale.headline-small.tracking"
+  },
+  "md.comp.dialog.subhead.weight": {
+    "description": "Dialog subhead weight",
+    "value": "md.sys.typescale.headline-small.weight"
+  },
+  "md.comp.dialog.subhead.size": {
+    "description": "Dialog subhead size",
+    "value": "md.sys.typescale.headline-small.size"
+  },
+  "md.comp.dialog.subhead.line-height": {
+    "description": "Dialog subhead line height",
+    "value": "md.sys.typescale.headline-small.line-height"
+  },
+  "md.comp.dialog.subhead.font": {
+    "description": "Dialog subhead font",
+    "value": "md.sys.typescale.headline-small.font"
+  },
+  "md.comp.dialog.headline.type": {
+    "description": "headline type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.dialog.headline.font",
+      "fontWeightTokenName": "md.comp.dialog.headline.weight",
+      "fontSizeTokenName": "md.comp.dialog.headline.size",
+      "fontTrackingTokenName": "md.comp.dialog.headline.tracking",
+      "lineHeightTokenName": "md.comp.dialog.headline.line-height"
+    }
+  },
+  "md.comp.dialog.headline.tracking": {
+    "description": "Dialog headline tracking",
+    "value": "md.sys.typescale.headline-small.tracking"
+  },
+  "md.comp.dialog.headline.weight": {
+    "description": "Dialog headline weight",
+    "value": "md.sys.typescale.headline-small.weight"
+  },
+  "md.comp.dialog.headline.size": {
+    "description": "Dialog headline size",
+    "value": "md.sys.typescale.headline-small.size"
+  },
+  "md.comp.dialog.headline.line-height": {
+    "description": "Dialog headline line height",
+    "value": "md.sys.typescale.headline-small.line-height"
+  },
+  "md.comp.dialog.headline.font": {
+    "description": "Dialog headline font",
+    "value": "md.sys.typescale.headline-small.font"
+  },
+  "md.comp.dialog.action.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.dialog.action.label-text.font",
+      "fontWeightTokenName": "md.comp.dialog.action.label-text.weight",
+      "fontSizeTokenName": "md.comp.dialog.action.label-text.size",
+      "fontTrackingTokenName": "md.comp.dialog.action.label-text.tracking",
+      "lineHeightTokenName": "md.comp.dialog.action.label-text.line-height"
+    }
+  },
+  "md.comp.dialog.supporting-text.type": {
+    "description": "Supporting text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.dialog.supporting-text.font",
+      "fontWeightTokenName": "md.comp.dialog.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.dialog.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.dialog.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.dialog.supporting-text.line-height"
+    }
+  },
+  "md.comp.dialog.action.focus.state-layer.opacity": {
+    "description": "Dialog action focus stte layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.dialog.action.hover.state-layer.opacity": {
+    "description": "Dialog action hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.dialog.action.label-text.tracking": {
+    "description": "Dialog action label text tracking",
+    "value": "md.sys.typescale.label-large.tracking"
+  },
+  "md.comp.dialog.action.label-text.weight": {
+    "description": "Dialog action label text weight",
+    "value": "md.sys.typescale.label-large.weight"
+  },
+  "md.comp.dialog.action.label-text.size": {
+    "description": "Dialog action label text size",
+    "value": "md.sys.typescale.label-large.size"
+  },
+  "md.comp.dialog.action.label-text.line-height": {
+    "description": "Dialog action label text line height",
+    "value": "md.sys.typescale.label-large.line-height"
+  },
+  "md.comp.dialog.action.label-text.font": {
+    "description": "Dialog action label text font",
+    "value": "md.sys.typescale.label-large.font"
+  },
+  "md.comp.dialog.supporting-text.tracking": {
+    "description": "Dialog supporting text tracking",
+    "value": "md.sys.typescale.body-medium.tracking"
+  },
+  "md.comp.dialog.supporting-text.weight": {
+    "description": "Dialog supporting text weight",
+    "value": "md.sys.typescale.body-medium.weight"
+  },
+  "md.comp.dialog.supporting-text.size": {
+    "description": "Dialog supporting text size",
+    "value": "md.sys.typescale.body-medium.size"
+  },
+  "md.comp.dialog.supporting-text.line-height": {
+    "description": "Dialog supporting text line height",
+    "value": "md.sys.typescale.body-medium.line-height"
+  },
+  "md.comp.dialog.supporting-text.font": {
+    "description": "Dialog supporting text font",
+    "value": "md.sys.typescale.body-medium.font"
+  },
+  "md.comp.dialog.with-icon.icon.size": {
+    "description": "Dialog icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.dialog.container.shape": {
+    "description": "Dialog container shape",
+    "value": "md.sys.shape.corner.extra-large"
+  },
+  "md.comp.dialog.container.elevation": {
+    "description": "Dialog container elevation",
+    "value": "md.sys.elevation.level3"
+  },
+  "md.comp.dialog.action.pressed.state-layer.opacity": {
+    "description": "Dialog action pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  }
+}

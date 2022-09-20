@@ -1,0 +1,123 @@
+{
+  "md.comp.assist-chip.dragged.state-layer.opacity": {
+    "description": "Assist chip dragged state layer opacity",
+    "value": "md.sys.state.dragged.state-layer-opacity"
+  },
+  "md.comp.assist-chip.dragged.container.elevation": {
+    "description": "Assist chip dragged container elevation",
+    "value": "md.sys.elevation.level4"
+  },
+  "md.comp.assist-chip.elevated.pressed.container.elevation": {
+    "description": "Assist chip (Elevated style) pressed container elevation",
+    "value": "md.sys.elevation.level1"
+  },
+  "md.comp.assist-chip.pressed.state-layer.opacity": {
+    "description": "Assist chip pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.assist-chip.elevated.focus.container.elevation": {
+    "description": "Assist chip (Elevated style) focus container elevation",
+    "value": "md.sys.elevation.level1"
+  },
+  "md.comp.assist-chip.focus.state-layer.opacity": {
+    "description": "Assist chip focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.assist-chip.elevated.hover.container.elevation": {
+    "description": "Assist chip (Elevated style) hover container elevation",
+    "value": "md.sys.elevation.level2"
+  },
+  "md.comp.assist-chip.hover.state-layer.opacity": {
+    "description": "Assist chip hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.assist-chip.elevated.disabled.container.opacity": {
+    "description": "Assist chip (Elevated style)  disabled container opacity",
+    "value": 0.11999999731779099
+  },
+  "md.comp.assist-chip.elevated.disabled.container.elevation": {
+    "description": "Assist chip (Elevated style)  disabled container elevation",
+    "value": "md.sys.elevation.level0"
+  },
+  "md.comp.assist-chip.with-icon.disabled.icon.opacity": {
+    "description": "Assist chip with icon disabled icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.assist-chip.disabled.label-text.opacity": {
+    "description": "Assist chip disabled label text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.assist-chip.flat.disabled.outline.opacity": {
+    "description": "Assist chip flat diabled outline opacity",
+    "value": 0.11999999731779099
+  },
+  "md.comp.assist-chip.with-icon.icon.size": {
+    "description": "Assist chip icon size",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.assist-chip.label-text.type": {
+    "description": "Assist chip label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.assist-chip.label-text.font",
+      "fontWeightTokenName": "md.comp.assist-chip.label-text.weight",
+      "fontSizeTokenName": "md.comp.assist-chip.label-text.size",
+      "fontTrackingTokenName": "md.comp.assist-chip.label-text.tracking",
+      "lineHeightTokenName": "md.comp.assist-chip.label-text.line-height"
+    }
+  },
+  "md.comp.assist-chip.label-text.tracking": {
+    "description": "Assist chip label text tracking",
+    "value": "md.sys.typescale.label-large.tracking"
+  },
+  "md.comp.assist-chip.label-text.weight": {
+    "description": "Assist chip label text weight",
+    "value": "md.sys.typescale.label-large.weight"
+  },
+  "md.comp.assist-chip.label-text.size": {
+    "description": "Assist chip label text size",
+    "value": "md.sys.typescale.label-large.size"
+  },
+  "md.comp.assist-chip.label-text.line-height": {
+    "description": "Assist chip label text line height",
+    "value": "md.sys.typescale.label-large.line-height"
+  },
+  "md.comp.assist-chip.label-text.font": {
+    "description": "Assist chip label text font",
+    "value": "md.sys.typescale.label-large.font"
+  },
+  "md.comp.assist-chip.elevated.container.elevation": {
+    "description": "(Elevated style) Assist chip container elevation",
+    "value": "md.sys.elevation.level1"
+  },
+  "md.comp.assist-chip.flat.outline.width": {
+    "description": "Assist chip container outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.assist-chip.flat.container.elevation": {
+    "description": "Assist chip container elevation",
+    "value": "md.sys.elevation.level0"
+  },
+  "md.comp.assist-chip.container.height": {
+    "description": "Assist chip container height",
+    "value": {
+      "value": 32,
+      "unit": 1
+    }
+  },
+  "md.comp.assist-chip.container.shape": {
+    "description": "Assist chip container shape",
+    "value": "md.sys.shape.corner.small"
+  }
+}

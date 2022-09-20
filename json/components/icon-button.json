@@ -1,0 +1,48 @@
+{
+  "md.comp.icon-button.selected.pressed.state-layer.opacity": {
+    "description": "Icon button selected pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.icon-button.unselected.pressed.state-layer.opacity": {
+    "description": "Icon button unselected pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.icon-button.selected.focus.state-layer.opacity": {
+    "description": "Icon button selected focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.icon-button.unselected.focus.state-layer.opacity": {
+    "description": "Icon button unselected focus state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.icon-button.selected.hover.state-layer.opacity": {
+    "description": "Icon button selected hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.icon-button.unselected.hover.state-layer.opacity": {
+    "description": "Icon button icon unselected hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.icon-button.state-layer.shape": {
+    "description": "Icon button state layer shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.icon-button.state-layer.size": {
+    "description": "Icon button state layer size",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.icon-button.icon.size": {
+    "description": "Icon button icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.icon-button.disabled.icon.opacity": {
+    "description": "Icon button disabled icon opacity",
+    "value": 0.3799999952316284
+  }
+}

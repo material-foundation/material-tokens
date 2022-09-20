@@ -1,0 +1,329 @@
+{
+  "md.comp.list.list-item.container.height": {
+    "description": "List list item container height",
+    "value": {
+      "value": 56,
+      "unit": 1
+    }
+  },
+  "md.comp.list.md.comp.list.list-item.three-line.container.height": {
+    "description": "Three lines list item container height",
+    "value": {
+      "value": 88,
+      "unit": 1
+    }
+  },
+  "md.comp.list.md.comp.list.list-item.two-line.container.height": {
+    "description": "Two lines list item container height",
+    "value": {
+      "value": 72,
+      "unit": 1
+    }
+  },
+  "md.comp.list.md.comp.list.list-item.one-line.container.height": {
+    "description": "One line list item container height",
+    "value": {
+      "value": 56,
+      "unit": 1
+    }
+  },
+  "md.comp.list.divider.height": {
+    "description": "List list item divider height",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.list.list-item.dragged.container.elevation": {
+    "description": "List list item dragged container color",
+    "value": "md.sys.elevation.level4"
+  },
+  "md.comp.list.list-item.dragged.state-layer.opacity": {
+    "description": "List list item dragged state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.list.list-item.pressed.state-layer.opacity": {
+    "description": "List list item pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.list.list-item.focus.state-layer.opacity": {
+    "description": "List list item focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.list.list-item.hover.state-layer.opacity": {
+    "description": "List list item hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.list.list-item.disabled.trailing-icon.opacity": {
+    "description": "List list item disabled trailing icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.list.list-item.disabled.leading-icon.opacity": {
+    "description": "List list item disabled leading icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.list.list-item.disabled.state-layer.opacity": {
+    "description": "List list item disabled state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.list.list-item.disabled.label-text.opacity": {
+    "description": "List list item disabled label text opacity",
+    "value": 0.30000001192092896
+  },
+  "md.comp.list.list-item.trailing-icon.size": {
+    "description": "List list item trailing icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.list.list-item.trailing-supporting-text.type": {
+    "description": "List list item trailing supporting text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.trailing-supporting-text.font",
+      "fontWeightTokenName": "md.comp.list.list-item.trailing-supporting-text.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.trailing-supporting-text.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.trailing-supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.trailing-supporting-text.line-height"
+    }
+  },
+  "md.comp.list.list-item.trailing-supporting-text.weight": {
+    "description": "List list item trailing supporting text weight",
+    "value": "md.sys.typescale.label-small.weight"
+  },
+  "md.comp.list.list-item.trailing-supporting-text.tracking": {
+    "description": "List list item trailing supporting text tracking",
+    "value": "md.sys.typescale.label-small.tracking"
+  },
+  "md.comp.list.list-item.trailing-supporting-text.size": {
+    "description": "List list item trailing supporting text size",
+    "value": "md.sys.typescale.label-small.size"
+  },
+  "md.comp.list.list-item.trailing-supporting-text.line-height": {
+    "description": "List list item trailing supporting text line height",
+    "value": "md.sys.typescale.label-small.line-height"
+  },
+  "md.comp.list.list-item.trailing-supporting-text.font": {
+    "description": "List list item trailing supporting text font",
+    "value": "md.sys.typescale.label-small.font"
+  },
+  "md.comp.list.list-item.leading-image.shape": {
+    "description": "List list item leading-image shape",
+    "value": "md.sys.shape.corner.none"
+  },
+  "md.comp.list.list-item.leading-image.height": {
+    "description": "List list item leading-image height",
+    "value": {
+      "value": 56,
+      "unit": 1
+    }
+  },
+  "md.comp.list.list-item.leading-image.width": {
+    "description": "List list item leading-image width",
+    "value": {
+      "value": 56,
+      "unit": 1
+    }
+  },
+  "md.comp.list.list-item.leading-avatar-label.type": {
+    "description": "List list item leading avatar label type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.leading-avatar-label.font",
+      "fontWeightTokenName": "md.comp.list.list-item.leading-avatar-label.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.leading-avatar-label.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.leading-avatar-label.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.leading-avatar-label.line-height"
+    }
+  },
+  "md.comp.list.list-item.leading-avatar-label.weight": {
+    "description": "List list item leading avatar label weight",
+    "value": "md.sys.typescale.title-medium.weight"
+  },
+  "md.comp.list.list-item.leading-avatar-label.tracking": {
+    "description": "List list item leading avatar label tracking",
+    "value": "md.sys.typescale.title-medium.tracking"
+  },
+  "md.comp.list.list-item.leading-avatar-label.size": {
+    "description": "List list item leadingavatar label size",
+    "value": "md.sys.typescale.title-medium.size"
+  },
+  "md.comp.list.list-item.leading-avatar-label.line-height": {
+    "description": "List list item leadingavatar label line height",
+    "value": "md.sys.typescale.title-medium.line-height"
+  },
+  "md.comp.list.list-item.leading-avatar-label.font": {
+    "description": "List list item leading avatar label font",
+    "value": "md.sys.typescale.title-medium.font"
+  },
+  "md.comp.list.list-item.leading-avatar.size": {
+    "description": "List list item leading-avatar size",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.list.list-item.leading-avatar.shape": {
+    "description": "List list item leading-avatar shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.list.list-item.leading-video.shape": {
+    "description": "List list item leading-icon shape",
+    "value": "md.sys.shape.corner.none"
+  },
+  "md.comp.list.list-item.large.leading-video.height": {
+    "description": "List list item large leading-icon color",
+    "value": {
+      "value": 69,
+      "unit": 1
+    }
+  },
+  "md.comp.list.list-item.small.leading-video.height": {
+    "description": "List list item small leading-icon height",
+    "value": {
+      "value": 56,
+      "unit": 1
+    }
+  },
+  "md.comp.list.list-item.leading-video.width": {
+    "description": "List list item leading-icon width",
+    "value": {
+      "value": 100,
+      "unit": 1
+    }
+  },
+  "md.comp.list.list-item.leading-icon.size": {
+    "description": "List list item leading-icon size",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.list.list-item.overline.type": {
+    "description": "List list item overline type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.overline.font",
+      "fontWeightTokenName": "md.comp.list.list-item.overline.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.overline.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.overline.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.overline.line-height"
+    }
+  },
+  "md.comp.list.list-item.overline.weight": {
+    "description": "List list item overline weight",
+    "value": "md.sys.typescale.label-small.weight"
+  },
+  "md.comp.list.list-item.overline.tracking": {
+    "description": "List list item overline tracking",
+    "value": "md.sys.typescale.label-small.tracking"
+  },
+  "md.comp.list.list-item.overline.size": {
+    "description": "List list item overline size",
+    "value": "md.sys.typescale.label-small.size"
+  },
+  "md.comp.list.list-item.overline.line-height": {
+    "description": "List list item overline line height",
+    "value": "md.sys.typescale.label-small.line-height"
+  },
+  "md.comp.list.list-item.overline.font": {
+    "description": "List list item overline font",
+    "value": "md.sys.typescale.label-small.font"
+  },
+  "md.comp.list.list-item.supporting-text.type": {
+    "description": "List list item supporting text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.supporting-text.font",
+      "fontWeightTokenName": "md.comp.list.list-item.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.supporting-text.line-height"
+    }
+  },
+  "md.comp.list.list-item.supporting-text.weight": {
+    "description": "List list item supporting text weight",
+    "value": "md.sys.typescale.body-medium.weight"
+  },
+  "md.comp.list.list-item.supporting-text.tracking": {
+    "description": "List list item supporting text tracking",
+    "value": "md.sys.typescale.body-medium.tracking"
+  },
+  "md.comp.list.list-item.supporting-text.size": {
+    "description": "List list item supporting text size",
+    "value": "md.sys.typescale.body-medium.size"
+  },
+  "md.comp.list.list-item.supporting-text.line-height": {
+    "description": "List list item supporting text line height",
+    "value": "md.sys.typescale.body-medium.line-height"
+  },
+  "md.comp.list.list-item.supporting-text.font": {
+    "description": "List list item supporting text font",
+    "value": "md.sys.typescale.body-medium.font"
+  },
+  "md.comp.list.list-item.label-text.type": {
+    "description": "List list item label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.label-text.font",
+      "fontWeightTokenName": "md.comp.list.list-item.label-text.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.label-text.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.label-text.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.label-text.line-height"
+    }
+  },
+  "md.comp.list.list-item.label-text.weight": {
+    "description": "List list item label text weight",
+    "value": "md.sys.typescale.body-large.weight"
+  },
+  "md.comp.list.list-item.label-text.tracking": {
+    "description": "List list item label text tracking",
+    "value": "md.sys.typescale.body-large.tracking"
+  },
+  "md.comp.list.list-item.label-text.size": {
+    "description": "List list item label text size",
+    "value": "md.sys.typescale.body-large.size"
+  },
+  "md.comp.list.list-item.label-text.line-height": {
+    "description": "List list item label text line height",
+    "value": "md.sys.typescale.body-large.line-height"
+  },
+  "md.comp.list.list-item.label-text.font": {
+    "description": "List list item label text font",
+    "value": "md.sys.typescale.body-large.font"
+  },
+  "md.comp.list.list-item.container.elevation": {
+    "description": "List list item container elevation",
+    "value": "md.sys.elevation.level0"
+  },
+  "md.comp.list.list-item.container.shape": {
+    "description": "List list item container shape",
+    "value": "md.sys.shape.corner.none"
+  }
+}

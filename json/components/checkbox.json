@@ -1,0 +1,204 @@
+{
+  "md.comp.checkbox.disabled.unselected.icon.opacity": {
+    "description": "Checkbox disabled unselected icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.checkbox.disabled.selected.icon.opacity": {
+    "description": "Checkbox disabled selected icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.checkbox.selected.error.pressed.outline.width": {
+    "description": "Checkbox selected error pressed outline width",
+    "value": {
+      "value": 0,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.unselected.error.pressed.outline.width": {
+    "description": "Checkbox unselected error pressed outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.error.pressed.state-layer.opacity": {
+    "description": "Checkbox error pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.checkbox.selected.pressed.outline.width": {
+    "description": "Checkbox selected pressed outline width",
+    "value": {
+      "value": 0,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.selected.pressed.state-layer.opacity": {
+    "description": "Checkbox selected pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.checkbox.unselected.pressed.outline.width": {
+    "description": "Checkbox unselected pressed outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.unselected.pressed.state-layer.opacity": {
+    "description": "Checkbox unselected pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.checkbox.selected.error.focus.outline.width": {
+    "description": "Checkbox selected error focus outline width",
+    "value": {
+      "value": 0,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.unselected.error.focus.outline.width": {
+    "description": "Checkbox unselected error focusd outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.selected.focus.outline.width": {
+    "description": "Checkbox selected focus outline width",
+    "value": {
+      "value": 0,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.unselected.focus.outline.width": {
+    "description": "Checkbox unselected focus outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.selected.error.hover.outline.width": {
+    "description": "Checkbox selected error hover outline width",
+    "value": {
+      "value": 0,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.unselected.error.hover.outline.width": {
+    "description": "Checkbox unselected error hover outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.error.hover.state-layer.opacity": {
+    "description": "Checkbox error hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.checkbox.selected.hover.outline.width": {
+    "description": "Checkbox selected hover outline width",
+    "value": {
+      "value": 0,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.unselected.hover.outline.width": {
+    "description": "Checkbox unselected hover outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.selected.disabled.container.outline.width": {
+    "description": "Checkbox selected disabled container outline width",
+    "value": {
+      "value": 0,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.selected.disabled.container.opacity": {
+    "description": "Checkbox selected disabled container opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.checkbox.unselected.disabled.container.opacity": {
+    "description": "Checkbox unselected disabled container opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.checkbox.unselected.disabled.outline.width": {
+    "description": "Checkbox unselected disabled outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.state-layer.shape": {
+    "description": "Checkbox state layer shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.checkbox.icon.size": {
+    "description": "Checkbox icon size",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.selected.outline.width": {
+    "description": "Checkbox selected outline width",
+    "value": {
+      "value": 0,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.unselected.outline.width": {
+    "description": "Checkbox unselected outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.container.shape": {
+    "description": "Checkbox container shape",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 2,
+        "unit": 1
+      }
+    }
+  },
+  "md.comp.checkbox.container.height": {
+    "description": "Checkbox container height",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.container.width": {
+    "description": "Checkbox container width",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.checkbox.unselected.focus.state-layer.opacity": {
+    "description": "Checkbox unselected focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.checkbox.selected.focus.state-layer.opacity": {
+    "description": "Checkbox selected focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.checkbox.unselected.hover.state-layer.opacity": {
+    "description": "Checkbox unselected hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.checkbox.selected.hover.state-layer.opacity": {
+    "description": "Checkbox selected hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.checkbox.state-layer.size": {
+    "description": "Checkbox state layer size",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  }
+}

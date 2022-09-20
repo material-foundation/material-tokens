@@ -1,0 +1,105 @@
+{
+  "md.comp.menu.divider.height": {
+    "description": "Menu divider height",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.menu.list-item.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.menu.list-item.label-text.font",
+      "fontWeightTokenName": "md.comp.menu.list-item.label-text.weight",
+      "fontSizeTokenName": "md.comp.menu.list-item.label-text.size",
+      "fontTrackingTokenName": "md.comp.menu.list-item.label-text.tracking",
+      "lineHeightTokenName": "md.comp.menu.list-item.label-text.line-height"
+    }
+  },
+  "md.comp.menu.list-item.focus.state-layer.opacity": {
+    "description": "Menu list item focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.menu.list-item.hover.state-layer.opacity": {
+    "description": "Menu list item hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.menu.cascading-menu-indicator.icon.size": {
+    "description": "Menu icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.menu.list-item.with-trailing-icon.trailing-icon.size": {
+    "description": "Menu list item trailing icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.menu.list-item.with-leading-icon.leading-icon.size": {
+    "description": "Menu list item leading icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.menu.list-item.label-text.weight": {
+    "description": "Menu list item label text weight",
+    "value": "md.sys.typescale.label-large.weight"
+  },
+  "md.comp.menu.list-item.label-text.tracking": {
+    "description": "Menu list item label text tracking",
+    "value": "md.sys.typescale.label-large.tracking"
+  },
+  "md.comp.menu.list-item.label-text.size": {
+    "description": "Menu list item label text size",
+    "value": "md.sys.typescale.label-large.size"
+  },
+  "md.comp.menu.list-item.label-text.line-height": {
+    "description": "Menu list item label text line height",
+    "value": "md.sys.typescale.label-large.line-height"
+  },
+  "md.comp.menu.list-item.label-text.font": {
+    "description": "Menu list item label text font",
+    "value": "md.sys.typescale.label-large.font"
+  },
+  "md.comp.menu.list-item.container.height": {
+    "description": "Menu list item container height",
+    "value": {
+      "value": 48,
+      "unit": 1
+    }
+  },
+  "md.comp.menu.container.shape": {
+    "description": "Menu container shape",
+    "value": "md.sys.shape.corner.extra-small"
+  },
+  "md.comp.menu.container.elevation": {
+    "description": "Menu container elevation",
+    "value": "md.sys.elevation.level2"
+  },
+  "md.comp.menu.list-item.pressed.state-layer.opacity": {
+    "description": "Menu list item pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.menu.list-item.with-trailing-icon.disabled.trailing-icon.opacity": {
+    "description": "Menu list item disabled trailing icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.menu.list-item.with-leading-icon.disabled.leading-icon.opacity": {
+    "description": "Menu list item disabled leading icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.menu.list-item.disabled.label-text.opacity": {
+    "description": "Menu list item disabled label text opacity",
+    "value": 0.3799999952316284
+  }
+}

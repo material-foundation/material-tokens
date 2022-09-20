@@ -1,0 +1,110 @@
+{
+  "md.comp.date-input.modal.header.container.height": {
+    "description": "Header container height",
+    "value": {
+      "value": 120,
+      "unit": 1
+    }
+  },
+  "md.comp.date-input.modal.header.container.width": {
+    "description": "Header container width",
+    "value": {
+      "value": 328,
+      "unit": 1
+    }
+  },
+  "md.comp.date-input.modal.container.height": {
+    "description": "Container height",
+    "value": {
+      "value": 512,
+      "unit": 1
+    }
+  },
+  "md.comp.date-input.modal.container.width": {
+    "description": "Container width",
+    "value": {
+      "value": 328,
+      "unit": 1
+    }
+  },
+  "md.comp.date-input.modal.header.headline.type": {
+    "description": "Header headline type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.date-input.modal.header.headline.font",
+      "fontWeightTokenName": "md.comp.date-input.modal.header.headline.weight",
+      "fontSizeTokenName": "md.comp.date-input.modal.header.headline.size",
+      "fontTrackingTokenName": "md.comp.date-input.modal.header.headline.tracking",
+      "lineHeightTokenName": "md.comp.date-input.modal.header.headline.line-height"
+    }
+  },
+  "md.comp.date-input.modal.header.headline.tracking": {
+    "description": "Header headline tracking",
+    "value": "md.sys.typescale.headline-large.tracking"
+  },
+  "md.comp.date-input.modal.header.headline.weight": {
+    "description": "Header headline weight",
+    "value": "md.sys.typescale.headline-large.weight"
+  },
+  "md.comp.date-input.modal.header.headline.size": {
+    "description": "Header headline size",
+    "value": "md.sys.typescale.headline-large.size"
+  },
+  "md.comp.date-input.modal.header.headline.line-height": {
+    "description": "Header headline line height",
+    "value": "md.sys.typescale.headline-large.line-height"
+  },
+  "md.comp.date-input.modal.header.headline.font": {
+    "description": "Header headline font",
+    "value": "md.sys.typescale.headline-large.font"
+  },
+  "md.comp.date-input.modal.header.supporting-text.type": {
+    "description": "Header supporting text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.date-input.modal.header.supporting-text.font",
+      "fontWeightTokenName": "md.comp.date-input.modal.header.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.date-input.modal.header.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.date-input.modal.header.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.date-input.modal.header.supporting-text.line-height"
+    }
+  },
+  "md.comp.date-input.modal.header.supporting-text.tracking": {
+    "description": "Header supporting text tracking",
+    "value": "md.sys.typescale.label-medium.tracking"
+  },
+  "md.comp.date-input.modal.header.supporting-text.weight": {
+    "description": "Header supporting text weight",
+    "value": "md.sys.typescale.label-medium.weight"
+  },
+  "md.comp.date-input.modal.header.supporting-text.size": {
+    "description": "Header supporting text size",
+    "value": "md.sys.typescale.label-medium.size"
+  },
+  "md.comp.date-input.modal.header.supporting-text.line-height": {
+    "description": "Header supporting text line height",
+    "value": "md.sys.typescale.label-medium.line-height"
+  },
+  "md.comp.date-input.modal.header.supporting-text.font": {
+    "description": "Header supporting text font",
+    "value": "md.sys.typescale.label-medium.font"
+  },
+  "md.comp.date-input.modal.container.shape": {
+    "description": "Container shape",
+    "value": "md.sys.shape.corner.extra-large"
+  },
+  "md.comp.date-input.modal.container.elevation": {
+    "description": "Container elevation",
+    "value": "md.sys.elevation.level3"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "md.comp.elevated-card.disabled.container.opacity": {
+    "description": "Elevated card disabled container opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.elevated-card.disabled.container.elevation": {
+    "description": "Elevated card disabled container elevation",
+    "value": "md.sys.elevation.level1"
+  },
+  "md.comp.elevated-card.icon.size": {
+    "description": "Elevated card icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.elevated-card.focus.state-layer.opacity": {
+    "description": "Elevated card focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.elevated-card.focus.container.elevation": {
+    "description": "Elevated card focus container elevation",
+    "value": "md.sys.elevation.level1"
+  },
+  "md.comp.elevated-card.hover.state-layer.opacity": {
+    "description": "Elevated card hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.elevated-card.hover.container.elevation": {
+    "description": "Elevated card hover container elevation",
+    "value": "md.sys.elevation.level2"
+  },
+  "md.comp.elevated-card.container.shape": {
+    "description": "Elevated card container shape",
+    "value": "md.sys.shape.corner.medium"
+  },
+  "md.comp.elevated-card.container.elevation": {
+    "description": "Elevated card container elevation",
+    "value": "md.sys.elevation.level1"
+  },
+  "md.comp.elevated-card.dragged.state-layer.opacity": {
+    "description": "Elevated card dragged state layer opacity",
+    "value": "md.sys.state.dragged.state-layer-opacity"
+  },
+  "md.comp.elevated-card.dragged.container.elevation": {
+    "description": "Elevated card dragged container elevation",
+    "value": "md.sys.elevation.level4"
+  },
+  "md.comp.elevated-card.pressed.state-layer.opacity": {
+    "description": "Elevated card pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.elevated-card.pressed.container.elevation": {
+    "description": "Elevated card pressed container elevation",
+    "value": "md.sys.elevation.level1"
+  }
+}

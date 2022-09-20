@@ -1,0 +1,40 @@
+{
+  "md.comp.filled-icon-button.pressed.state-layer.opacity": {
+    "description": "Filled icon button pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.filled-icon-button.focus.state-layer.opacity": {
+    "description": "Filled icon button focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.filled-icon-button.hover.state-layer.opacity": {
+    "description": "Filled icon button hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.filled-icon-button.disabled.container.opacity": {
+    "description": "Filled icon button disabled container opacity",
+    "value": 0.11999999731779099
+  },
+  "md.comp.filled-icon-button.disabled.icon.opacity": {
+    "description": "Filled icon button disabled icon color",
+    "value": 0.3799999952316284
+  },
+  "md.comp.filled-icon-button.container.shape": {
+    "description": "Filled icon button container shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.filled-icon-button.container.size": {
+    "description": "Filled icon button container size",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.filled-icon-button.icon.size": {
+    "description": "Filled icon button icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  }
+}

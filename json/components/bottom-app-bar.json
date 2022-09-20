@@ -1,0 +1,24 @@
+{
+  "md.comp.bottom-app-bar.with-fab.container.height": {
+    "description": "Bottom app bar with FAB container height",
+    "value": {
+      "value": 72,
+      "unit": 1
+    }
+  },
+  "md.comp.bottom-app-bar.container.height": {
+    "description": "Bottom app bar container height",
+    "value": {
+      "value": 80,
+      "unit": 1
+    }
+  },
+  "md.comp.bottom-app-bar.container.elevation": {
+    "description": "Bottom app bar container elevation",
+    "value": "md.sys.elevation.level2"
+  },
+  "md.comp.bottom-app-bar.container.shape": {
+    "description": "Bottom app bar container shape",
+    "value": "md.sys.shape.corner.none"
+  }
+}

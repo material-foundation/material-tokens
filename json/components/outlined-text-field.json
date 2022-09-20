@@ -1,0 +1,195 @@
+{
+  "md.comp.outlined-text-field.container.height": {
+    "description": "Outlined text field container height",
+    "value": {
+      "value": 56,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-text-field.hover.outline.width": {
+    "description": "Outlined text field hover outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-text-field.focus.outline.width": {
+    "description": "Outlined text field focus outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-text-field.disabled.trailing-icon.opacity": {
+    "description": "Outlined text field disabled trailing-icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-text-field.disabled.leading-icon.opacity": {
+    "description": "Outlined text field disabled leading icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-text-field.disabled.supporting-text.opacity": {
+    "description": "Outlined text field disabled supporting text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-text-field.disabled.input-text.opacity": {
+    "description": "Outlined text field disabled input text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-text-field.disabled.label-text.opacity": {
+    "description": "Outlined text field disabled label text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-text-field.disabled.outline.opacity": {
+    "description": "Outlined text field disabled outline opacity",
+    "value": 0.11999999731779099
+  },
+  "md.comp.outlined-text-field.disabled.outline.width": {
+    "description": "Outlined text field disabled outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-text-field.trailing-icon.size": {
+    "description": "Outlined text field trailing icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-text-field.leading-icon.size": {
+    "description": "Outlined text field leading icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-text-field.supporting-text.type": {
+    "description": "Outlined text field supporting text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-text-field.supporting-text.font",
+      "fontWeightTokenName": "md.comp.outlined-text-field.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-text-field.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-text-field.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-text-field.supporting-text.line-height"
+    }
+  },
+  "md.comp.outlined-text-field.supporting-text.tracking": {
+    "description": "Outlined text field supporting text tracking",
+    "value": "md.sys.typescale.body-small.tracking"
+  },
+  "md.comp.outlined-text-field.supporting-text.weight": {
+    "description": "Outlined text field supporting text weight",
+    "value": "md.sys.typescale.body-small.weight"
+  },
+  "md.comp.outlined-text-field.supporting-text.size": {
+    "description": "Outlined text field supporting text size",
+    "value": "md.sys.typescale.body-small.size"
+  },
+  "md.comp.outlined-text-field.supporting-text.line-height": {
+    "description": "Outlined text field supporting text line height",
+    "value": "md.sys.typescale.body-small.line-height"
+  },
+  "md.comp.outlined-text-field.supporting-text.font": {
+    "description": "Outlined text field supporting text font",
+    "value": "md.sys.typescale.body-small.font"
+  },
+  "md.comp.outlined-text-field.label-text.populated.size": {
+    "description": "Outlined text field label text populated size",
+    "value": "md.sys.typescale.body-small.size"
+  },
+  "md.comp.outlined-text-field.label-text.populated.line-height": {
+    "description": "Outlined text field label text populated line height",
+    "value": "md.sys.typescale.body-small.line-height"
+  },
+  "md.comp.outlined-text-field.label-text.type": {
+    "description": "Outlined text field label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-text-field.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-text-field.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-text-field.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-text-field.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-text-field.label-text.line-height"
+    }
+  },
+  "md.comp.outlined-text-field.label-text.tracking": {
+    "description": "Outlined text field label text tracking",
+    "value": "md.sys.typescale.body-large.tracking"
+  },
+  "md.comp.outlined-text-field.label-text.weight": {
+    "description": "Outlined text field label text weight",
+    "value": "md.sys.typescale.body-large.weight"
+  },
+  "md.comp.outlined-text-field.label-text.size": {
+    "description": "Outlined text field label text size",
+    "value": "md.sys.typescale.body-large.size"
+  },
+  "md.comp.outlined-text-field.label-text.line-height": {
+    "description": "Outlined text field label text line height",
+    "value": "md.sys.typescale.body-large.line-height"
+  },
+  "md.comp.outlined-text-field.label-text.font": {
+    "description": "Outlined text field label text font",
+    "value": "md.sys.typescale.body-large.font"
+  },
+  "md.comp.outlined-text-field.input-text.type": {
+    "description": "Outlined text field input text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-text-field.input-text.font",
+      "fontWeightTokenName": "md.comp.outlined-text-field.input-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-text-field.input-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-text-field.input-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-text-field.input-text.line-height"
+    }
+  },
+  "md.comp.outlined-text-field.input-text.tracking": {
+    "description": "Outlined text field input text tracking",
+    "value": "md.sys.typescale.body-large.tracking"
+  },
+  "md.comp.outlined-text-field.input-text.weight": {
+    "description": "Outlined text field input text weight",
+    "value": "md.sys.typescale.body-large.weight"
+  },
+  "md.comp.outlined-text-field.input-text.size": {
+    "description": "Outlined text field input text size",
+    "value": "md.sys.typescale.body-large.size"
+  },
+  "md.comp.outlined-text-field.input-text.line-height": {
+    "description": "Outlined text field input text line height",
+    "value": "md.sys.typescale.body-large.line-height"
+  },
+  "md.comp.outlined-text-field.input-text.font": {
+    "description": "Outlined text field input text font",
+    "value": "md.sys.typescale.body-large.font"
+  },
+  "md.comp.outlined-text-field.outline.width": {
+    "description": "Outlined text field outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-text-field.container.shape": {
+    "description": "Outlined text field container shape",
+    "value": "md.sys.shape.corner.extra-small"
+  }
+}

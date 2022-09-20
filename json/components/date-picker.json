@@ -1,0 +1,294 @@
+{
+  "md.comp.date-picker.docked.menu.list-item.selected.leading-icon.size": {
+    "description": "Menu list item selected leading icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.menu.list-item.container.height": {
+    "description": "Menu list item container height",
+    "value": {
+      "value": 48,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.menu-button.container.height": {
+    "description": "Menu button container height",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.date.state-layer.height": {
+    "description": "Date state layer height",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.date.state-layer.width": {
+    "description": "Date state layer width",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.date.container.height": {
+    "description": "Date container height",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.date.container.width": {
+    "description": "Date container width",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.header.height": {
+    "description": "Header height",
+    "value": {
+      "value": 64,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.container.height": {
+    "description": "Container height",
+    "value": {
+      "value": 428,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.container.width": {
+    "description": "Container width",
+    "value": {
+      "value": 328,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.menu.list-item.pressed.state-layer.opacity": {
+    "description": "Menu list item pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.date-picker.docked.menu-button.pressed.state-layer.opacity": {
+    "description": "Menu button pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.date-picker.docked.date.pressed.state-layer.opacity": {
+    "description": "Date pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.date-picker.docked.menu.list-item.focus.state-layer.opacity": {
+    "description": "Menu list item focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.date-picker.docked.menu-button.focus.state-layer.opacity": {
+    "description": "Menu button focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.date-picker.docked.date.focus.state-layer.opacity": {
+    "description": "Date focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.date-picker.docked.menu.list-item.hover.state-layer.opacity": {
+    "description": "Menu list item hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.date-picker.docked.menu-button.hover.state-layer.opacity": {
+    "description": "Menu button hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.date-picker.docked.date.hover.state-layer.opacity": {
+    "description": "Date hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.date-picker.docked.menu-button.disabled.icon.opacity": {
+    "description": "Menu button disabled icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.date-picker.docked.menu-button.disabled.label-text.opacity": {
+    "description": "Menu button disabled label text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.date-picker.docked.menu.list-item.label-text.type": {
+    "description": "Menu list item label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.date-picker.docked.menu.list-item.label-text.font",
+      "fontWeightTokenName": "md.comp.date-picker.docked.menu.list-item.label-text.weight",
+      "fontSizeTokenName": "md.comp.date-picker.docked.menu.list-item.label-text.size",
+      "fontTrackingTokenName": "md.comp.date-picker.docked.menu.list-item.label-text.tracking",
+      "lineHeightTokenName": "md.comp.date-picker.docked.menu.list-item.label-text.line-height"
+    }
+  },
+  "md.comp.date-picker.docked.menu.list-item.label-text.weight": {
+    "description": "Menu list item label text weight",
+    "value": "md.sys.typescale.body-large.weight"
+  },
+  "md.comp.date-picker.docked.menu.list-item.label-text.tracking": {
+    "description": "Menu list item label text tracking",
+    "value": "md.sys.typescale.body-large.tracking"
+  },
+  "md.comp.date-picker.docked.menu.list-item.label-text.size": {
+    "description": "Menu list item label text size",
+    "value": "md.sys.typescale.body-large.size"
+  },
+  "md.comp.date-picker.docked.menu.list-item.label-text.line-height": {
+    "description": "Menu list item label text line height",
+    "value": "md.sys.typescale.body-large.line-height"
+  },
+  "md.comp.date-picker.docked.menu.list-item.label-text.font": {
+    "description": "Menu list item label text font",
+    "value": "md.sys.typescale.body-large.font"
+  },
+  "md.comp.date-picker.docked.menu-button.icon.size": {
+    "description": "Menu button icon size",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.menu-button.label-text.type": {
+    "description": "Menu button label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.date-picker.docked.menu-button.label-text.font",
+      "fontWeightTokenName": "md.comp.date-picker.docked.menu-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.date-picker.docked.menu-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.date-picker.docked.menu-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.date-picker.docked.menu-button.label-text.line-height"
+    }
+  },
+  "md.comp.date-picker.docked.menu-button.label-text.tracking": {
+    "description": "Menu button label text tracking",
+    "value": "md.sys.typescale.label-large.tracking"
+  },
+  "md.comp.date-picker.docked.menu-button.label-text.weight": {
+    "description": "Menu button label text weight",
+    "value": "md.sys.typescale.label-large.weight"
+  },
+  "md.comp.date-picker.docked.menu-button.label-text.size": {
+    "description": "Menu button label text size",
+    "value": "md.sys.typescale.label-large.size"
+  },
+  "md.comp.date-picker.docked.menu-button.label-text.line-height": {
+    "description": "Menu button label text line height",
+    "value": "md.sys.typescale.label-large.line-height"
+  },
+  "md.comp.date-picker.docked.menu-button.label-text.font": {
+    "description": "Menu button label text font",
+    "value": "md.sys.typescale.label-large.font"
+  },
+  "md.comp.date-picker.docked.menu-button.container.shape": {
+    "description": "Menu button container shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.date-picker.docked.date.today.container.outline.width": {
+    "description": "Date today container outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.date-picker.docked.date.label-text.type": {
+    "description": "Date label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.date-picker.docked.date.label-text.font",
+      "fontWeightTokenName": "md.comp.date-picker.docked.date.label-text.weight",
+      "fontSizeTokenName": "md.comp.date-picker.docked.date.label-text.size",
+      "fontTrackingTokenName": "md.comp.date-picker.docked.date.label-text.tracking",
+      "lineHeightTokenName": "md.comp.date-picker.docked.date.label-text.line-height"
+    }
+  },
+  "md.comp.date-picker.docked.date.label-text.tracking": {
+    "description": "Date label text tracking",
+    "value": "md.sys.typescale.body-small.tracking"
+  },
+  "md.comp.date-picker.docked.date.label-text.weight": {
+    "description": "Date label text weight",
+    "value": "md.sys.typescale.body-small.weight"
+  },
+  "md.comp.date-picker.docked.date.label-text.size": {
+    "description": "Date label text size",
+    "value": "md.sys.typescale.body-small.size"
+  },
+  "md.comp.date-picker.docked.date.label-text.line-height": {
+    "description": "Date label text line height",
+    "value": "md.sys.typescale.body-small.line-height"
+  },
+  "md.comp.date-picker.docked.date.label-text.font": {
+    "description": "Date label text font",
+    "value": "md.sys.typescale.body-small.font"
+  },
+  "md.comp.date-picker.docked.date.state-layer.shape": {
+    "description": "Date state layer shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.date-picker.docked.date.container.shape": {
+    "description": "Date container shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.date-picker.docked.weekdays.label-text.type": {
+    "description": "Weekdays label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.date-picker.docked.weekdays.label-text.font",
+      "fontWeightTokenName": "md.comp.date-picker.docked.weekdays.label-text.weight",
+      "fontSizeTokenName": "md.comp.date-picker.docked.weekdays.label-text.size",
+      "fontTrackingTokenName": "md.comp.date-picker.docked.weekdays.label-text.tracking",
+      "lineHeightTokenName": "md.comp.date-picker.docked.weekdays.label-text.line-height"
+    }
+  },
+  "md.comp.date-picker.docked.weekdays.label-text.tracking": {
+    "description": "Weekdays label text tracking",
+    "value": "md.sys.typescale.body-small.tracking"
+  },
+  "md.comp.date-picker.docked.weekdays.label-text.weight": {
+    "description": "Weekdays label text weight",
+    "value": "md.sys.typescale.body-small.weight"
+  },
+  "md.comp.date-picker.docked.weekdays.label-text.size": {
+    "description": "Weekdays label text size",
+    "value": "md.sys.typescale.body-small.size"
+  },
+  "md.comp.date-picker.docked.weekdays.label-text.line-height": {
+    "description": "Weekdays label text line height",
+    "value": "md.sys.typescale.body-small.line-height"
+  },
+  "md.comp.date-picker.docked.weekdays.label-text.font": {
+    "description": "Weekdays label text font",
+    "value": "md.sys.typescale.body-small.font"
+  },
+  "md.comp.date-picker.docked.container.shape": {
+    "description": "Container shape",
+    "value": "md.sys.shape.corner.large"
+  },
+  "md.comp.date-picker.docked.container.elevation": {
+    "description": "Container elevation",
+    "value": "md.sys.elevation.level3"
+  }
+}

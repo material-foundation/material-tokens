@@ -1,0 +1,206 @@
+{
+  "md.comp.navigation-rail.large-badge-label.type": {
+    "description": "Navigation rail large badge label type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.navigation-rail.large-badge-label.font",
+      "fontWeightTokenName": "md.comp.navigation-rail.large-badge-label.weight",
+      "fontSizeTokenName": "md.comp.navigation-rail.large-badge-label.size",
+      "fontTrackingTokenName": "md.comp.navigation-rail.large-badge-label.tracking",
+      "lineHeightTokenName": "md.comp.navigation-rail.large-badge-label.line-height"
+    }
+  },
+  "md.comp.navigation-rail.large-badge-label.tracking": {
+    "description": "Navigation rail large badge label tracking",
+    "value": "md.sys.typescale.label-small.tracking"
+  },
+  "md.comp.navigation-rail.large-badge-label.weight": {
+    "description": "Navigation rail large badge label weight",
+    "value": "md.sys.typescale.label-small.weight"
+  },
+  "md.comp.navigation-rail.large-badge-label.size": {
+    "description": "Navigation rail large badge label size",
+    "value": "md.sys.typescale.label-small.size"
+  },
+  "md.comp.navigation-rail.large-badge-label.line-height": {
+    "description": "Navigation rail large badge label line height",
+    "value": "md.sys.typescale.label-small.line-height"
+  },
+  "md.comp.navigation-rail.large-badge-label.font": {
+    "description": "Navigation rail large badge label font",
+    "value": "md.sys.typescale.label-small.font"
+  },
+  "md.comp.navigation-rail.large-badge.shape": {
+    "description": "Navigation rail large badge shape",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 8,
+        "unit": 1
+      }
+    }
+  },
+  "md.comp.navigation-rail.large-badge.size": {
+    "description": "Navigation rail large badge size",
+    "value": {
+      "value": 16,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-rail.badge.shape": {
+    "description": "Navigation rail badge shape",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 3,
+        "unit": 1
+      }
+    }
+  },
+  "md.comp.navigation-rail.badge.size": {
+    "description": "Navigation rail badge size",
+    "value": {
+      "value": 6,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-rail.large-badge-label.font-family": {
+    "description": "Navigation rail large badge label font family",
+    "value": "md.sys.typescale.label-small.font"
+  },
+  "md.comp.navigation-rail.label-text.letter-spacing": {
+    "description": "Navigation rail label letter spacing",
+    "value": "md.sys.typescale.label-medium.tracking"
+  },
+  "md.comp.navigation-rail.label-text.font-size": {
+    "description": "Navigation rail label font size",
+    "value": "md.sys.typescale.label-medium.size"
+  },
+  "md.comp.navigation-rail.label-text.font-family": {
+    "description": "Navigation rail label font family",
+    "value": "md.sys.typescale.label-medium.font"
+  },
+  "md.comp.navigation-rail.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.navigation-rail.label-text.font",
+      "fontWeightTokenName": "md.comp.navigation-rail.label-text.weight",
+      "fontSizeTokenName": "md.comp.navigation-rail.label-text.size",
+      "fontTrackingTokenName": "md.comp.navigation-rail.label-text.tracking",
+      "lineHeightTokenName": "md.comp.navigation-rail.label-text.line-height"
+    }
+  },
+  "md.comp.navigation-rail.menu.focus.state-layer.opacity": {
+    "description": "Navigation rail menu focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.navigation-rail.focus.state-layer.opacity": {
+    "description": "Navigation rail active focus state layer color",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.navigation-rail.menu.hover.state-layer.opacity": {
+    "description": "Navigation rail menu hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.navigation-rail.hover.state-layer.opacity": {
+    "description": "Navigation rail hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.navigation-rail.menu.icon.size": {
+    "description": "Navigation rail menu icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-rail.active-indicator.width": {
+    "description": "Navigation rail active indicator width",
+    "value": {
+      "value": 56,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-rail.no-label.active-indicator.shape": {
+    "description": "Navigation rail no label active indicator shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.navigation-rail.active-indicator.shape": {
+    "description": "Navigation rail active indicator shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.navigation-rail.no-label.active-indicator.height": {
+    "description": "Navigation rail no label active indicator height",
+    "value": {
+      "value": 56,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-rail.active-indicator.height": {
+    "description": "Navigation rail active indicator height",
+    "value": {
+      "value": 32,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-rail.label-text.tracking": {
+    "description": "Navigation rail label tracking",
+    "value": "md.sys.typescale.label-medium.tracking"
+  },
+  "md.comp.navigation-rail.label-text.weight": {
+    "description": "Navigation rail label weight",
+    "value": "md.sys.typescale.label-medium.weight"
+  },
+  "md.comp.navigation-rail.label-text.size": {
+    "description": "Navigation rail label size",
+    "value": "md.sys.typescale.label-medium.size"
+  },
+  "md.comp.navigation-rail.label-text.line-height": {
+    "description": "Navigation rail label line height",
+    "value": "md.sys.typescale.label-medium.line-height"
+  },
+  "md.comp.navigation-rail.label-text.font": {
+    "description": "Navigation rail label font",
+    "value": "md.sys.typescale.label-medium.font"
+  },
+  "md.comp.navigation-rail.icon.size": {
+    "description": "Navigation rail icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-rail.container.elevation": {
+    "description": "Navigation rail container elevation",
+    "value": "md.sys.elevation.level0"
+  },
+  "md.comp.navigation-rail.container.width": {
+    "description": "Navigation rail container width",
+    "value": {
+      "value": 80,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-rail.container.shape": {
+    "description": "Navigation rail container shape",
+    "value": "md.sys.shape.corner.none"
+  },
+  "md.comp.navigation-rail.menu.pressed.state-layer.opacity": {
+    "description": "Navigation rail menu pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.navigation-rail.pressed.state-layer.opacity": {
+    "description": "Navigation rail pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  }
+}

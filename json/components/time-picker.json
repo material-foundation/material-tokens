@@ -1,0 +1,318 @@
+{
+  "md.comp.time-picker.clock-dial.selector.track.container.width": {
+    "description": "Time picker clock dial selector track container width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.clock-dial.selector.center.container.size": {
+    "description": "Time picker clock dial selector center container size",
+    "value": {
+      "value": 8,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.clock-dial.selector.handle.container.size": {
+    "description": "Time picker clock dial selector handle container size",
+    "value": {
+      "value": 48,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.clock-dial.container.size": {
+    "description": "Time picker clock dial container size",
+    "value": {
+      "value": 256,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.period-selector.horizontal.container.height": {
+    "description": "Time picker period selector horizontal container height",
+    "value": {
+      "value": 38,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.period-selector.horizontal.container.width": {
+    "description": "Time picker period selector horizontal container width",
+    "value": {
+      "value": 216,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.period-selector.vertical.container.height": {
+    "description": "Time picker period selector vertical container height",
+    "value": {
+      "value": 80,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.period-selector.vertical.container.width": {
+    "description": "Time picker period selector vertical container width",
+    "value": {
+      "value": 52,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.time-selector.container.height": {
+    "description": "Time picker time selector container height",
+    "value": {
+      "value": 80,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.time-selector.24h-vertical.container.width": {
+    "description": "Time picker time selector 24h vertical container width",
+    "value": {
+      "value": 114,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.time-selector.container.width": {
+    "description": "Time picker time selector container width",
+    "value": {
+      "value": 96,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.period-selector.pressed.state-layer.opacity": {
+    "description": "Time picker period selector pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.time-picker.time-selector.pressed.state-layer.opacity": {
+    "description": "Time picker time selector pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.time-picker.period-selector.focus.state-layer.opacity": {
+    "description": "Time picker period selector focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.time-picker.time-selector.focus.state-layer.opacity": {
+    "description": "Time picker time selector focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.time-picker.period-selector.hover.state-layer.opacity": {
+    "description": "Time picker period selector hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.time-picker.time-selector.hover.state-layer.opacity": {
+    "description": "Time picker time selector hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.time-picker.clock-dial.selector.center.container.shape": {
+    "description": "Time picker clock dial selector center container shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.time-picker.clock-dial.selector.handle.container.shape": {
+    "description": "Time picker clock dial selector handle container shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.time-picker.clock-dial.label-text.type": {
+    "description": "Time picker clock dial label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.time-picker.clock-dial.label-text.font",
+      "fontWeightTokenName": "md.comp.time-picker.clock-dial.label-text.weight",
+      "fontSizeTokenName": "md.comp.time-picker.clock-dial.label-text.size",
+      "fontTrackingTokenName": "md.comp.time-picker.clock-dial.label-text.tracking",
+      "lineHeightTokenName": "md.comp.time-picker.clock-dial.label-text.line-height"
+    }
+  },
+  "md.comp.time-picker.clock-dial.label-text.tracking": {
+    "description": "Time picker clock dial label text tracking",
+    "value": "md.sys.typescale.body-large.tracking"
+  },
+  "md.comp.time-picker.clock-dial.label-text.weight": {
+    "description": "Time picker clock dial label text weight",
+    "value": "md.sys.typescale.body-large.weight"
+  },
+  "md.comp.time-picker.clock-dial.label-text.size": {
+    "description": "Time picker clock dial label text size",
+    "value": "md.sys.typescale.body-large.size"
+  },
+  "md.comp.time-picker.clock-dial.label-text.line-height": {
+    "description": "Time picker clock dial label text line height",
+    "value": "md.sys.typescale.body-large.line-height"
+  },
+  "md.comp.time-picker.clock-dial.label-text.font": {
+    "description": "Time picker clock dial label text font",
+    "value": "md.sys.typescale.body-large.font"
+  },
+  "md.comp.time-picker.clock-dial.shape.ignore": {
+    "description": "Time picker clock dial shape ignore",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.time-picker.period-selector.label-text.type": {
+    "description": "Time picker period selector label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.time-picker.period-selector.label-text.font",
+      "fontWeightTokenName": "md.comp.time-picker.period-selector.label-text.weight",
+      "fontSizeTokenName": "md.comp.time-picker.period-selector.label-text.size",
+      "fontTrackingTokenName": "md.comp.time-picker.period-selector.label-text.tracking",
+      "lineHeightTokenName": "md.comp.time-picker.period-selector.label-text.line-height"
+    }
+  },
+  "md.comp.time-picker.period-selector.label-text.tracking": {
+    "description": "Time picker period selector label text tracking",
+    "value": "md.sys.typescale.title-medium.tracking"
+  },
+  "md.comp.time-picker.period-selector.label-text.weight": {
+    "description": "Time picker period selector label text weight",
+    "value": "md.sys.typescale.title-medium.weight"
+  },
+  "md.comp.time-picker.period-selector.label-text.size": {
+    "description": "Time picker period selector label text size",
+    "value": "md.sys.typescale.title-medium.size"
+  },
+  "md.comp.time-picker.period-selector.label-text.line-height": {
+    "description": "Time picker period selector label text line height",
+    "value": "md.sys.typescale.title-medium.line-height"
+  },
+  "md.comp.time-picker.period-selector.label-text.font": {
+    "description": "Time picker period selector label text font",
+    "value": "md.sys.typescale.title-medium.font"
+  },
+  "md.comp.time-picker.period-selector.outline.width": {
+    "description": "Time picker period selector outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.time-picker.period-selector.container.shape": {
+    "description": "Time picker period selector container shape",
+    "value": "md.sys.shape.corner.small"
+  },
+  "md.comp.time-picker.time-selector.separator.type": {
+    "description": "Time picker time selector separator type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.time-picker.time-selector.separator.font",
+      "fontWeightTokenName": "md.comp.time-picker.time-selector.separator.weight",
+      "fontSizeTokenName": "md.comp.time-picker.time-selector.separator.size",
+      "fontTrackingTokenName": "md.comp.time-picker.time-selector.separator.tracking",
+      "lineHeightTokenName": "md.comp.time-picker.time-selector.separator.line-height"
+    }
+  },
+  "md.comp.time-picker.time-selector.separator.tracking": {
+    "description": "Time picker time selector separator tracking",
+    "value": "md.sys.typescale.display-large.tracking"
+  },
+  "md.comp.time-picker.time-selector.separator.weight": {
+    "description": "Time picker time selector separator weight",
+    "value": "md.sys.typescale.display-large.weight"
+  },
+  "md.comp.time-picker.time-selector.separator.size": {
+    "description": "Time picker time selector separator size",
+    "value": "md.sys.typescale.display-large.size"
+  },
+  "md.comp.time-picker.time-selector.separator.line-height": {
+    "description": "Time picker time selector separator line height",
+    "value": "md.sys.typescale.display-large.line-height"
+  },
+  "md.comp.time-picker.time-selector.separator.font": {
+    "description": "Time picker time selector separator font",
+    "value": "md.sys.typescale.display-large.font"
+  },
+  "md.comp.time-picker.time-selector.label-text.type": {
+    "description": "Time picker time selector label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.time-picker.time-selector.label-text.font",
+      "fontWeightTokenName": "md.comp.time-picker.time-selector.label-text.weight",
+      "fontSizeTokenName": "md.comp.time-picker.time-selector.label-text.size",
+      "fontTrackingTokenName": "md.comp.time-picker.time-selector.label-text.tracking",
+      "lineHeightTokenName": "md.comp.time-picker.time-selector.label-text.line-height"
+    }
+  },
+  "md.comp.time-picker.time-selector.label-text.tracking": {
+    "description": "Time picker time selector label text tracking",
+    "value": "md.sys.typescale.display-large.tracking"
+  },
+  "md.comp.time-picker.time-selector.label-text.weight": {
+    "description": "Time picker time selector label text weight",
+    "value": "md.sys.typescale.display-large.weight"
+  },
+  "md.comp.time-picker.time-selector.label-text.size": {
+    "description": "Time picker time selector label text size",
+    "value": "md.sys.typescale.display-large.size"
+  },
+  "md.comp.time-picker.time-selector.label-text.line-height": {
+    "description": "Time picker time selector label text line height",
+    "value": "md.sys.typescale.display-large.line-height"
+  },
+  "md.comp.time-picker.time-selector.label-text.font": {
+    "description": "Time picker time selector label text font",
+    "value": "md.sys.typescale.display-large.font"
+  },
+  "md.comp.time-picker.time-selector.container.shape": {
+    "description": "Time picker time selector container shape",
+    "value": "md.sys.shape.corner.small"
+  },
+  "md.comp.time-picker.headline.type": {
+    "description": "Time picker headline type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.time-picker.headline.font",
+      "fontWeightTokenName": "md.comp.time-picker.headline.weight",
+      "fontSizeTokenName": "md.comp.time-picker.headline.size",
+      "fontTrackingTokenName": "md.comp.time-picker.headline.tracking",
+      "lineHeightTokenName": "md.comp.time-picker.headline.line-height"
+    }
+  },
+  "md.comp.time-picker.headline.tracking": {
+    "description": "Time picker headline tracking",
+    "value": "md.sys.typescale.label-medium.tracking"
+  },
+  "md.comp.time-picker.headline.weight": {
+    "description": "Time picker headline weight",
+    "value": "md.sys.typescale.label-medium.weight"
+  },
+  "md.comp.time-picker.headline.size": {
+    "description": "Time picker headline size",
+    "value": "md.sys.typescale.label-medium.size"
+  },
+  "md.comp.time-picker.headline.line-height": {
+    "description": "Time picker headline line height",
+    "value": "md.sys.typescale.label-medium.line-height"
+  },
+  "md.comp.time-picker.headline.font": {
+    "description": "Time picker headline font",
+    "value": "md.sys.typescale.label-medium.font"
+  },
+  "md.comp.time-picker.container.shape": {
+    "description": "Time picker container shape",
+    "value": "md.sys.shape.corner.extra-large"
+  },
+  "md.comp.time-picker.container.elevation": {
+    "description": "Time picker container elevation",
+    "value": "md.sys.elevation.level3"
+  }
+}

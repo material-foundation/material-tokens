@@ -1,0 +1,153 @@
+{
+  "md.sys.motion.path": {
+    "description": "Motion path",
+    "value": {
+      "standardPath": 1
+    }
+  },
+  "md.sys.motion.easing.linear": {
+    "description": "Linear",
+    "value": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1,
+      "y1": 1
+    }
+  },
+  "md.sys.motion.easing.standard": {
+    "description": "Standard",
+    "value": {
+      "x0": 0.20000000298023224,
+      "y0": 0,
+      "x1": 0,
+      "y1": 1
+    }
+  },
+  "md.sys.motion.duration.short1": {
+    "description": "Short 1",
+    "value": 50
+  },
+  "md.sys.motion.duration.short2": {
+    "description": "Short 2",
+    "value": 100
+  },
+  "md.sys.motion.duration.short3": {
+    "description": "Short 3",
+    "value": 150
+  },
+  "md.sys.motion.duration.short4": {
+    "description": "Short 4",
+    "value": 200
+  },
+  "md.sys.motion.duration.medium1": {
+    "description": "Medium 1",
+    "value": 250
+  },
+  "md.sys.motion.duration.medium2": {
+    "description": "Medium 2",
+    "value": 300
+  },
+  "md.sys.motion.duration.medium3": {
+    "description": "Medium 3",
+    "value": 350
+  },
+  "md.sys.motion.duration.medium4": {
+    "description": "Medium 4",
+    "value": 400
+  },
+  "md.sys.motion.duration.long1": {
+    "description": "Long 1",
+    "value": 450
+  },
+  "md.sys.motion.duration.long2": {
+    "description": "Long 2",
+    "value": 500
+  },
+  "md.sys.motion.duration.long3": {
+    "description": "Long 3",
+    "value": 550
+  },
+  "md.sys.motion.duration.long4": {
+    "description": "Long 4",
+    "value": 600
+  },
+  "md.sys.motion.duration.extra-long1": {
+    "description": "Extra long 1",
+    "value": 700
+  },
+  "md.sys.motion.duration.extra-long2": {
+    "description": "Extra long 2",
+    "value": 800
+  },
+  "md.sys.motion.duration.extra-long3": {
+    "description": "Extra long 3",
+    "value": 900
+  },
+  "md.sys.motion.duration.extra-long4": {
+    "description": "Extra long 4",
+    "value": 1000
+  },
+  "md.sys.motion.easing.standard.accelerate": {
+    "description": "Standard accelerate",
+    "value": {
+      "x0": 0.30000001192092896,
+      "y0": 0,
+      "x1": 1,
+      "y1": 1
+    }
+  },
+  "md.sys.motion.easing.standard.decelerate": {
+    "description": "Standard decelerate",
+    "value": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 0,
+      "y1": 1
+    }
+  },
+  "md.sys.motion.easing.emphasized.accelerate": {
+    "description": "Emphasized accelerate",
+    "value": {
+      "x0": 0.30000001192092896,
+      "y0": 0,
+      "x1": 0.800000011920929,
+      "y1": 0.15000000596046448
+    }
+  },
+  "md.sys.motion.easing.emphasized.decelerate": {
+    "description": "Emphasized decelerate",
+    "value": {
+      "x0": 0.05000000074505806,
+      "y0": 0.699999988079071,
+      "x1": 0.10000000149011612,
+      "y1": 1
+    }
+  },
+  "md.sys.motion.easing.legacy": {
+    "description": "Legacy",
+    "value": {
+      "x0": 0.4000000059604645,
+      "y0": 0,
+      "x1": 0.20000000298023224,
+      "y1": 1
+    }
+  },
+  "md.sys.motion.easing.legacy.accelerate": {
+    "description": "Legacy accelerate",
+    "value": {
+      "x0": 0.4000000059604645,
+      "y0": 0,
+      "x1": 1,
+      "y1": 1
+    }
+  },
+  "md.sys.motion.easing.legacy.decelerate": {
+    "description": "Legacy decelerate",
+    "value": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 0.20000000298023224,
+      "y1": 1
+    }
+  }
+}

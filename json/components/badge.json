@@ -1,0 +1,60 @@
+{
+  "md.comp.badge.large.label-text.type": {
+    "description": "Badge large label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.badge.large.label-text.font",
+      "fontWeightTokenName": "md.comp.badge.large.label-text.weight",
+      "fontSizeTokenName": "md.comp.badge.large.label-text.size",
+      "fontTrackingTokenName": "md.comp.badge.large.label-text.tracking",
+      "lineHeightTokenName": "md.comp.badge.large.label-text.line-height"
+    }
+  },
+  "md.comp.badge.large.label-text.weight": {
+    "description": "Badge large label text weight",
+    "value": "md.sys.typescale.label-small.weight"
+  },
+  "md.comp.badge.large.label-text.tracking": {
+    "description": "Badge large label text tracking",
+    "value": "md.sys.typescale.label-small.tracking"
+  },
+  "md.comp.badge.large.label-text.size": {
+    "description": "Badge large label text size",
+    "value": "md.sys.typescale.label-small.size"
+  },
+  "md.comp.badge.large.label-text.line-height": {
+    "description": "Badge large label text line height",
+    "value": "md.sys.typescale.label-small.line-height"
+  },
+  "md.comp.badge.large.label-text.font": {
+    "description": "Badge large label text font",
+    "value": "md.sys.typescale.label-small.font"
+  },
+  "md.comp.badge.large.size": {
+    "description": "Badge large size",
+    "value": {
+      "value": 16,
+      "unit": 1
+    }
+  },
+  "md.comp.badge.large.shape": {
+    "description": "Badge large shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.badge.size": {
+    "description": "Badge size",
+    "value": {
+      "value": 6,
+      "unit": 1
+    }
+  },
+  "md.comp.badge.shape": {
+    "description": "Badge shape",
+    "value": "md.sys.shape.corner.full"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "md.comp.outlined-menu-button.pressed.state-layer.opacity": {
+    "description": "Outlined menu button pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.outlined-menu-button.focus.state-layer.opacity": {
+    "description": "Outlined menu button focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.outlined-menu-button.hover.state-layer.opacity": {
+    "description": "Outlined menu button hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.outlined-menu-button.disabled.trailing-icon.opacity": {
+    "description": "Outlined menu button disabled trailing icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-menu-button.with-icon.disabled.icon.opacity": {
+    "description": "Outlined menu button with icon disabled icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-menu-button.disabled.label-text.opacity": {
+    "description": "Outlined menu button disabled label text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-menu-button.disabled.container.opacity": {
+    "description": "Outlined menu button disabled container opacity",
+    "value": 0.11999999731779099
+  },
+  "md.comp.outlined-menu-button.trailing-icon.size": {
+    "description": "Outlined menu button trailing icon size",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-menu-button.with-icon.leading-icon.size": {
+    "description": "Outlined menu button with icon leading icon size",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-menu-button.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-menu-button.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-menu-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-menu-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-menu-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-menu-button.label-text.line-height"
+    }
+  },
+  "md.comp.outlined-menu-button.label-text.weight": {
+    "description": "Outlined menu button label text weight",
+    "value": "md.sys.typescale.label-large.weight"
+  },
+  "md.comp.outlined-menu-button.label-text.tracking": {
+    "description": "Outlined menu button label text tracking",
+    "value": "md.sys.typescale.label-large.tracking"
+  },
+  "md.comp.outlined-menu-button.label-text.size": {
+    "description": "Outlined menu button label text size",
+    "value": "md.sys.typescale.label-large.size"
+  },
+  "md.comp.outlined-menu-button.label-text.line-height": {
+    "description": "Outlined menu button label text line height",
+    "value": "md.sys.typescale.label-large.line-height"
+  },
+  "md.comp.outlined-menu-button.label-text.font": {
+    "description": "Outlined menu button label text font",
+    "value": "md.sys.typescale.label-large.font"
+  },
+  "md.comp.outlined-menu-button.shape": {
+    "description": "Outlined menu button shape ignore",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.outlined-menu-button.container.height": {
+    "description": "Outlined menu button container height",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-menu-button.outline.width": {
+    "description": "Outlined menu button outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  }
+}

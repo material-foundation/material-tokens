@@ -1,0 +1,154 @@
+{
+  "md.comp.banner.supporting-text.type": {
+    "description": "Banner supporting text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.banner.supporting-text.font",
+      "fontWeightTokenName": "md.comp.banner.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.banner.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.banner.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.banner.supporting-text.line-height"
+    }
+  },
+  "md.comp.banner.supporting-text.tracking": {
+    "description": "Banner supporting text tracking",
+    "value": "md.sys.typescale.body-medium.tracking"
+  },
+  "md.comp.banner.supporting-text.weight": {
+    "description": "Banner supporting text weight",
+    "value": "md.sys.typescale.body-medium.weight"
+  },
+  "md.comp.banner.supporting-text.size": {
+    "description": "Banner supporting text size",
+    "value": "md.sys.typescale.body-medium.size"
+  },
+  "md.comp.banner.supporting-text.line-height": {
+    "description": "Banner supporting text line height",
+    "value": "md.sys.typescale.body-medium.line-height"
+  },
+  "md.comp.banner.with-image.image.shape": {
+    "description": "Banner image shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.banner.supporting-text.font": {
+    "description": "Banner supporting text font",
+    "value": "md.sys.typescale.body-medium.font"
+  },
+  "md.comp.banner.action.label-text.type": {
+    "description": "Banner action label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.banner.action.label-text.font",
+      "fontWeightTokenName": "md.comp.banner.action.label-text.weight",
+      "fontSizeTokenName": "md.comp.banner.action.label-text.size",
+      "fontTrackingTokenName": "md.comp.banner.action.label-text.tracking",
+      "lineHeightTokenName": "md.comp.banner.action.label-text.line-height"
+    }
+  },
+  "md.comp.banner.with-image.image.size": {
+    "description": "Banner image size",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.banner.action.focus.state-layer.opacity": {
+    "description": "Banner action focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.banner.action.hover.state-layer.opacity": {
+    "description": "Banner action hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.banner.action.label-text.tracking": {
+    "description": "Banner action label text tracking",
+    "value": "md.sys.typescale.label-large.tracking"
+  },
+  "md.comp.banner.action.label-text.weight": {
+    "description": "Banner action label text weight",
+    "value": "md.sys.typescale.label-large.weight"
+  },
+  "md.comp.banner.action.label-text.size": {
+    "description": "Banner  action label text size",
+    "value": "md.sys.typescale.label-large.size"
+  },
+  "md.comp.banner.action.label-text.line-height": {
+    "description": "Banner action label text line height",
+    "value": "md.sys.typescale.label-large.line-height"
+  },
+  "md.comp.banner.action.label-text.font": {
+    "description": "Banner action label text font",
+    "value": "md.sys.typescale.label-large.font"
+  },
+  "md.comp.banner.divider.height": {
+    "description": "Banner divider height",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.banner.desktop.with-three-lines.container.height": {
+    "description": "Banner with three lines container height",
+    "value": {
+      "value": 90,
+      "unit": 1
+    }
+  },
+  "md.comp.banner.desktop.with-two-lines.with-image.container.height": {
+    "description": "Banner desktop with two lines with image container height",
+    "value": {
+      "value": 72,
+      "unit": 1
+    }
+  },
+  "md.comp.banner.desktop.with-single-line.container.height": {
+    "description": "Banner desktop with single line container height",
+    "value": {
+      "value": 52,
+      "unit": 1
+    }
+  },
+  "md.comp.banner.mobile.with-two-lines.with-image.container.height": {
+    "description": "Banner mobile with two lines with image container height",
+    "value": {
+      "value": 120,
+      "unit": 1
+    }
+  },
+  "md.comp.banner.mobile.with-two-lines.container.height": {
+    "description": "Banner mobile with two lines container height",
+    "value": {
+      "value": 112,
+      "unit": 1
+    }
+  },
+  "md.comp.banner.mobile.with-single-line.container.height": {
+    "description": "Banner mobile with single line container height",
+    "value": {
+      "value": 54,
+      "unit": 1
+    }
+  },
+  "md.comp.banner.container.shape": {
+    "description": "Banner container shape",
+    "value": "md.sys.shape.corner.none"
+  },
+  "md.comp.banner.container.elevation": {
+    "description": "Banner container elevation",
+    "value": "md.sys.elevation.level1"
+  },
+  "md.comp.banner.action.pressed.state-layer.opacity": {
+    "description": "Banner action pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  }
+}

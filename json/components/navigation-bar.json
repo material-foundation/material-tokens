@@ -1,0 +1,124 @@
+{
+  "md.comp.navigation-bar.large-badge.shape": {
+    "description": "Shape",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 8,
+        "unit": 1
+      }
+    }
+  },
+  "md.comp.navigation-bar.large-badge.size": {
+    "description": "Size",
+    "value": {
+      "value": 16,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-bar.badge.shape": {
+    "description": "Shape",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 3,
+        "unit": 1
+      }
+    }
+  },
+  "md.comp.navigation-bar.badge.size": {
+    "description": "Size",
+    "value": {
+      "value": 6,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-bar.label-text.type": {
+    "description": "Type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.navigation-bar.label-text.font",
+      "fontWeightTokenName": "md.comp.navigation-bar.label-text.weight",
+      "fontSizeTokenName": "md.comp.navigation-bar.label-text.size",
+      "fontTrackingTokenName": "md.comp.navigation-bar.label-text.tracking",
+      "lineHeightTokenName": "md.comp.navigation-bar.label-text.line-height"
+    }
+  },
+  "md.comp.navigation-bar.pressed.state-layer.opacity": {
+    "description": "Opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.navigation-bar.focus.state-layer.opacity": {
+    "description": "Opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.navigation-bar.hover.state-layer.opacity": {
+    "description": "Opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.navigation-bar.active-indicator.shape": {
+    "description": "Shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.navigation-bar.active-indicator.width": {
+    "description": "Width",
+    "value": {
+      "value": 64,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-bar.active-indicator.height": {
+    "description": "Height",
+    "value": {
+      "value": 32,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-bar.label-text.tracking": {
+    "description": "Tracking",
+    "value": "md.sys.typescale.label-medium.tracking"
+  },
+  "md.comp.navigation-bar.label-text.weight": {
+    "description": "Weight",
+    "value": "md.sys.typescale.label-medium.weight"
+  },
+  "md.comp.navigation-bar.label-text.size": {
+    "description": "Size",
+    "value": "md.sys.typescale.label-medium.size"
+  },
+  "md.comp.navigation-bar.label-text.line-height": {
+    "description": "Line height",
+    "value": "md.sys.typescale.label-medium.line-height"
+  },
+  "md.comp.navigation-bar.label-text.font": {
+    "description": "Font",
+    "value": "md.sys.typescale.label-medium.font"
+  },
+  "md.comp.navigation-bar.icon.size": {
+    "description": "Size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-bar.container.elevation": {
+    "description": "Elevation",
+    "value": "md.sys.elevation.level2"
+  },
+  "md.comp.navigation-bar.container.height": {
+    "description": "Height",
+    "value": {
+      "value": 80,
+      "unit": 1
+    }
+  },
+  "md.comp.navigation-bar.container.shape": {
+    "description": "Shape",
+    "value": "md.sys.shape.corner.none"
+  }
+}

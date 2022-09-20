@@ -1,0 +1,179 @@
+{
+  "md.comp.input-chip.selected.dragged.state-layer.opacity": {
+    "description": "Input chip selected dragged state layer opacity",
+    "value": "md.sys.state.dragged.state-layer-opacity"
+  },
+  "md.comp.input-chip.unselected.dragged.state-layer.opacity": {
+    "description": "Input chip unselected dragged state layer opacity",
+    "value": "md.sys.state.dragged.state-layer-opacity"
+  },
+  "md.comp.input-chip.selected.pressed.state-layer.opacity": {
+    "description": "Input chip selected pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.input-chip.unselected.pressed.state-layer.opacity": {
+    "description": "Input chip unselected pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.input-chip.selected.focus.state-layer.opacity": {
+    "description": "Input chip selected focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.input-chip.unselected.focus.state-layer.opacity": {
+    "description": "Input chip unselected focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.input-chip.selected.hover.state-layer.opacity": {
+    "description": "Input chip selected hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.input-chip.unselected.hover.state-layer.opacity": {
+    "description": "Input chip unselected hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.input-chip.disabled.selected.container.opacity": {
+    "description": "Input chip disabled selected container opacity",
+    "value": 0.11999999731779099
+  },
+  "md.comp.input-chip.disabled.unselected.outline.opacity": {
+    "description": "Input chip disabled unselected outline opacity",
+    "value": 0.11999999731779099
+  },
+  "md.comp.input-chip.selected.outline.width": {
+    "description": "Input chip selected outline width",
+    "value": {
+      "value": 0,
+      "unit": 1
+    }
+  },
+  "md.comp.input-chip.unselected.outline.width": {
+    "description": "Input chip unselected outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.input-chip.dragged.state-layer.opacity": {
+    "description": "Input chip dragged state layer opacity",
+    "value": "md.sys.state.dragged.state-layer-opacity"
+  },
+  "md.comp.input-chip.pressed.state-layer.opacity": {
+    "description": "Input chip pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.input-chip.focus.state-layer.opacity": {
+    "description": "Input chip focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.input-chip.hover.state-layer.opacity": {
+    "description": "Input chip hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.input-chip.disabled.outline.opacity": {
+    "description": "Input chip disabled outline opacity",
+    "value": 0.11999999731779099
+  },
+  "md.comp.input-chip.outline.width": {
+    "description": "Input chip outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.input-chip.dragged.container.elevation": {
+    "description": "Input chip dragged container elevation",
+    "value": "md.sys.elevation.level4"
+  },
+  "md.comp.input-chip.disabled.label-text.opacity": {
+    "description": "Input chip disabled label text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.input-chip.with-leading-icon.disabled.leading-icon.opacity": {
+    "description": "Input chip with leading icon disabled leading icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.input-chip.with-trailing-icon.disabled.trailing-icon.opacity": {
+    "description": "Input chip with trailing icon disabled trailing icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.input-chip.with-avatar.disabled.avatar.opacity": {
+    "description": "Input chip with avatar disabled avatar opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.input-chip.with-avatar.avatar.size": {
+    "description": "Input chip with avatar avatar size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.input-chip.with-avatar.avatar.shape": {
+    "description": "Input chip with avatar avatar shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.input-chip.container.shape": {
+    "description": "Input chip container shape",
+    "value": "md.sys.shape.corner.small"
+  },
+  "md.comp.input-chip.container.height": {
+    "description": "Input chip container height",
+    "value": {
+      "value": 32,
+      "unit": 1
+    }
+  },
+  "md.comp.input-chip.container.elevation": {
+    "description": "Input chip container elevation",
+    "value": "md.sys.elevation.level0"
+  },
+  "md.comp.input-chip.label-text.font": {
+    "description": "Input chip label text font",
+    "value": "md.sys.typescale.label-large.font"
+  },
+  "md.comp.input-chip.label-text.line-height": {
+    "description": "Input chip label text line height",
+    "value": "md.sys.typescale.label-large.line-height"
+  },
+  "md.comp.input-chip.label-text.size": {
+    "description": "Input chip label text size",
+    "value": "md.sys.typescale.label-large.size"
+  },
+  "md.comp.input-chip.label-text.weight": {
+    "description": "Input chip label text weight",
+    "value": "md.sys.typescale.label-large.weight"
+  },
+  "md.comp.input-chip.label-text.tracking": {
+    "description": "Input chip label text tracking",
+    "value": "md.sys.typescale.label-large.tracking"
+  },
+  "md.comp.input-chip.label-text.type": {
+    "description": "Input chip label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.input-chip.label-text.font",
+      "fontWeightTokenName": "md.comp.input-chip.label-text.weight",
+      "fontSizeTokenName": "md.comp.input-chip.label-text.size",
+      "fontTrackingTokenName": "md.comp.input-chip.label-text.tracking",
+      "lineHeightTokenName": "md.comp.input-chip.label-text.line-height"
+    }
+  },
+  "md.comp.input-chip.with-leading-icon.leading-icon.size": {
+    "description": "Input chip leading icon size",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.input-chip.with-trailing-icon.trailing-icon.size": {
+    "description": "Input chip trailing icon size",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  }
+}

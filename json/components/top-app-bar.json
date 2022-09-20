@@ -1,0 +1,71 @@
+{
+  "md.comp.top-app-bar.small.headline.type": {
+    "description": "Type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.top-app-bar.small.headline.font",
+      "fontWeightTokenName": "md.comp.top-app-bar.small.headline.weight",
+      "fontSizeTokenName": "md.comp.top-app-bar.small.headline.size",
+      "fontTrackingTokenName": "md.comp.top-app-bar.small.headline.tracking",
+      "lineHeightTokenName": "md.comp.top-app-bar.small.headline.line-height"
+    }
+  },
+  "md.comp.top-app-bar.small.on-scroll.container.elevation": {
+    "description": "Top app bar (small) on scroll container elevation",
+    "value": "md.sys.elevation.level2"
+  },
+  "md.comp.top-app-bar.small.trailing-icon.size": {
+    "description": "Top app bar (small) trailing icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.top-app-bar.small.leading-icon.size": {
+    "description": "Top app bar (small) leading icon size",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.top-app-bar.small.headline.weight": {
+    "description": "Top app bar (small) headline weight",
+    "value": "md.sys.typescale.title-large.weight"
+  },
+  "md.comp.top-app-bar.small.headline.tracking": {
+    "description": "Top app bar (small) headline tracking",
+    "value": "md.sys.typescale.title-large.tracking"
+  },
+  "md.comp.top-app-bar.small.headline.size": {
+    "description": "Top app bar (small) headline size",
+    "value": "md.sys.typescale.title-large.size"
+  },
+  "md.comp.top-app-bar.small.headline.line-height": {
+    "description": "Top app bar (small) headline height",
+    "value": "md.sys.typescale.title-large.line-height"
+  },
+  "md.comp.top-app-bar.small.headline.font": {
+    "description": "Top app bar (small) headline font",
+    "value": "md.sys.typescale.title-large.font"
+  },
+  "md.comp.top-app-bar.small.container.elevation": {
+    "description": "Top app bar (small) container elevation",
+    "value": "md.sys.elevation.level0"
+  },
+  "md.comp.top-app-bar.small.container.height": {
+    "description": "Top app bar (small) container height",
+    "value": {
+      "value": 64,
+      "unit": 1
+    }
+  },
+  "md.comp.top-app-bar.small.container.shape": {
+    "description": "Top app bar (small) container shape",
+    "value": "md.sys.shape.corner.none"
+  }
+}

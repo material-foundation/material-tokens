@@ -1,0 +1,158 @@
+{
+  "md.sys.shape.corner.extra-small.top": {
+    "description": "Extra small top rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 0,
+        "unit": 1
+      },
+      "topLeft": {
+        "value": 4,
+        "unit": 1
+      },
+      "topRight": {
+        "value": 4,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.extra-small": {
+    "description": "Extra small rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 4,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.large": {
+    "description": "Large rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 16,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.none": {
+    "description": "No rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 0,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.large.start": {
+    "description": "Large start rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 0,
+        "unit": 1
+      },
+      "topLeft": {
+        "value": 16,
+        "unit": 1
+      },
+      "bottomLeft": {
+        "value": 16,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.medium": {
+    "description": "Medium rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 12,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.small": {
+    "description": "Small rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 8,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.large.end": {
+    "description": "Large end rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 0,
+        "unit": 1
+      },
+      "topRight": {
+        "value": 16,
+        "unit": 1
+      },
+      "bottomRight": {
+        "value": 16,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.large.top": {
+    "description": "Large top rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 0,
+        "unit": 1
+      },
+      "topLeft": {
+        "value": 16,
+        "unit": 1
+      },
+      "topRight": {
+        "value": 16,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.extra-large": {
+    "description": "Extra large rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 28,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.extra-large.top": {
+    "description": "Extra large top rounding",
+    "value": {
+      "family": 1,
+      "defaultSize": {
+        "value": 0,
+        "unit": 1
+      },
+      "topLeft": {
+        "value": 28,
+        "unit": 1
+      },
+      "topRight": {
+        "value": 28,
+        "unit": 1
+      }
+    }
+  },
+  "md.sys.shape.corner.full": {
+    "description": "Fully rounded",
+    "value": {
+      "family": 3
+    }
+  }
+}

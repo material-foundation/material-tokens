@@ -1,0 +1,87 @@
+{
+  "md.comp.outlined-segmented-button.shape": {
+    "description": "Outlined segmented button shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.outlined-segmented-button.container.height": {
+    "description": "Outlined segmented button container height",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-segmented-button.outline.width": {
+    "description": "Outlined segmented button outline width",
+    "value": {
+      "value": 1,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-segmented-button.pressed.state-layer.opacity": {
+    "description": "Outlined segmented button pressed state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.outlined-segmented-button.focus.state-layer.opacity": {
+    "description": "Outlined segmented button focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.outlined-segmented-button.hover.state-layer.opacity": {
+    "description": "Outlined segmented button hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.outlined-segmented-button.disabled.icon.opacity": {
+    "description": "Outlined segmented button disabled icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-segmented-button.disabled.label-text.opacity": {
+    "description": "Outlined segmented button disabled label text opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.outlined-segmented-button.disabled.outline.opacity": {
+    "description": "Outlined segmented button disabled outline opacity",
+    "value": 0.11999999731779099
+  },
+  "md.comp.outlined-segmented-button.with-icon.icon.size": {
+    "description": "Outlined segmented button icon size",
+    "value": {
+      "value": 18,
+      "unit": 1
+    }
+  },
+  "md.comp.outlined-segmented-button.label-text.type": {
+    "description": "Outlined segmented button label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-segmented-button.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-segmented-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-segmented-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-segmented-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-segmented-button.label-text.line-height"
+    }
+  },
+  "md.comp.outlined-segmented-button.label-text.weight": {
+    "description": "Outlined segmented button label text weight",
+    "value": "md.sys.typescale.label-large.weight"
+  },
+  "md.comp.outlined-segmented-button.label-text.tracking": {
+    "description": "Outlined segmented button label text tracking",
+    "value": "md.sys.typescale.label-large.tracking"
+  },
+  "md.comp.outlined-segmented-button.label-text.size": {
+    "description": "Outlined segmented button label text size",
+    "value": "md.sys.typescale.label-large.size"
+  },
+  "md.comp.outlined-segmented-button.label-text.line-height": {
+    "description": "Outlined segmented button label text line height",
+    "value": "md.sys.typescale.label-large.line-height"
+  },
+  "md.comp.outlined-segmented-button.label-text.font": {
+    "description": "Outlined segmented button label text font",
+    "value": "md.sys.typescale.label-large.font"
+  }
+}

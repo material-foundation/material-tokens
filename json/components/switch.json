@@ -1,0 +1,182 @@
+{
+  "md.comp.switch.track.shape": {
+    "description": "Switch track shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.switch.track.outline.width": {
+    "description": "Switch track outline width",
+    "value": {
+      "value": 2,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.handle.width": {
+    "description": "Switch handle width",
+    "value": {
+      "value": 20,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.handle.height": {
+    "description": "Switch handle height",
+    "value": {
+      "value": 20,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.disabled.handle.elevation": {
+    "description": "Switch disabled handle elevation",
+    "value": "md.sys.elevation.level0"
+  },
+  "md.comp.switch.disabled.handle.opacity": {
+    "description": "Switch disabled handle opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.switch.handle.elevation": {
+    "description": "Switch handle elevation",
+    "value": "md.sys.elevation.level1"
+  },
+  "md.comp.switch.unselected.pressed.state-layer.opacity": {
+    "description": "Switch unselected pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.switch.selected.pressed.state-layer.opacity": {
+    "description": "Switch selected pressed state layer opacity",
+    "value": "md.sys.state.pressed.state-layer-opacity"
+  },
+  "md.comp.switch.unselected.focus.state-layer.opacity": {
+    "description": "Switch unselected focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.switch.selected.focus.state-layer.opacity": {
+    "description": "Switch selected focus state layer opacity",
+    "value": "md.sys.state.focus.state-layer-opacity"
+  },
+  "md.comp.switch.unselected.hover.state-layer.opacity": {
+    "description": "Switch unselected hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.switch.selected.hover.state-layer.opacity": {
+    "description": "Switch selected hover state layer opacity",
+    "value": "md.sys.state.hover.state-layer-opacity"
+  },
+  "md.comp.switch.disabled.selected.handle.opacity": {
+    "description": "Switch disabled selected handle opacity",
+    "value": 1
+  },
+  "md.comp.switch.disabled.unselected.handle.opacity": {
+    "description": "Switch disabled unselected handle opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.switch.state-layer.shape": {
+    "description": "Switch state layer shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.switch.handle.shape": {
+    "description": "Switch handle shape",
+    "value": "md.sys.shape.corner.full"
+  },
+  "md.comp.switch.pressed.handle.width": {
+    "description": "Switch pressed handle width",
+    "value": {
+      "value": 28,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.selected.handle.width": {
+    "description": "Switch selected handle width",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.with-icon.handle.width": {
+    "description": "Switch with icon handle width",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.unselected.handle.width": {
+    "description": "Switch unselected handle width",
+    "value": {
+      "value": 16,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.pressed.handle.height": {
+    "description": "Switch pressed handle height",
+    "value": {
+      "value": 28,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.selected.handle.height": {
+    "description": "Switch selected handle height",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.with-icon.handle.height": {
+    "description": "Switch with icon handle height",
+    "value": {
+      "value": 24,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.unselected.handle.height": {
+    "description": "Switch unselected handle height",
+    "value": {
+      "value": 16,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.unselected.icon.size": {
+    "description": "Switch unselected icon size",
+    "value": {
+      "value": 16,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.selected.icon.size": {
+    "description": "Switch selected icon size",
+    "value": {
+      "value": 16,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.state-layer.size": {
+    "description": "Switch state layer size",
+    "value": {
+      "value": 40,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.track.width": {
+    "description": "Switch track width",
+    "value": {
+      "value": 52,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.track.height": {
+    "description": "Switch track height",
+    "value": {
+      "value": 32,
+      "unit": 1
+    }
+  },
+  "md.comp.switch.disabled.unselected.icon.opacity": {
+    "description": "Switch disabled unselected icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.switch.disabled.selected.icon.opacity": {
+    "description": "Switch disabled selected icon opacity",
+    "value": 0.3799999952316284
+  },
+  "md.comp.switch.disabled.track.opacity": {
+    "description": "Switch disabled track opacity",
+    "value": 0.11999999731779099
+  }
+}
