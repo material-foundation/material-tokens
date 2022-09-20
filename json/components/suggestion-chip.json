@@ -12,7 +12,7 @@
   },
   "md.comp.suggestion-chip.elevated.container.elevation": {
     "description": "Suggestion chip (elevated) container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.suggestion-chip.flat.outline.width": {
     "description": "Suggestion chip container outline width",
@@ -23,7 +23,7 @@
   },
   "md.comp.suggestion-chip.flat.container.elevation": {
     "description": "Suggestion chip container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.suggestion-chip.container.height": {
     "description": "Suggestion chip container height",
@@ -34,27 +34,27 @@
   },
   "md.comp.suggestion-chip.container.shape": {
     "description": "Suggestion chip container shape",
-    "value": "md.sys.shape.corner.small"
+    "value": "{md.sys.shape.corner.small}"
   },
   "md.comp.suggestion-chip.label-text.font": {
     "description": "Suggestion chip label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.suggestion-chip.label-text.line-height": {
     "description": "Suggestion chip label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.suggestion-chip.label-text.size": {
     "description": "Suggestion chip label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.suggestion-chip.label-text.weight": {
     "description": "Suggestion chip label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.suggestion-chip.label-text.tracking": {
     "description": "Suggestion chip label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.suggestion-chip.label-text.type": {
     "description": "Suggestion chip label text type style",
@@ -78,7 +78,7 @@
   },
   "md.comp.suggestion-chip.elevated.disabled.container.elevation": {
     "description": "Suggestion chip (Elevated style) disabled container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.suggestion-chip.elevated.disabled.container.opacity": {
     "description": "Suggestion chip (Elevated style) disabled container opacity",
@@ -90,34 +90,34 @@
   },
   "md.comp.suggestion-chip.elevated.hover.container.elevation": {
     "description": "Suggestion chip (Elevated style) hover container elevation",
-    "value": "md.sys.elevation.level2"
+    "value": "{md.sys.elevation.level2}"
   },
   "md.comp.suggestion-chip.hover.state-layer.opacity": {
     "description": "Suggestion chip (Elevated style) hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.suggestion-chip.elevated.pressed.container.elevation": {
     "description": "Suggestion chip (Elevated style) pressed container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.suggestion-chip.pressed.state-layer.opacity": {
     "description": "Suggestion chip (Elevated style) pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.suggestion-chip.elevated.focus.container.elevation": {
     "description": "(Suggestion chip Elevated style) focus container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.suggestion-chip.focus.state-layer.opacity": {
     "description": "Suggestion chip focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.suggestion-chip.dragged.container.elevation": {
     "description": "Suggestion chip dragged container elevation",
-    "value": "md.sys.elevation.level4"
+    "value": "{md.sys.elevation.level4}"
   },
   "md.comp.suggestion-chip.dragged.state-layer.opacity": {
     "description": "Suggestion chip dragged state layer opacity",
-    "value": "md.sys.state.dragged.state-layer-opacity"
+    "value": "{md.sys.state.dragged.state-layer-opacity}"
   }
 }

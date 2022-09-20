@@ -13,15 +13,15 @@
   },
   "md.comp.filter-chip.elevated.pressed.container.elevation": {
     "description": "Filter chip (Elevated style) pressed container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.filter-chip.elevated.container.elevation": {
     "description": "Filter chip (Elevated style) container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.filter-chip.elevated.disabled.container.elevation": {
     "description": "Filter chip (Elevated style) disabled container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filter-chip.elevated.disabled.container.opacity": {
     "description": "Filter chip (Elevated style) disabled container opacity",
@@ -29,35 +29,35 @@
   },
   "md.comp.filter-chip.elevated.hover.container.elevation": {
     "description": "Filter chip (Elevated style) hover container elevation",
-    "value": "md.sys.elevation.level2"
+    "value": "{md.sys.elevation.level2}"
   },
   "md.comp.filter-chip.flat.selected.hover.container.elevation": {
     "description": "Filter chip (selected) hover container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.filter-chip.flat.unselected.hover.container.elevation": {
     "description": "Filter chip (unselected) hover container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filter-chip.flat.selected.pressed.container.elevation": {
     "description": "Filter chip (selected) pressed container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filter-chip.flat.unselected.pressed.container.elevation": {
     "description": "Filter chip (unselected) pressed container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filter-chip.unselected.pressed.state-layer.opacity": {
     "description": "Filter chip (unselected) pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.filter-chip.selected.pressed.state-layer.opacity": {
     "description": "Filter chip (selected) pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.filter-chip.container.shape": {
     "description": "Filter chip container shape",
-    "value": "md.sys.shape.corner.small"
+    "value": "{md.sys.shape.corner.small}"
   },
   "md.comp.filter-chip.container.height": {
     "description": "Filter chip container height",
@@ -68,7 +68,7 @@
   },
   "md.comp.filter-chip.flat.container.elevation": {
     "description": "Filter chip container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filter-chip.flat.unselected.outline.width": {
     "description": "Filter chip (unselected) outline width",
@@ -86,23 +86,23 @@
   },
   "md.comp.filter-chip.label-text.font": {
     "description": "Filter chip label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.filter-chip.label-text.line-height": {
     "description": "Filter chip label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.filter-chip.label-text.size": {
     "description": "Filter chip label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.filter-chip.label-text.weight": {
     "description": "Filter chip label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.filter-chip.label-text.tracking": {
     "description": "Filter chip label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.filter-chip.label-text.type": {
     "description": "Filter chip label text type style",
@@ -141,42 +141,42 @@
   },
   "md.comp.filter-chip.elevated.focus.container.elevation": {
     "description": "Filter chip (Elevated style) focus container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.filter-chip.flat.selected.focus.container.elevation": {
     "description": "Filter chip (selected) focus container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filter-chip.flat.unselected.focus.container.elevation": {
     "description": "Filter chip (unselected) focus container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filter-chip.unselected.focus.state-layer.opacity": {
     "description": "Filter chip (unselected) focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.filter-chip.selected.focus.state-layer.opacity": {
     "description": "Filter chip (selected) focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.filter-chip.unselected.hover.state-layer.opacity": {
     "description": "Filter chip (unselected) hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.filter-chip.selected.hover.state-layer.opacity": {
     "description": "Filter chip (selected) hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.filter-chip.dragged.container.elevation": {
     "description": "Filter chip dragged container elevation",
-    "value": "md.sys.elevation.level4"
+    "value": "{md.sys.elevation.level4}"
   },
   "md.comp.filter-chip.unselected.dragged.state-layer.opacity": {
     "description": "Filter chip (unselected) dragged state layer opacity",
-    "value": "md.sys.state.dragged.state-layer-opacity"
+    "value": "{md.sys.state.dragged.state-layer-opacity}"
   },
   "md.comp.filter-chip.selected.dragged.state-layer.opacity": {
     "description": "Filter chip (selected) dragged state layer opacity",
-    "value": "md.sys.state.dragged.state-layer-opacity"
+    "value": "{md.sys.state.dragged.state-layer-opacity}"
   }
 }

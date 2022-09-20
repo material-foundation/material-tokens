@@ -13,15 +13,15 @@
   },
   "md.comp.outlined-icon-button.pressed.state-layer.opacity": {
     "description": "Outlined icon button pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.outlined-icon-button.focus.state-layer.opacity": {
     "description": "Outlined icon button focus state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.outlined-icon-button.hover.state-layer.opacity": {
     "description": "Outlined icon button hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.outlined-icon-button.disabled.icon.opacity": {
     "description": "Outlined icon button disabled icon opacity",
@@ -36,7 +36,7 @@
   },
   "md.comp.outlined-icon-button.container.shape": {
     "description": "Outlined icon button container shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.outlined-icon-button.unselected.outline.width": {
     "description": "Outlined icon button unselected outline width",

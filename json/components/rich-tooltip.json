@@ -49,82 +49,82 @@
   },
   "md.comp.rich-tooltip.action.focus.state-layer.opacity": {
     "description": "Rich tooltip action focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.rich-tooltip.action.hover.state-layer.opacity": {
     "description": "Rich tooltip action hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.rich-tooltip.action.label-text.tracking": {
     "description": "Rich tooltip action label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.rich-tooltip.action.label-text.weight": {
     "description": "Rich tooltip action label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.rich-tooltip.action.label-text.size": {
     "description": "Rich tooltip action label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.rich-tooltip.action.label-text.line-height": {
     "description": "Rich tooltip action label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.rich-tooltip.action.label-text.font": {
     "description": "Rich tooltip action label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.rich-tooltip.supporting-text.tracking": {
     "description": "Rich tooltip supporting text tracking",
-    "value": "md.sys.typescale.body-medium.tracking"
+    "value": "{md.sys.typescale.body-medium.tracking}"
   },
   "md.comp.rich-tooltip.supporting-text.weight": {
     "description": "Rich tooltip supporting text weight",
-    "value": "md.sys.typescale.body-medium.weight"
+    "value": "{md.sys.typescale.body-medium.weight}"
   },
   "md.comp.rich-tooltip.supporting-text.size": {
     "description": "Rich tooltip supporting text size",
-    "value": "md.sys.typescale.body-medium.size"
+    "value": "{md.sys.typescale.body-medium.size}"
   },
   "md.comp.rich-tooltip.supporting-text.line-height": {
     "description": "Rich tooltip supporting text line height",
-    "value": "md.sys.typescale.body-medium.line-height"
+    "value": "{md.sys.typescale.body-medium.line-height}"
   },
   "md.comp.rich-tooltip.supporting-text.font": {
     "description": "Rich tooltip supporting text font",
-    "value": "md.sys.typescale.body-medium.font"
+    "value": "{md.sys.typescale.body-medium.font}"
   },
   "md.comp.rich-tooltip.subhead.tracking": {
     "description": "Rich tooltip subhead tracking",
-    "value": "md.sys.typescale.title-small.tracking"
+    "value": "{md.sys.typescale.title-small.tracking}"
   },
   "md.comp.rich-tooltip.subhead.weight": {
     "description": "Rich tooltip subhead weight",
-    "value": "md.sys.typescale.title-small.weight"
+    "value": "{md.sys.typescale.title-small.weight}"
   },
   "md.comp.rich-tooltip.subhead.size": {
     "description": "Rich tooltip subhead size",
-    "value": "md.sys.typescale.title-small.size"
+    "value": "{md.sys.typescale.title-small.size}"
   },
   "md.comp.rich-tooltip.subhead.line-height": {
     "description": "Rich tooltip subhead line height",
-    "value": "md.sys.typescale.title-small.line-height"
+    "value": "{md.sys.typescale.title-small.line-height}"
   },
   "md.comp.rich-tooltip.subhead.font": {
     "description": "Rich tooltip subhead font",
-    "value": "md.sys.typescale.title-small.font"
+    "value": "{md.sys.typescale.title-small.font}"
   },
   "md.comp.rich-tooltip.container.shape": {
     "description": "Rich tooltip container shape",
-    "value": "md.sys.shape.corner.small"
+    "value": "{md.sys.shape.corner.small}"
   },
   "md.comp.rich-tooltip.container.elevation": {
     "description": "Rich tooltip container elevation",
-    "value": "md.sys.elevation.level2"
+    "value": "{md.sys.elevation.level2}"
   },
   "md.comp.rich-tooltip.action.pressed.state-layer.opacity": {
     "description": "Rich tooltip action pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   }
 }

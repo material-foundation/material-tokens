@@ -1,23 +1,23 @@
 {
   "md.comp.filled-menu-button.focus.container.elevation": {
     "description": "Filled mneu button focus container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filled-menu-button.hover.container.elevation": {
     "description": "Filled mneu button hover container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.filled-menu-button.pressed.state-layer.opacity": {
     "description": "Filled menu button pressed state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.filled-menu-button.focus.state-layer.opacity": {
     "description": "Filled menu button focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.filled-menu-button.hover.state-layer.opacity": {
     "description": "Filled menu button hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.filled-menu-button.disabled.trailing-icon.opacity": {
     "description": "Filled menu button disabled trailing icon opacity",
@@ -33,7 +33,7 @@
   },
   "md.comp.filled-menu-button.disabled.container.elevation": {
     "description": "Filled menu button disabled container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filled-menu-button.disabled.container.opacity": {
     "description": "Filled menu button disabled container opacity",
@@ -71,31 +71,31 @@
   },
   "md.comp.filled-menu-button.label-text.weight": {
     "description": "Filled menu button label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.filled-menu-button.label-text.tracking": {
     "description": "Filled menu button label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.filled-menu-button.label-text.size": {
     "description": "Filled menu button label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.filled-menu-button.label-text.line-height": {
     "description": "Filled menu button label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.filled-menu-button.label-text.font": {
     "description": "Filled menu button label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.filled-menu-button.shape": {
     "description": "Filled menu button shape ignore",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.filled-menu-button.container.elevation": {
     "description": "Filled menu button container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filled-menu-button.container.height": {
     "description": "Filled menu button container height",

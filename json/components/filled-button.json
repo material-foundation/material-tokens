@@ -1,11 +1,11 @@
 {
   "md.comp.filled-button.dragged.state-layer.opacity": {
     "description": "Filled button dragged state layer opacity",
-    "value": "md.sys.state.dragged.state-layer-opacity"
+    "value": "{md.sys.state.dragged.state-layer-opacity}"
   },
   "md.comp.filled-button.dragged.container.elevation": {
     "description": "Filled button dragged container elevation",
-    "value": "md.sys.elevation.level3"
+    "value": "{md.sys.elevation.level3}"
   },
   "md.comp.filled-button.label-text.type": {
     "description": "Label text type style",
@@ -25,39 +25,39 @@
   },
   "md.comp.filled-button.focus.state-layer.opacity": {
     "description": "Filled button focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.filled-button.focus.container.elevation": {
     "description": "Filled button focus container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filled-button.hover.state-layer.opacity": {
     "description": "Filled button hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.filled-button.hover.container.elevation": {
     "description": "Filled button hover container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.filled-button.label-text.tracking": {
     "description": "Filled button label tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.filled-button.label-text.weight": {
     "description": "Filled button label weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.filled-button.label-text.size": {
     "description": "Filled button label size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.filled-button.label-text.line-height": {
     "description": "Filled button label line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.filled-button.label-text.font": {
     "description": "Filled button label font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.filled-button.with-icon.icon.size": {
     "description": "Filled button with icon icon size",
@@ -68,7 +68,7 @@
   },
   "md.comp.filled-button.container.elevation": {
     "description": "Filled button container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filled-button.container.height": {
     "description": "Filled button container height",
@@ -79,15 +79,15 @@
   },
   "md.comp.filled-button.container.shape": {
     "description": "Filled button container shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.filled-button.pressed.state-layer.opacity": {
     "description": "Filled button pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.filled-button.pressed.container.elevation": {
     "description": "Filled button pressed container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filled-button.with-icon.disabled.icon.opacity": {
     "description": "Filled button with icon disabled icon opacity",
@@ -103,6 +103,6 @@
   },
   "md.comp.filled-button.disabled.container.elevation": {
     "description": "Filled button disabled container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   }
 }

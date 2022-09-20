@@ -15,10 +15,10 @@
   },
   "md.comp.bottom-app-bar.container.elevation": {
     "description": "Bottom app bar container elevation",
-    "value": "md.sys.elevation.level2"
+    "value": "{md.sys.elevation.level2}"
   },
   "md.comp.bottom-app-bar.container.shape": {
     "description": "Bottom app bar container shape",
-    "value": "md.sys.shape.corner.none"
+    "value": "{md.sys.shape.corner.none}"
   }
 }

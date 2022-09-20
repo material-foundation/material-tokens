@@ -1,15 +1,15 @@
 {
   "md.comp.outlined-menu-button.pressed.state-layer.opacity": {
     "description": "Outlined menu button pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.outlined-menu-button.focus.state-layer.opacity": {
     "description": "Outlined menu button focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.outlined-menu-button.hover.state-layer.opacity": {
     "description": "Outlined menu button hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.outlined-menu-button.disabled.trailing-icon.opacity": {
     "description": "Outlined menu button disabled trailing icon opacity",
@@ -59,27 +59,27 @@
   },
   "md.comp.outlined-menu-button.label-text.weight": {
     "description": "Outlined menu button label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.outlined-menu-button.label-text.tracking": {
     "description": "Outlined menu button label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.outlined-menu-button.label-text.size": {
     "description": "Outlined menu button label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.outlined-menu-button.label-text.line-height": {
     "description": "Outlined menu button label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.outlined-menu-button.label-text.font": {
     "description": "Outlined menu button label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.outlined-menu-button.shape": {
     "description": "Outlined menu button shape ignore",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.outlined-menu-button.container.height": {
     "description": "Outlined menu button container height",

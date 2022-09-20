@@ -1,15 +1,15 @@
 {
   "md.comp.standard-menu-button.pressed.state-layer.opacity": {
     "description": "Standard menu button pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.standard-menu-button.focus.state-layer.opacity": {
     "description": "Standard menu button focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.standard-menu-button.hover.state-layer.opacity": {
     "description": "Standard menu button hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.standard-menu-button.disabled.trailing-icon.opacity": {
     "description": "Standard menu button disabled trailing icon opacity",
@@ -55,27 +55,27 @@
   },
   "md.comp.standard-menu-button.label-text.weight": {
     "description": "Standard menu button label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.standard-menu-button.label-text.tracking": {
     "description": "Standard menu button label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.standard-menu-button.label-text.size": {
     "description": "Standard menu button label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.standard-menu-button.label-text.line-height": {
     "description": "Standard menu button label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.standard-menu-button.label-text.font": {
     "description": "Standard menu button label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.standard-menu-button.container.shape": {
     "description": "Standard menu button container shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.standard-menu-button.container.height": {
     "description": "Standard menu button container height",

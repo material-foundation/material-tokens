@@ -1,7 +1,7 @@
 {
   "md.comp.linear-progress-indicator.active-indicator.shape": {
     "description": "Linear progress indicator active indicator shape",
-    "value": "md.sys.shape.corner.none"
+    "value": "{md.sys.shape.corner.none}"
   },
   "md.comp.linear-progress-indicator.active-indicator.height": {
     "description": "Linear progress indicator active indicator height",
@@ -12,7 +12,7 @@
   },
   "md.comp.linear-progress-indicator.track.shape": {
     "description": "Linear progress indicator track shape",
-    "value": "md.sys.shape.corner.none"
+    "value": "{md.sys.shape.corner.none}"
   },
   "md.comp.linear-progress-indicator.track.height": {
     "description": "Linear progress indicator track height",

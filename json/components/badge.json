@@ -17,23 +17,23 @@
   },
   "md.comp.badge.large.label-text.weight": {
     "description": "Badge large label text weight",
-    "value": "md.sys.typescale.label-small.weight"
+    "value": "{md.sys.typescale.label-small.weight}"
   },
   "md.comp.badge.large.label-text.tracking": {
     "description": "Badge large label text tracking",
-    "value": "md.sys.typescale.label-small.tracking"
+    "value": "{md.sys.typescale.label-small.tracking}"
   },
   "md.comp.badge.large.label-text.size": {
     "description": "Badge large label text size",
-    "value": "md.sys.typescale.label-small.size"
+    "value": "{md.sys.typescale.label-small.size}"
   },
   "md.comp.badge.large.label-text.line-height": {
     "description": "Badge large label text line height",
-    "value": "md.sys.typescale.label-small.line-height"
+    "value": "{md.sys.typescale.label-small.line-height}"
   },
   "md.comp.badge.large.label-text.font": {
     "description": "Badge large label text font",
-    "value": "md.sys.typescale.label-small.font"
+    "value": "{md.sys.typescale.label-small.font}"
   },
   "md.comp.badge.large.size": {
     "description": "Badge large size",
@@ -44,7 +44,7 @@
   },
   "md.comp.badge.large.shape": {
     "description": "Badge large shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.badge.size": {
     "description": "Badge size",
@@ -55,6 +55,6 @@
   },
   "md.comp.badge.shape": {
     "description": "Badge shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   }
 }

@@ -1,7 +1,7 @@
 {
   "md.comp.switch.track.shape": {
     "description": "Switch track shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.switch.track.outline.width": {
     "description": "Switch track outline width",
@@ -26,7 +26,7 @@
   },
   "md.comp.switch.disabled.handle.elevation": {
     "description": "Switch disabled handle elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.switch.disabled.handle.opacity": {
     "description": "Switch disabled handle opacity",
@@ -34,31 +34,31 @@
   },
   "md.comp.switch.handle.elevation": {
     "description": "Switch handle elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.switch.unselected.pressed.state-layer.opacity": {
     "description": "Switch unselected pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.switch.selected.pressed.state-layer.opacity": {
     "description": "Switch selected pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.switch.unselected.focus.state-layer.opacity": {
     "description": "Switch unselected focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.switch.selected.focus.state-layer.opacity": {
     "description": "Switch selected focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.switch.unselected.hover.state-layer.opacity": {
     "description": "Switch unselected hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.switch.selected.hover.state-layer.opacity": {
     "description": "Switch selected hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.switch.disabled.selected.handle.opacity": {
     "description": "Switch disabled selected handle opacity",
@@ -70,11 +70,11 @@
   },
   "md.comp.switch.state-layer.shape": {
     "description": "Switch state layer shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.switch.handle.shape": {
     "description": "Switch handle shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.switch.pressed.handle.width": {
     "description": "Switch pressed handle width",

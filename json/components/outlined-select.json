@@ -8,11 +8,11 @@
   },
   "md.comp.outlined-select.text-field.error.hover.state-layer.opacity": {
     "description": "Outlined select text field error hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.outlined-select.text-field.hover.state-layer.opacity": {
     "description": "Outlined select text field hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.outlined-select.text-field.hover.outline.width": {
     "description": "Outlined select text field hover outline width",
@@ -105,23 +105,23 @@
   },
   "md.comp.outlined-select.menu.list-item.label-text.weight": {
     "description": "Outlined select menu list item label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.outlined-select.menu.list-item.label-text.tracking": {
     "description": "Outlined select menu list item label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.outlined-select.menu.list-item.label-text.size": {
     "description": "Outlined select menu list item label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.outlined-select.menu.list-item.label-text.line-height": {
     "description": "Outlined select menu list item label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.outlined-select.menu.list-item.label-text.font": {
     "description": "Outlined select menu list item label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.outlined-select.menu.list-item.container.height": {
     "description": "Outlined select menu list item container height",
@@ -132,11 +132,11 @@
   },
   "md.comp.outlined-select.menu.container.shape": {
     "description": "Outlined select menu container shape",
-    "value": "md.sys.shape.corner.extra-small"
+    "value": "{md.sys.shape.corner.extra-small}"
   },
   "md.comp.outlined-select.menu.container.elevation": {
     "description": "Outlined select menu container elevation",
-    "value": "md.sys.elevation.level2"
+    "value": "{md.sys.elevation.level2}"
   },
   "md.comp.outlined-select.text-field.trailing-icon.size": {
     "description": "Outlined select text field trailing icon size",
@@ -170,31 +170,31 @@
   },
   "md.comp.outlined-select.text-field.supporting-text.tracking": {
     "description": "Outlined select text field supporting text tracking",
-    "value": "md.sys.typescale.body-small.tracking"
+    "value": "{md.sys.typescale.body-small.tracking}"
   },
   "md.comp.outlined-select.text-field.supporting-text.weight": {
     "description": "Outlined select text field supporting text weight",
-    "value": "md.sys.typescale.body-small.weight"
+    "value": "{md.sys.typescale.body-small.weight}"
   },
   "md.comp.outlined-select.text-field.supporting-text.size": {
     "description": "Outlined select text field supporting text size",
-    "value": "md.sys.typescale.body-small.size"
+    "value": "{md.sys.typescale.body-small.size}"
   },
   "md.comp.outlined-select.text-field.supporting-text.line-height": {
     "description": "Outlined select text field supporting text line height",
-    "value": "md.sys.typescale.body-small.line-height"
+    "value": "{md.sys.typescale.body-small.line-height}"
   },
   "md.comp.outlined-select.text-field.supporting-text.font": {
     "description": "Outlined select text field supporting text font",
-    "value": "md.sys.typescale.body-small.font"
+    "value": "{md.sys.typescale.body-small.font}"
   },
   "md.comp.outlined-select.text-field.label-text.populated.size": {
     "description": "Outlined select text field label text populated size",
-    "value": "md.sys.typescale.body-small.size"
+    "value": "{md.sys.typescale.body-small.size}"
   },
   "md.comp.outlined-select.text-field.label-text.populated.line-height": {
     "description": "Outlined select text field label text populated line height",
-    "value": "md.sys.typescale.body-small.line-height"
+    "value": "{md.sys.typescale.body-small.line-height}"
   },
   "md.comp.outlined-select.text-field.label-text.type": {
     "description": "Outlined select text field label text type style",
@@ -214,23 +214,23 @@
   },
   "md.comp.outlined-select.text-field.label-text.tracking": {
     "description": "Outlined select text field label text tracking",
-    "value": "md.sys.typescale.body-large.tracking"
+    "value": "{md.sys.typescale.body-large.tracking}"
   },
   "md.comp.outlined-select.text-field.label-text.weight": {
     "description": "Outlined select text field label text weight",
-    "value": "md.sys.typescale.body-large.weight"
+    "value": "{md.sys.typescale.body-large.weight}"
   },
   "md.comp.outlined-select.text-field.label-text.size": {
     "description": "Outlined select text field label text size",
-    "value": "md.sys.typescale.body-large.size"
+    "value": "{md.sys.typescale.body-large.size}"
   },
   "md.comp.outlined-select.text-field.label-text.line-height": {
     "description": "Outlined select text field label text line height",
-    "value": "md.sys.typescale.body-large.line-height"
+    "value": "{md.sys.typescale.body-large.line-height}"
   },
   "md.comp.outlined-select.text-field.label-text.font": {
     "description": "Outlined select text field label text font",
-    "value": "md.sys.typescale.body-large.font"
+    "value": "{md.sys.typescale.body-large.font}"
   },
   "md.comp.outlined-select.text-field.input-text.type": {
     "description": "Outlined select text field input text type style",
@@ -250,23 +250,23 @@
   },
   "md.comp.outlined-select.text-field.input-text.tracking": {
     "description": "Outlined select text field input text tracking",
-    "value": "md.sys.typescale.body-large.tracking"
+    "value": "{md.sys.typescale.body-large.tracking}"
   },
   "md.comp.outlined-select.text-field.input-text.weight": {
     "description": "Outlined select text field input text weight",
-    "value": "md.sys.typescale.body-large.weight"
+    "value": "{md.sys.typescale.body-large.weight}"
   },
   "md.comp.outlined-select.text-field.input-text.size": {
     "description": "Outlined select text field input text size",
-    "value": "md.sys.typescale.body-large.size"
+    "value": "{md.sys.typescale.body-large.size}"
   },
   "md.comp.outlined-select.text-field.input-text.line-height": {
     "description": "Outlined select text field input text line height",
-    "value": "md.sys.typescale.body-large.line-height"
+    "value": "{md.sys.typescale.body-large.line-height}"
   },
   "md.comp.outlined-select.text-field.input-text.font": {
     "description": "Outlined select text field input text font",
-    "value": "md.sys.typescale.body-large.font"
+    "value": "{md.sys.typescale.body-large.font}"
   },
   "md.comp.outlined-select.text-field.outline.width": {
     "description": "Outlined select text field outline width",
@@ -277,6 +277,6 @@
   },
   "md.comp.outlined-select.text-field.container.shape": {
     "description": "Outlined select text field container shape",
-    "value": "md.sys.shape.corner.extra-small"
+    "value": "{md.sys.shape.corner.extra-small}"
   }
 }

@@ -5,7 +5,7 @@
   },
   "md.comp.navigation-drawer.scrim.color": {
     "description": "Navigation drawers scrim color",
-    "value": "md.ref.palette.neutral-variant20"
+    "value": "{md.ref.palette.neutral-variant20}"
   },
   "md.comp.navigation-drawer.headline.type": {
     "description": "Type style",
@@ -25,11 +25,11 @@
   },
   "md.comp.navigation-drawer.focus.state-layer.opacity": {
     "description": "Navigation drawers focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.navigation-drawer.hover.state-layer.opacity": {
     "description": "Navigation drawers hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.navigation-drawer.large-badge-label.type": {
     "description": "Navigation drawers large badge label type",
@@ -49,23 +49,23 @@
   },
   "md.comp.navigation-drawer.large-badge-label.weight": {
     "description": "Navigation drawers large badge label weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.navigation-drawer.large-badge-label.tracking": {
     "description": "Navigation drawers large badge label tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.navigation-drawer.large-badge-label.size": {
     "description": "Navigation drawers large badge label size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.navigation-drawer.large-badge-label.line-height": {
     "description": "Navigation drawers large badge label line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.navigation-drawer.large-badge-label.font": {
     "description": "Navigation drawers large badge label font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.navigation-drawer.active-indicator.width": {
     "description": "Navigation drawers active indicator width",
@@ -76,7 +76,7 @@
   },
   "md.comp.navigation-drawer.active-indicator.shape": {
     "description": "Navigation drawers active indicator shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.navigation-drawer.active-indicator.height": {
     "description": "Navigation drawers active indicator height",
@@ -110,43 +110,43 @@
   },
   "md.comp.navigation-drawer.label-text.weight": {
     "description": "Navigation drawers label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.navigation-drawer.label-text.tracking": {
     "description": "Navigation drawers label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.navigation-drawer.label-text.size": {
     "description": "Navigation drawers label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.navigation-drawer.label-text.line-height": {
     "description": "Navigation drawers label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.navigation-drawer.label-text.font": {
     "description": "Navigation drawers label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.navigation-drawer.headline.weight": {
     "description": "Navigation drawers headline weight",
-    "value": "md.sys.typescale.title-small.weight"
+    "value": "{md.sys.typescale.title-small.weight}"
   },
   "md.comp.navigation-drawer.headline.tracking": {
     "description": "Navigation drawers headline tracking",
-    "value": "md.sys.typescale.title-small.tracking"
+    "value": "{md.sys.typescale.title-small.tracking}"
   },
   "md.comp.navigation-drawer.headline.size": {
     "description": "Navigation drawers headline size",
-    "value": "md.sys.typescale.title-small.size"
+    "value": "{md.sys.typescale.title-small.size}"
   },
   "md.comp.navigation-drawer.headline.line-height": {
     "description": "Navigation drawers headline line height",
-    "value": "md.sys.typescale.title-small.line-height"
+    "value": "{md.sys.typescale.title-small.line-height}"
   },
   "md.comp.navigation-drawer.headline.font": {
     "description": "Navigation drawers headline font",
-    "value": "md.sys.typescale.title-small.font"
+    "value": "{md.sys.typescale.title-small.font}"
   },
   "md.comp.navigation-drawer.container.width": {
     "description": "Navigation drawers container width",
@@ -157,11 +157,11 @@
   },
   "md.comp.navigation-drawer.bottom.container.shape": {
     "description": "Navigation drawers bottom container shape",
-    "value": "md.sys.shape.corner.large.top"
+    "value": "{md.sys.shape.corner.large.top}"
   },
   "md.comp.navigation-drawer.container.shape": {
     "description": "Navigation drawers container shape",
-    "value": "md.sys.shape.corner.large.end"
+    "value": "{md.sys.shape.corner.large.end}"
   },
   "md.comp.navigation-drawer.container.height": {
     "description": "Navigation drawers container height",
@@ -172,14 +172,14 @@
   },
   "md.comp.navigation-drawer.standard.container.elevation": {
     "description": "Navigation drawers standard container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.navigation-drawer.modal.container.elevation": {
     "description": "Navigation drawers modal container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.navigation-drawer.pressed.state-layer.opacity": {
     "description": "Navigation drawers pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   }
 }

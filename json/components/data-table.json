@@ -15,11 +15,11 @@
   },
   "md.comp.data-table.row-item.selected.hover.state-layer.opacity": {
     "description": "Data table row item selected hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.data-table.row-item.unselected.hover.state-layer.opacity": {
     "description": "Data table row item unselected hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.data-table.row-item.disabled.label-text.opacity": {
     "description": "Data table row item disabled label text opacity",
@@ -34,23 +34,23 @@
   },
   "md.comp.data-table.footer.supporting-text.tracking": {
     "description": "Data table footer supporting text tracking",
-    "value": "md.sys.typescale.body-medium.tracking"
+    "value": "{md.sys.typescale.body-medium.tracking}"
   },
   "md.comp.data-table.footer.supporting-text.weight": {
     "description": "Data table footer supporting text weight",
-    "value": "md.sys.typescale.body-medium.weight"
+    "value": "{md.sys.typescale.body-medium.weight}"
   },
   "md.comp.data-table.footer.supporting-text.size": {
     "description": "Data table footer supporting text size",
-    "value": "md.sys.typescale.body-medium.size"
+    "value": "{md.sys.typescale.body-medium.size}"
   },
   "md.comp.data-table.footer.supporting-text.line-height": {
     "description": "Data table footer supporting text line height",
-    "value": "md.sys.typescale.body-medium.line-height"
+    "value": "{md.sys.typescale.body-medium.line-height}"
   },
   "md.comp.data-table.footer.supporting-text.font": {
     "description": "Data table footer supporting text font",
-    "value": "md.sys.typescale.body-medium.font"
+    "value": "{md.sys.typescale.body-medium.font}"
   },
   "md.comp.data-table.footer.container.height": {
     "description": "Data table footer container height",
@@ -61,23 +61,23 @@
   },
   "md.comp.data-table.row-item.label-text.tracking": {
     "description": "Data table row item label text tracking",
-    "value": "md.sys.typescale.body-medium.tracking"
+    "value": "{md.sys.typescale.body-medium.tracking}"
   },
   "md.comp.data-table.row-item.label-text.weight": {
     "description": "Data table row item label text weight",
-    "value": "md.sys.typescale.body-medium.weight"
+    "value": "{md.sys.typescale.body-medium.weight}"
   },
   "md.comp.data-table.row-item.label-text.size": {
     "description": "Data table row item label text size",
-    "value": "md.sys.typescale.body-medium.size"
+    "value": "{md.sys.typescale.body-medium.size}"
   },
   "md.comp.data-table.row-item.label-text.line-height": {
     "description": "Data table row item label text line height",
-    "value": "md.sys.typescale.body-medium.line-height"
+    "value": "{md.sys.typescale.body-medium.line-height}"
   },
   "md.comp.data-table.row-item.label-text.font": {
     "description": "Data table row item label text font",
-    "value": "md.sys.typescale.body-medium.font"
+    "value": "{md.sys.typescale.body-medium.font}"
   },
   "md.comp.data-table.row-item.container.height": {
     "description": "Data table row item container height",
@@ -88,23 +88,23 @@
   },
   "md.comp.data-table.header.headline.tracking": {
     "description": "Data table header headline tracking",
-    "value": "md.sys.typescale.title-small.tracking"
+    "value": "{md.sys.typescale.title-small.tracking}"
   },
   "md.comp.data-table.header.headline.weight": {
     "description": "Data table header headline weight",
-    "value": "md.sys.typescale.title-small.weight"
+    "value": "{md.sys.typescale.title-small.weight}"
   },
   "md.comp.data-table.header.headline.size": {
     "description": "Data table header headline size",
-    "value": "md.sys.typescale.title-small.size"
+    "value": "{md.sys.typescale.title-small.size}"
   },
   "md.comp.data-table.header.headline.line-height": {
     "description": "Data table header headline line height",
-    "value": "md.sys.typescale.title-small.line-height"
+    "value": "{md.sys.typescale.title-small.line-height}"
   },
   "md.comp.data-table.header.headline.font": {
     "description": "Data table header headline font",
-    "value": "md.sys.typescale.title-small.font"
+    "value": "{md.sys.typescale.title-small.font}"
   },
   "md.comp.data-table.header.container.height": {
     "description": "Data table header container height",
@@ -122,6 +122,6 @@
   },
   "md.comp.data-table.container.shape": {
     "description": "Data table container shape",
-    "value": "md.sys.shape.corner.extra-small"
+    "value": "{md.sys.shape.corner.extra-small}"
   }
 }

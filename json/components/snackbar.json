@@ -1,15 +1,15 @@
 {
   "md.comp.snackbar.icon.pressed.state-layer.opacity": {
     "description": "Snackbar icon pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.snackbar.icon.focus.state-layer.opacity": {
     "description": "Snackbar icon focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.snackbar.icon.hover.state-layer.opacity": {
     "description": "Snackbar icon hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.snackbar.icon.size": {
     "description": "Snackbar icon size",
@@ -34,62 +34,62 @@
   },
   "md.comp.snackbar.action.pressed.state-layer.opacity": {
     "description": "Snackbar pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.snackbar.action.focus.state-layer.opacity": {
     "description": "Snackbar focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.snackbar.action.hover.state-layer.opacity": {
     "description": "Snackbar hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.snackbar.action.label-text.weight": {
     "description": "Snackbar label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.snackbar.action.label-text.tracking": {
     "description": "Snackbar label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.snackbar.action.label-text.size": {
     "description": "Snackbar label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.snackbar.action.label-text.line-height": {
     "description": "Snackbar label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.snackbar.action.label-text.font": {
     "description": "Snackbar label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.snackbar.supporting-text.weight": {
     "description": "Snackbar supporting text weight",
-    "value": "md.sys.typescale.body-medium.weight"
+    "value": "{md.sys.typescale.body-medium.weight}"
   },
   "md.comp.snackbar.supporting-text.tracking": {
     "description": "Snackbar supporting text tracking",
-    "value": "md.sys.typescale.body-medium.tracking"
+    "value": "{md.sys.typescale.body-medium.tracking}"
   },
   "md.comp.snackbar.supporting-text.size": {
     "description": "Snackbar supporting text size",
-    "value": "md.sys.typescale.body-medium.size"
+    "value": "{md.sys.typescale.body-medium.size}"
   },
   "md.comp.snackbar.supporting-text.line-height": {
     "description": "Snackbar supporting text line height",
-    "value": "md.sys.typescale.body-medium.line-height"
+    "value": "{md.sys.typescale.body-medium.line-height}"
   },
   "md.comp.snackbar.supporting-text.font": {
     "description": "Snackbar supporting text font",
-    "value": "md.sys.typescale.body-medium.font"
+    "value": "{md.sys.typescale.body-medium.font}"
   },
   "md.comp.snackbar.container.shape": {
     "description": "Snackbar container shape",
-    "value": "md.sys.shape.corner.extra-small"
+    "value": "{md.sys.shape.corner.extra-small}"
   },
   "md.comp.snackbar.container.elevation": {
     "description": "Snackbar container elevation",
-    "value": "md.sys.elevation.level3"
+    "value": "{md.sys.elevation.level3}"
   }
 }

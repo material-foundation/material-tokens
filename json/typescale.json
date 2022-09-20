@@ -42,11 +42,11 @@
   },
   "md.sys.typescale.label-small.weight": {
     "description": "Label Small font weight",
-    "value": "md.ref.typeface.weight-medium"
+    "value": "{md.ref.typeface.weight-medium}"
   },
   "md.sys.typescale.label-small.font": {
     "description": "Label Small font name",
-    "value": "md.ref.typeface.plain"
+    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.label-medium": {
     "description": "Label Medium",
@@ -87,11 +87,11 @@
   },
   "md.sys.typescale.label-medium.weight": {
     "description": "Label Medium font weight",
-    "value": "md.ref.typeface.weight-medium"
+    "value": "{md.ref.typeface.weight-medium}"
   },
   "md.sys.typescale.label-medium.font": {
     "description": "Label Medium font name",
-    "value": "md.ref.typeface.plain"
+    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.label-large": {
     "description": "Label Large",
@@ -132,11 +132,11 @@
   },
   "md.sys.typescale.label-large.weight": {
     "description": "Label Large font weight",
-    "value": "md.ref.typeface.weight-medium"
+    "value": "{md.ref.typeface.weight-medium}"
   },
   "md.sys.typescale.label-large.font": {
     "description": "Label Large font name",
-    "value": "md.ref.typeface.plain"
+    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.body-small": {
     "description": "Body Small",
@@ -177,11 +177,11 @@
   },
   "md.sys.typescale.body-small.weight": {
     "description": "Body Small font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.body-small.font": {
     "description": "Body Small font name",
-    "value": "md.ref.typeface.plain"
+    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.body-medium": {
     "description": "Body Medium",
@@ -222,11 +222,11 @@
   },
   "md.sys.typescale.body-medium.weight": {
     "description": "Body Medium font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.body-medium.font": {
     "description": "Body Medium font name",
-    "value": "md.ref.typeface.plain"
+    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.body-large": {
     "description": "Body Large",
@@ -267,11 +267,11 @@
   },
   "md.sys.typescale.body-large.weight": {
     "description": "Body Large font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.body-large.font": {
     "description": "Body Large font name",
-    "value": "md.ref.typeface.plain"
+    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.title-small": {
     "description": "Title Small",
@@ -312,11 +312,11 @@
   },
   "md.sys.typescale.title-small.weight": {
     "description": "Title Small font weight",
-    "value": "md.ref.typeface.weight-medium"
+    "value": "{md.ref.typeface.weight-medium}"
   },
   "md.sys.typescale.title-small.font": {
     "description": "Title Small font name",
-    "value": "md.ref.typeface.plain"
+    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.title-medium": {
     "description": "Title Medium",
@@ -357,11 +357,11 @@
   },
   "md.sys.typescale.title-medium.weight": {
     "description": "Title Medium font weight",
-    "value": "md.ref.typeface.weight-medium"
+    "value": "{md.ref.typeface.weight-medium}"
   },
   "md.sys.typescale.title-medium.font": {
     "description": "Title Medium font name",
-    "value": "md.ref.typeface.plain"
+    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.title-large": {
     "description": "Title Large",
@@ -402,11 +402,11 @@
   },
   "md.sys.typescale.title-large.weight": {
     "description": "Title Large font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.title-large.font": {
     "description": "Title Large font name",
-    "value": "md.ref.typeface.brand"
+    "value": "{md.ref.typeface.brand}"
   },
   "md.sys.typescale.headline-small": {
     "description": "Headline Small",
@@ -447,11 +447,11 @@
   },
   "md.sys.typescale.headline-small.weight": {
     "description": "Headline Small font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.headline-small.font": {
     "description": "Headline Small font name",
-    "value": "md.ref.typeface.brand"
+    "value": "{md.ref.typeface.brand}"
   },
   "md.sys.typescale.headline-medium": {
     "description": "Headline Medium",
@@ -492,11 +492,11 @@
   },
   "md.sys.typescale.headline-medium.weight": {
     "description": "Headline Medium font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.headline-medium.font": {
     "description": "Headline Medium font name",
-    "value": "md.ref.typeface.brand"
+    "value": "{md.ref.typeface.brand}"
   },
   "md.sys.typescale.headline-large": {
     "description": "Headline Large",
@@ -537,11 +537,11 @@
   },
   "md.sys.typescale.headline-large.font": {
     "description": "Headline Large font name",
-    "value": "md.ref.typeface.brand"
+    "value": "{md.ref.typeface.brand}"
   },
   "md.sys.typescale.headline-large.weight": {
     "description": "Headline Large font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.display-small": {
     "description": "Display Small",
@@ -582,11 +582,11 @@
   },
   "md.sys.typescale.display-small.weight": {
     "description": "Display Small font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.display-small.font": {
     "description": "Display Small font name",
-    "value": "md.ref.typeface.brand"
+    "value": "{md.ref.typeface.brand}"
   },
   "md.sys.typescale.display-medium": {
     "description": "Display Medium",
@@ -627,11 +627,11 @@
   },
   "md.sys.typescale.display-medium.weight": {
     "description": "Display Medium font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.display-medium.font": {
     "description": "Display Medium font name",
-    "value": "md.ref.typeface.brand"
+    "value": "{md.ref.typeface.brand}"
   },
   "md.sys.typescale.display-large": {
     "description": "Display Large",
@@ -672,10 +672,10 @@
   },
   "md.sys.typescale.display-large.weight": {
     "description": "Display Large font weight",
-    "value": "md.ref.typeface.weight-regular"
+    "value": "{md.ref.typeface.weight-regular}"
   },
   "md.sys.typescale.display-large.font": {
     "description": "Display Large font name",
-    "value": "md.ref.typeface.brand"
+    "value": "{md.ref.typeface.brand}"
   }
 }

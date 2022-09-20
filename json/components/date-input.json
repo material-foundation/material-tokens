@@ -45,23 +45,23 @@
   },
   "md.comp.date-input.modal.header.headline.tracking": {
     "description": "Header headline tracking",
-    "value": "md.sys.typescale.headline-large.tracking"
+    "value": "{md.sys.typescale.headline-large.tracking}"
   },
   "md.comp.date-input.modal.header.headline.weight": {
     "description": "Header headline weight",
-    "value": "md.sys.typescale.headline-large.weight"
+    "value": "{md.sys.typescale.headline-large.weight}"
   },
   "md.comp.date-input.modal.header.headline.size": {
     "description": "Header headline size",
-    "value": "md.sys.typescale.headline-large.size"
+    "value": "{md.sys.typescale.headline-large.size}"
   },
   "md.comp.date-input.modal.header.headline.line-height": {
     "description": "Header headline line height",
-    "value": "md.sys.typescale.headline-large.line-height"
+    "value": "{md.sys.typescale.headline-large.line-height}"
   },
   "md.comp.date-input.modal.header.headline.font": {
     "description": "Header headline font",
-    "value": "md.sys.typescale.headline-large.font"
+    "value": "{md.sys.typescale.headline-large.font}"
   },
   "md.comp.date-input.modal.header.supporting-text.type": {
     "description": "Header supporting text type style",
@@ -81,30 +81,30 @@
   },
   "md.comp.date-input.modal.header.supporting-text.tracking": {
     "description": "Header supporting text tracking",
-    "value": "md.sys.typescale.label-medium.tracking"
+    "value": "{md.sys.typescale.label-medium.tracking}"
   },
   "md.comp.date-input.modal.header.supporting-text.weight": {
     "description": "Header supporting text weight",
-    "value": "md.sys.typescale.label-medium.weight"
+    "value": "{md.sys.typescale.label-medium.weight}"
   },
   "md.comp.date-input.modal.header.supporting-text.size": {
     "description": "Header supporting text size",
-    "value": "md.sys.typescale.label-medium.size"
+    "value": "{md.sys.typescale.label-medium.size}"
   },
   "md.comp.date-input.modal.header.supporting-text.line-height": {
     "description": "Header supporting text line height",
-    "value": "md.sys.typescale.label-medium.line-height"
+    "value": "{md.sys.typescale.label-medium.line-height}"
   },
   "md.comp.date-input.modal.header.supporting-text.font": {
     "description": "Header supporting text font",
-    "value": "md.sys.typescale.label-medium.font"
+    "value": "{md.sys.typescale.label-medium.font}"
   },
   "md.comp.date-input.modal.container.shape": {
     "description": "Container shape",
-    "value": "md.sys.shape.corner.extra-large"
+    "value": "{md.sys.shape.corner.extra-large}"
   },
   "md.comp.date-input.modal.container.elevation": {
     "description": "Container elevation",
-    "value": "md.sys.elevation.level3"
+    "value": "{md.sys.elevation.level3}"
   }
 }

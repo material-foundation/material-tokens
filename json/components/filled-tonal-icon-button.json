@@ -1,15 +1,15 @@
 {
   "md.comp.filled-tonal-icon-button.pressed.state-layer.opacity": {
     "description": "Filled tonal icon button pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.filled-tonal-icon-button.focus.state-layer.opacity": {
     "description": "Filled tonal icon button focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.filled-tonal-icon-button.hover.state-layer.opacity": {
     "description": "Filled tonal icon button hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.filled-tonal-icon-button.disabled.container.opacity": {
     "description": "Filled tonal icon button disabled container opacity",
@@ -21,7 +21,7 @@
   },
   "md.comp.filled-tonal-icon-button.container.shape": {
     "description": "Filled tonal icon button container shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.filled-tonal-icon-button.container.size": {
     "description": "Filled tonal icon button container size",

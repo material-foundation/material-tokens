@@ -1,19 +1,19 @@
 {
   "md.comp.radio-button.unselected.focus.state-layer.opacity": {
     "description": "Radio button unselected focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.radio-button.selected.focus.state-layer.opacity": {
     "description": "Radio button selected focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.radio-button.unselected.hover.state-layer.opacity": {
     "description": "Radio button unselected hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.radio-button.selected.hover.state-layer.opacity": {
     "description": "Radio button selected hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.radio-button.state-layer.size": {
     "description": "Radio button state layer size",
@@ -31,11 +31,11 @@
   },
   "md.comp.radio-button.unselected.pressed.state-layer.opacity": {
     "description": "Radio button unselected pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.radio-button.selected.pressed.state-layer.opacity": {
     "description": "Radio button selected pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.radio-button.disabled.unselected.icon.opacity": {
     "description": "Radio button disabled unselected icon opacity",

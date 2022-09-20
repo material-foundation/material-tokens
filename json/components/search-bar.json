@@ -15,15 +15,15 @@
   },
   "md.comp.search-bar.pressed.state-layer.opacity": {
     "description": "Search bar pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.search-bar.hover.state-layer.opacity": {
     "description": "Search bar hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.search-bar.avatar.shape": {
     "description": "Search bar avatar shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.search-bar.input-text.type": {
     "description": "Search bar input text type",
@@ -43,23 +43,23 @@
   },
   "md.comp.search-bar.input-text.tracking": {
     "description": "Search bar input text tracking",
-    "value": "md.sys.typescale.body-large.tracking"
+    "value": "{md.sys.typescale.body-large.tracking}"
   },
   "md.comp.search-bar.input-text.weight": {
     "description": "Search bar input text weight",
-    "value": "md.sys.typescale.body-large.weight"
+    "value": "{md.sys.typescale.body-large.weight}"
   },
   "md.comp.search-bar.input-text.size": {
     "description": "Search bar input text size",
-    "value": "md.sys.typescale.body-large.size"
+    "value": "{md.sys.typescale.body-large.size}"
   },
   "md.comp.search-bar.input-text.line-height": {
     "description": "Search bar input text line height",
-    "value": "md.sys.typescale.body-large.line-height"
+    "value": "{md.sys.typescale.body-large.line-height}"
   },
   "md.comp.search-bar.input-text.font": {
     "description": "Search bar input text font",
-    "value": "md.sys.typescale.body-large.font"
+    "value": "{md.sys.typescale.body-large.font}"
   },
   "md.comp.search-bar.supporting-text.type": {
     "description": "search bar supporting text type",
@@ -79,30 +79,30 @@
   },
   "md.comp.search-bar.supporting-text.tracking": {
     "description": "Search bar supporting text tracking",
-    "value": "md.sys.typescale.body-large.tracking"
+    "value": "{md.sys.typescale.body-large.tracking}"
   },
   "md.comp.search-bar.supporting-text.weight": {
     "description": "Search bar supporting text weight",
-    "value": "md.sys.typescale.body-large.weight"
+    "value": "{md.sys.typescale.body-large.weight}"
   },
   "md.comp.search-bar.supporting-text.size": {
     "description": "Search bar supporting text size",
-    "value": "md.sys.typescale.body-large.size"
+    "value": "{md.sys.typescale.body-large.size}"
   },
   "md.comp.search-bar.supporting-text.line-height": {
     "description": "Search bar supporting text line height",
-    "value": "md.sys.typescale.body-large.line-height"
+    "value": "{md.sys.typescale.body-large.line-height}"
   },
   "md.comp.search-bar.supporting-text.font": {
     "description": "Search bar supporting text font",
-    "value": "md.sys.typescale.body-large.font"
+    "value": "{md.sys.typescale.body-large.font}"
   },
   "md.comp.search-bar.container.shape": {
     "description": "Search bar container shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.search-bar.container.elevation": {
     "description": "Search bar container elevation",
-    "value": "md.sys.elevation.level3"
+    "value": "{md.sys.elevation.level3}"
   }
 }

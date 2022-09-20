@@ -5,19 +5,19 @@
   },
   "md.comp.outlined-card.disabled.container.elevation": {
     "description": "Outlined card disabled container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.outlined-card.pressed.container.elevation": {
     "description": "Outlined card pressed container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.outlined-card.focus.container.elevation": {
     "description": "Outlined card focus container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.outlined-card.hover.container.elevation": {
     "description": "Outlined card hover container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.outlined-card.icon.size": {
     "description": "Outlined card icon size",
@@ -35,30 +35,30 @@
   },
   "md.comp.outlined-card.focus.state-layer.opacity": {
     "description": "Outlined card focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.outlined-card.hover.state-layer.opacity": {
     "description": "Outlined card hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.outlined-card.container.shape": {
     "description": "Outlined card container shape",
-    "value": "md.sys.shape.corner.medium"
+    "value": "{md.sys.shape.corner.medium}"
   },
   "md.comp.outlined-card.container.elevation": {
     "description": "Outlined card container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.outlined-card.dragged.state-layer.opacity": {
     "description": "Outlined card dragged state layer opacity",
-    "value": "md.sys.state.dragged.state-layer-opacity"
+    "value": "{md.sys.state.dragged.state-layer-opacity}"
   },
   "md.comp.outlined-card.dragged.container.elevation": {
     "description": "Outlined card dragged container elevation",
-    "value": "md.sys.elevation.level3"
+    "value": "{md.sys.elevation.level3}"
   },
   "md.comp.outlined-card.pressed.state-layer.opacity": {
     "description": "Outlined card pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   }
 }

@@ -17,26 +17,26 @@
   },
   "md.comp.plain-tooltip.supporting-text.tracking": {
     "description": "Plain tooltip supporting text tracking",
-    "value": "md.sys.typescale.body-small.tracking"
+    "value": "{md.sys.typescale.body-small.tracking}"
   },
   "md.comp.plain-tooltip.supporting-text.weight": {
     "description": "Plain tooltip supporting text weight",
-    "value": "md.sys.typescale.body-small.weight"
+    "value": "{md.sys.typescale.body-small.weight}"
   },
   "md.comp.plain-tooltip.supporting-text.size": {
     "description": "Plain tooltip supporting text size",
-    "value": "md.sys.typescale.body-small.size"
+    "value": "{md.sys.typescale.body-small.size}"
   },
   "md.comp.plain-tooltip.supporting-text.line-height": {
     "description": "Plain tooltip supporting text line height",
-    "value": "md.sys.typescale.body-small.line-height"
+    "value": "{md.sys.typescale.body-small.line-height}"
   },
   "md.comp.plain-tooltip.supporting-text.font": {
     "description": "Plain tooltip supporting text font",
-    "value": "md.sys.typescale.body-small.font"
+    "value": "{md.sys.typescale.body-small.font}"
   },
   "md.comp.plain-tooltip.container.shape": {
     "description": "Plain tooltip container shape",
-    "value": "md.sys.shape.corner.small"
+    "value": "{md.sys.shape.corner.small}"
   }
 }

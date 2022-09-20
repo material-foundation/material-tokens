@@ -24,11 +24,11 @@
   },
   "md.comp.menu.list-item.focus.state-layer.opacity": {
     "description": "Menu list item focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.menu.list-item.hover.state-layer.opacity": {
     "description": "Menu list item hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.menu.cascading-menu-indicator.icon.size": {
     "description": "Menu icon size",
@@ -53,23 +53,23 @@
   },
   "md.comp.menu.list-item.label-text.weight": {
     "description": "Menu list item label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.menu.list-item.label-text.tracking": {
     "description": "Menu list item label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.menu.list-item.label-text.size": {
     "description": "Menu list item label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.menu.list-item.label-text.line-height": {
     "description": "Menu list item label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.menu.list-item.label-text.font": {
     "description": "Menu list item label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.menu.list-item.container.height": {
     "description": "Menu list item container height",
@@ -80,15 +80,15 @@
   },
   "md.comp.menu.container.shape": {
     "description": "Menu container shape",
-    "value": "md.sys.shape.corner.extra-small"
+    "value": "{md.sys.shape.corner.extra-small}"
   },
   "md.comp.menu.container.elevation": {
     "description": "Menu container elevation",
-    "value": "md.sys.elevation.level2"
+    "value": "{md.sys.elevation.level2}"
   },
   "md.comp.menu.list-item.pressed.state-layer.opacity": {
     "description": "Menu list item pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.menu.list-item.with-trailing-icon.disabled.trailing-icon.opacity": {
     "description": "Menu list item disabled trailing icon opacity",

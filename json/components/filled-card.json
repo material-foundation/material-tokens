@@ -5,11 +5,11 @@
   },
   "md.comp.filled-card.disabled.container.elevation": {
     "description": "Filled card disabled container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filled-card.container.shape": {
     "description": "Filled card container shape",
-    "value": "md.sys.shape.corner.medium"
+    "value": "{md.sys.shape.corner.medium}"
   },
   "md.comp.filled-card.icon.size": {
     "description": "Filled card icon size",
@@ -20,38 +20,38 @@
   },
   "md.comp.filled-card.focus.state-layer.opacity": {
     "description": "Filled card focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.filled-card.focus.container.elevation": {
     "description": "Filled card focus container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filled-card.hover.state-layer.opacity": {
     "description": "Filled card hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.filled-card.hover.container.elevation": {
     "description": "Filled card hover container elevation",
-    "value": "md.sys.elevation.level1"
+    "value": "{md.sys.elevation.level1}"
   },
   "md.comp.filled-card.container.elevation": {
     "description": "Filled card container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   },
   "md.comp.filled-card.dragged.state-layer.opacity": {
     "description": "Filled card dragged state layer opacity",
-    "value": "md.sys.state.dragged.state-layer-opacity"
+    "value": "{md.sys.state.dragged.state-layer-opacity}"
   },
   "md.comp.filled-card.dragged.container.elevation": {
     "description": "Filled card dragged container elevation",
-    "value": "md.sys.elevation.level3"
+    "value": "{md.sys.elevation.level3}"
   },
   "md.comp.filled-card.pressed.state-layer.opacity": {
     "description": "Filled card pressed state layer opacity",
-    "value": "md.sys.state.pressed.state-layer-opacity"
+    "value": "{md.sys.state.pressed.state-layer-opacity}"
   },
   "md.comp.filled-card.pressed.container.elevation": {
     "description": "Filled card pressed container elevation",
-    "value": "md.sys.elevation.level0"
+    "value": "{md.sys.elevation.level0}"
   }
 }

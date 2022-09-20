@@ -8,11 +8,11 @@
   },
   "md.comp.filled-autocomplete.text-field.error.hover.state-layer.opacity": {
     "description": "Filled autocomplete text field error hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.filled-autocomplete.text-field.hover.state-layer.opacity": {
     "description": "Filled autocomplete text field hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.filled-autocomplete.text-field.hover.active-indicator.height": {
     "description": "Filled autocomplete text field hover active indicator height",
@@ -95,23 +95,23 @@
   },
   "md.comp.filled-autocomplete.menu.list-item.label-text.weight": {
     "description": "Filled autocomplete menu list item label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.filled-autocomplete.menu.list-item.label-text.tracking": {
     "description": "Filled autocomplete menu list item label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.filled-autocomplete.menu.list-item.label-text.size": {
     "description": "Filled autocomplete menu list item label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.filled-autocomplete.menu.list-item.label-text.line-height": {
     "description": "Filled autocomplete menu list item label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.filled-autocomplete.menu.list-item.label-text.font": {
     "description": "Filled autocomplete menu list item label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   },
   "md.comp.filled-autocomplete.menu.list-item.container.height": {
     "description": "Filled autocomplete menu list item container height",
@@ -122,11 +122,11 @@
   },
   "md.comp.filled-autocomplete.menu.container.shape": {
     "description": "Filled autocomplete menu container shape",
-    "value": "md.sys.shape.corner.extra-small"
+    "value": "{md.sys.shape.corner.extra-small}"
   },
   "md.comp.filled-autocomplete.menu.container.elevation": {
     "description": "Filled autocomplete menu container elevation",
-    "value": "md.sys.elevation.level2"
+    "value": "{md.sys.elevation.level2}"
   },
   "md.comp.filled-autocomplete.text-field.trailing-icon.size": {
     "description": "Filled autocomplete text field trailing icon size",
@@ -160,31 +160,31 @@
   },
   "md.comp.filled-autocomplete.text-field.supporting-text.tracking": {
     "description": "Filled autocomplete text field supporting text tracking",
-    "value": "md.sys.typescale.body-small.tracking"
+    "value": "{md.sys.typescale.body-small.tracking}"
   },
   "md.comp.filled-autocomplete.text-field.supporting-text.weight": {
     "description": "Filled autocomplete text field supporting text weight",
-    "value": "md.sys.typescale.body-small.weight"
+    "value": "{md.sys.typescale.body-small.weight}"
   },
   "md.comp.filled-autocomplete.text-field.supporting-text.size": {
     "description": "Filled autocomplete text field supporting text size",
-    "value": "md.sys.typescale.body-small.size"
+    "value": "{md.sys.typescale.body-small.size}"
   },
   "md.comp.filled-autocomplete.text-field.supporting-text.line-height": {
     "description": "Filled autocomplete text field supporting text line height",
-    "value": "md.sys.typescale.body-small.line-height"
+    "value": "{md.sys.typescale.body-small.line-height}"
   },
   "md.comp.filled-autocomplete.text-field.supporting-text.font": {
     "description": "Filled autocomplete text field supporting text font",
-    "value": "md.sys.typescale.body-small.font"
+    "value": "{md.sys.typescale.body-small.font}"
   },
   "md.comp.filled-autocomplete.text-field.label-text.populated.size": {
     "description": "Filled autocomplete text field label text populated size",
-    "value": "md.sys.typescale.body-small.size"
+    "value": "{md.sys.typescale.body-small.size}"
   },
   "md.comp.filled-autocomplete.text-field.label-text.populated.line-height": {
     "description": "Filled autocomplete text field label text populated line height",
-    "value": "md.sys.typescale.body-small.line-height"
+    "value": "{md.sys.typescale.body-small.line-height}"
   },
   "md.comp.filled-autocomplete.text-field.label-text.type": {
     "description": "Filled autocomplete text field label text type style",
@@ -204,23 +204,23 @@
   },
   "md.comp.filled-autocomplete.text-field.label-text.tracking": {
     "description": "Filled autocomplete text field label text tracking",
-    "value": "md.sys.typescale.body-large.tracking"
+    "value": "{md.sys.typescale.body-large.tracking}"
   },
   "md.comp.filled-autocomplete.text-field.label-text.weight": {
     "description": "Filled autocomplete text field label text weight",
-    "value": "md.sys.typescale.body-large.weight"
+    "value": "{md.sys.typescale.body-large.weight}"
   },
   "md.comp.filled-autocomplete.text-field.label-text.size": {
     "description": "Filled autocomplete text field label text size",
-    "value": "md.sys.typescale.body-large.size"
+    "value": "{md.sys.typescale.body-large.size}"
   },
   "md.comp.filled-autocomplete.text-field.label-text.line-height": {
     "description": "Filled autocomplete text field label text line height",
-    "value": "md.sys.typescale.body-large.line-height"
+    "value": "{md.sys.typescale.body-large.line-height}"
   },
   "md.comp.filled-autocomplete.text-field.label-text.font": {
     "description": "Filled autocomplete text field label text font",
-    "value": "md.sys.typescale.body-large.font"
+    "value": "{md.sys.typescale.body-large.font}"
   },
   "md.comp.filled-autocomplete.text-field.input-text.type": {
     "description": "Filled autocomplete text field input text type styl",
@@ -240,23 +240,23 @@
   },
   "md.comp.filled-autocomplete.text-field.input-text.tracking": {
     "description": "Filled autocomplete text field input text tracking",
-    "value": "md.sys.typescale.body-large.tracking"
+    "value": "{md.sys.typescale.body-large.tracking}"
   },
   "md.comp.filled-autocomplete.text-field.input-text.weight": {
     "description": "Filled autocomplete text field input text weight",
-    "value": "md.sys.typescale.body-large.weight"
+    "value": "{md.sys.typescale.body-large.weight}"
   },
   "md.comp.filled-autocomplete.text-field.input-text.size": {
     "description": "Filled autocomplete text field input text size",
-    "value": "md.sys.typescale.body-large.size"
+    "value": "{md.sys.typescale.body-large.size}"
   },
   "md.comp.filled-autocomplete.text-field.input-text.line-height": {
     "description": "Filled autocomplete text field input text line height",
-    "value": "md.sys.typescale.body-large.line-height"
+    "value": "{md.sys.typescale.body-large.line-height}"
   },
   "md.comp.filled-autocomplete.text-field.input-text.font": {
     "description": "Filled autocomplete text field input text font",
-    "value": "md.sys.typescale.body-large.font"
+    "value": "{md.sys.typescale.body-large.font}"
   },
   "md.comp.filled-autocomplete.text-field.active-indicator.height": {
     "description": "Filled autocomplete text field active indicator height",
@@ -267,6 +267,6 @@
   },
   "md.comp.filled-autocomplete.text-field.container.shape": {
     "description": "Filled autocomplete text field container shape",
-    "value": "md.sys.shape.corner.extra-small.top"
+    "value": "{md.sys.shape.corner.extra-small.top}"
   }
 }

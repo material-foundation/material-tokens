@@ -1,7 +1,7 @@
 {
   "md.comp.outlined-segmented-button.shape": {
     "description": "Outlined segmented button shape",
-    "value": "md.sys.shape.corner.full"
+    "value": "{md.sys.shape.corner.full}"
   },
   "md.comp.outlined-segmented-button.container.height": {
     "description": "Outlined segmented button container height",
@@ -19,15 +19,15 @@
   },
   "md.comp.outlined-segmented-button.pressed.state-layer.opacity": {
     "description": "Outlined segmented button pressed state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.outlined-segmented-button.focus.state-layer.opacity": {
     "description": "Outlined segmented button focus state layer opacity",
-    "value": "md.sys.state.focus.state-layer-opacity"
+    "value": "{md.sys.state.focus.state-layer-opacity}"
   },
   "md.comp.outlined-segmented-button.hover.state-layer.opacity": {
     "description": "Outlined segmented button hover state layer opacity",
-    "value": "md.sys.state.hover.state-layer-opacity"
+    "value": "{md.sys.state.hover.state-layer-opacity}"
   },
   "md.comp.outlined-segmented-button.disabled.icon.opacity": {
     "description": "Outlined segmented button disabled icon opacity",
@@ -66,22 +66,22 @@
   },
   "md.comp.outlined-segmented-button.label-text.weight": {
     "description": "Outlined segmented button label text weight",
-    "value": "md.sys.typescale.label-large.weight"
+    "value": "{md.sys.typescale.label-large.weight}"
   },
   "md.comp.outlined-segmented-button.label-text.tracking": {
     "description": "Outlined segmented button label text tracking",
-    "value": "md.sys.typescale.label-large.tracking"
+    "value": "{md.sys.typescale.label-large.tracking}"
   },
   "md.comp.outlined-segmented-button.label-text.size": {
     "description": "Outlined segmented button label text size",
-    "value": "md.sys.typescale.label-large.size"
+    "value": "{md.sys.typescale.label-large.size}"
   },
   "md.comp.outlined-segmented-button.label-text.line-height": {
     "description": "Outlined segmented button label text line height",
-    "value": "md.sys.typescale.label-large.line-height"
+    "value": "{md.sys.typescale.label-large.line-height}"
   },
   "md.comp.outlined-segmented-button.label-text.font": {
     "description": "Outlined segmented button label text font",
-    "value": "md.sys.typescale.label-large.font"
+    "value": "{md.sys.typescale.label-large.font}"
   }
 }
