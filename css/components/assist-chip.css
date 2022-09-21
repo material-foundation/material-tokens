@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Assist chip dragged state layer opacity */
   --md-comp-assist-chip-dragged-state-layer-opacity: var(--md-sys-state-dragged-state-layer-opacity);
   /* Assist chip dragged container elevation */

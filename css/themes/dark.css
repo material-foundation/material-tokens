@@ -14,8 +14,7 @@
  limitations under the License.
 */
 
-:root {
-  color-scheme: dark;
+:where(html) {
   /* Scrim */
   --md-sys-color-scrim: var(--md-ref-palette-neutral0);
   /* Outline Variant */

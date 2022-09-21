@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Outlined autocomplete text field container height */
   --md-comp-outlined-autocomplete-text-field-container-height: 56px;
   /* Outlined autocomplete text field error hover state layer opacity */

@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Filter chip with trailing icon (disabled) trailing icon opacity */
   --md-comp-filter-chip-with-trailing-icon-disabled-trailing-icon-opacity: 0.3799999952316284;
   /* Filter chip with leading icon (disabled) leading icon opacity */

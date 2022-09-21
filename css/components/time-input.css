@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Time input period selector container height */
   --md-comp-time-input-period-selector-container-height: 72px;
   /* Time input period selector container width */

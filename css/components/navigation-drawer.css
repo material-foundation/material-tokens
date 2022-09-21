@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Navigation drawers scrim opacity */
   --md-comp-navigation-drawer-scrim-opacity: 0.4000000059604645;
   /* Navigation drawers scrim color */

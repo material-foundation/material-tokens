@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Icon button selected pressed state layer opacity */
   --md-comp-icon-button-selected-pressed-state-layer-opacity: var(--md-sys-state-pressed-state-layer-opacity);
   /* Icon button unselected pressed state layer opacity */

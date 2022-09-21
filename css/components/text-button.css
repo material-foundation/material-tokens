@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Text button container elevation */
   --md-comp-text-button-container-elevation: var(--md-sys-elevation-level0);
   /* Text button focus state layer opacity */

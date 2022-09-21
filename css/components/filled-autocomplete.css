@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Filled autocomplete text field container height */
   --md-comp-filled-autocomplete-text-field-container-height: 56px;
   /* Filled autocomplete text field error hover state layer opacity */

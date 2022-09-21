@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Outlined segmented button shape */
   --md-comp-outlined-segmented-button-shape: var(--md-sys-shape-corner-full);
   /* Outlined segmented button container height */

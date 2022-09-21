@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Error 0 */
   --md-ref-palette-error0: #000000;
   /* Error 10 */

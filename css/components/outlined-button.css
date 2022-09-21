@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Outlined button container elevation */
   --md-comp-outlined-button-container-elevation: var(--md-sys-elevation-level0);
   /* Outlined button focus state layer opacity */

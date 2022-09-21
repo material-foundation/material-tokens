@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Label Medium text transform */
   --md-sys-typescale-label-medium-text-transform: 1;
   /* Label Small line height */

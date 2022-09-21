@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Scrim container opacity */
   --md-comp-scrim-container-opacity: 0.3199999928474426;
 }

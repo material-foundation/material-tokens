@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Header container height */
   --md-comp-date-input-modal-header-container-height: 120px;
   /* Header container width */

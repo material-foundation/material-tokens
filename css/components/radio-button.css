@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Radio button unselected focus state layer opacity */
   --md-comp-radio-button-unselected-focus-state-layer-opacity: var(--md-sys-state-focus-state-layer-opacity);
   /* Radio button selected focus state layer opacity */

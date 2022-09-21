@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Dialog divider color */
   --md-comp-dialog-with-divider-divider-height: 1px;
   /* Dialog subhead tracking */

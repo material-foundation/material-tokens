@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Elevated button focus container elevation */
   --md-comp-elevated-button-focus-container-elevation: var(--md-sys-elevation-level1);
   /* Elevated button focus state layer opacity */

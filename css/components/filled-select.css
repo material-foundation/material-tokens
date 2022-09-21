@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Filled select text field container height */
   --md-comp-filled-select-text-field-container-height: 56px;
   /* Filled select text field error hover state layer opacity */

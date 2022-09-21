@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Divider thickness */
   --md-comp-divider-thickness: 1px;
 }

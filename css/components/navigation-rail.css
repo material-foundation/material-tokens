@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Navigation rail large badge label tracking */
   --md-comp-navigation-rail-large-badge-label-tracking: var(--md-sys-typescale-label-small-tracking);
   /* Navigation rail large badge label weight */

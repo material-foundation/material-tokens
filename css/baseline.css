@@ -23,5 +23,4 @@
 @import url(motion.css);
 @import url(state.css);
 @import url(elevation.css);
-@import url(theme/light.css) screen and (prefers-color-scheme: light);
-@import url(theme/dark.css) screen and (prefers-color-scheme: dark);
+@import url(themes/auto.css);

@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Slider label label text font size */
   --md-comp-slider-label-label-text-font-size: var(--md-sys-typescale-label-medium-size);
   /* Slider label label text font size */

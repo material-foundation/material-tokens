@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Snackbar icon pressed state layer opacity */
   --md-comp-snackbar-icon-pressed-state-layer-opacity: var(--md-sys-state-pressed-state-layer-opacity);
   /* Snackbar icon focus state layer opacity */

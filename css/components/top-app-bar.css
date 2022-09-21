@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Top app bar (small) on scroll container elevation */
   --md-comp-top-app-bar-small-on-scroll-container-elevation: var(--md-sys-elevation-level2);
   /* Top app bar (small) trailing icon size */

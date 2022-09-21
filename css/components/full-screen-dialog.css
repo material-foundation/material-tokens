@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Full screen dialog divider height */
   --md-comp-full-screen-dialog-with-divider-divider-height: 1px;
   /* Full screen dialog action bar pressed state layer opacity */

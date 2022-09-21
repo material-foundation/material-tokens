@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Badge large label text weight */
   --md-comp-badge-large-label-text-weight: var(--md-sys-typescale-label-small-weight);
   /* Badge large label text tracking */

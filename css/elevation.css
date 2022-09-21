@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* 0 */
   --md-sys-elevation-level0: 0px;
   /* +1 */

@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Carousel item disabled outline opacity */
   --md-comp-carousel-item-with-outline-disabled-outline-opacity: 0.11999999731779099;
   /* Carousel item outline width */

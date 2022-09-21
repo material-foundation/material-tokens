@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:root {
+:where(html) {
   /* Linear progress indicator active indicator shape */
   --md-comp-linear-progress-indicator-active-indicator-shape: var(--md-sys-shape-corner-none);
   /* Linear progress indicator active indicator height */
