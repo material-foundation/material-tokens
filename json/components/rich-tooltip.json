@@ -78,53 +78,5 @@
   "md.comp.rich-tooltip.action.pressed.state-layer.opacity": {
     "description": "Rich tooltip action pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
-  },
-  "md.comp.rich-tooltip.action.label-text.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.rich-tooltip.action.label-text.font",
-      "fontWeightTokenName": "md.comp.rich-tooltip.action.label-text.weight",
-      "fontSizeTokenName": "md.comp.rich-tooltip.action.label-text.size",
-      "fontTrackingTokenName": "md.comp.rich-tooltip.action.label-text.tracking",
-      "lineHeightTokenName": "md.comp.rich-tooltip.action.label-text.line-height"
-    }
-  },
-  "md.comp.rich-tooltip.supporting-text.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.rich-tooltip.supporting-text.font",
-      "fontWeightTokenName": "md.comp.rich-tooltip.supporting-text.weight",
-      "fontSizeTokenName": "md.comp.rich-tooltip.supporting-text.size",
-      "fontTrackingTokenName": "md.comp.rich-tooltip.supporting-text.tracking",
-      "lineHeightTokenName": "md.comp.rich-tooltip.supporting-text.line-height"
-    }
-  },
-  "md.comp.rich-tooltip.subhead.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.rich-tooltip.subhead.font",
-      "fontWeightTokenName": "md.comp.rich-tooltip.subhead.weight",
-      "fontSizeTokenName": "md.comp.rich-tooltip.subhead.size",
-      "fontTrackingTokenName": "md.comp.rich-tooltip.subhead.tracking",
-      "lineHeightTokenName": "md.comp.rich-tooltip.subhead.line-height"
-    }
   }
 }

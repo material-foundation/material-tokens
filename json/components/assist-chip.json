@@ -94,21 +94,5 @@
   "md.comp.assist-chip.container.shape": {
     "description": "Assist chip container shape",
     "value": "{md.sys.shape.corner.small}"
-  },
-  "md.comp.assist-chip.label-text.type": {
-    "description": "Assist chip label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.assist-chip.label-text.font",
-      "fontWeightTokenName": "md.comp.assist-chip.label-text.weight",
-      "fontSizeTokenName": "md.comp.assist-chip.label-text.size",
-      "fontTrackingTokenName": "md.comp.assist-chip.label-text.tracking",
-      "lineHeightTokenName": "md.comp.assist-chip.label-text.line-height"
-    }
   }
 }

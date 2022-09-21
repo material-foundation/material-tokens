@@ -118,53 +118,5 @@
   "md.comp.navigation-drawer.pressed.state-layer.opacity": {
     "description": "Navigation drawers pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
-  },
-  "md.comp.navigation-drawer.headline.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.navigation-drawer.headline.font",
-      "fontWeightTokenName": "md.comp.navigation-drawer.headline.weight",
-      "fontSizeTokenName": "md.comp.navigation-drawer.headline.size",
-      "fontTrackingTokenName": "md.comp.navigation-drawer.headline.tracking",
-      "lineHeightTokenName": "md.comp.navigation-drawer.headline.line-height"
-    }
-  },
-  "md.comp.navigation-drawer.large-badge-label.type": {
-    "description": "Navigation drawers large badge label type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.navigation-drawer.large-badge-label.font",
-      "fontWeightTokenName": "md.comp.navigation-drawer.large-badge-label.weight",
-      "fontSizeTokenName": "md.comp.navigation-drawer.large-badge-label.size",
-      "fontTrackingTokenName": "md.comp.navigation-drawer.large-badge-label.tracking",
-      "lineHeightTokenName": "md.comp.navigation-drawer.large-badge-label.line-height"
-    }
-  },
-  "md.comp.navigation-drawer.label-text.type": {
-    "description": "Navigation drawers label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.navigation-drawer.label-text.font",
-      "fontWeightTokenName": "md.comp.navigation-drawer.label-text.weight",
-      "fontSizeTokenName": "md.comp.navigation-drawer.label-text.size",
-      "fontTrackingTokenName": "md.comp.navigation-drawer.label-text.tracking",
-      "lineHeightTokenName": "md.comp.navigation-drawer.label-text.line-height"
-    }
   }
 }

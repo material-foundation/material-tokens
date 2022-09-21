@@ -16,7 +16,7 @@
 
 :where(html) {
   /* Label Medium text transform */
-  --md-sys-typescale-label-medium-text-transform: 1;
+  --md-sys-typescale-label-medium-text-transform: none;
   /* Label Small line height */
   --md-sys-typescale-label-small-line-height: 21.328px;
   /* Label Small font tracking */

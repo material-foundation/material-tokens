@@ -82,21 +82,5 @@
   "md.comp.filled-button.disabled.container.elevation": {
     "description": "Filled button disabled container elevation",
     "value": "{md.sys.elevation.level0}"
-  },
-  "md.comp.filled-button.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.filled-button.label-text.font",
-      "fontWeightTokenName": "md.comp.filled-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.filled-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.filled-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.filled-button.label-text.line-height"
-    }
   }
 }

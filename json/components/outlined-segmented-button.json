@@ -58,21 +58,5 @@
   "md.comp.outlined-segmented-button.label-text.font": {
     "description": "Outlined segmented button label text font",
     "value": "{md.sys.typescale.label-large.font}"
-  },
-  "md.comp.outlined-segmented-button.label-text.type": {
-    "description": "Outlined segmented button label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-segmented-button.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-segmented-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-segmented-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-segmented-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-segmented-button.label-text.line-height"
-    }
   }
 }

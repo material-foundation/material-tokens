@@ -74,21 +74,5 @@
   "md.comp.elevated-button.disabled.container.opacity": {
     "description": "Elevated button disabled container opacity",
     "value": 0.11999999731779099
-  },
-  "md.comp.elevated-button.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.elevated-button.label-text.font",
-      "fontWeightTokenName": "md.comp.elevated-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.elevated-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.elevated-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.elevated-button.label-text.line-height"
-    }
   }
 }

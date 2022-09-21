@@ -150,21 +150,5 @@
   "md.comp.filter-chip.selected.dragged.state-layer.opacity": {
     "description": "Filter chip (selected) dragged state layer opacity",
     "value": "{md.sys.state.dragged.state-layer-opacity}"
-  },
-  "md.comp.filter-chip.label-text.type": {
-    "description": "Filter chip label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.filter-chip.label-text.font",
-      "fontWeightTokenName": "md.comp.filter-chip.label-text.weight",
-      "fontSizeTokenName": "md.comp.filter-chip.label-text.size",
-      "fontTrackingTokenName": "md.comp.filter-chip.label-text.tracking",
-      "lineHeightTokenName": "md.comp.filter-chip.label-text.line-height"
-    }
   }
 }

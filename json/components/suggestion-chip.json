@@ -94,21 +94,5 @@
   "md.comp.suggestion-chip.dragged.state-layer.opacity": {
     "description": "Suggestion chip dragged state layer opacity",
     "value": "{md.sys.state.dragged.state-layer-opacity}"
-  },
-  "md.comp.suggestion-chip.label-text.type": {
-    "description": "Suggestion chip label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.suggestion-chip.label-text.font",
-      "fontWeightTokenName": "md.comp.suggestion-chip.label-text.weight",
-      "fontSizeTokenName": "md.comp.suggestion-chip.label-text.size",
-      "fontTrackingTokenName": "md.comp.suggestion-chip.label-text.tracking",
-      "lineHeightTokenName": "md.comp.suggestion-chip.label-text.line-height"
-    }
   }
 }

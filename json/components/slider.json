@@ -122,21 +122,5 @@
   "md.comp.slider.disabled.handle.elevation": {
     "description": "Slider disabled handle elevation",
     "value": "{md.sys.elevation.level0}"
-  },
-  "md.comp.slider.label.label-text.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.slider.label.label-text.font",
-      "fontWeightTokenName": "md.comp.slider.label.label-text.weight",
-      "fontSizeTokenName": "md.comp.slider.label.label-text.size",
-      "fontTrackingTokenName": "md.comp.slider.label.label-text.tracking",
-      "lineHeightTokenName": "md.comp.slider.label.label-text.line-height"
-    }
   }
 }

@@ -122,53 +122,5 @@
   "md.comp.full-screen-dialog.header.action.pressed.state-layer.opacity": {
     "description": "Full screen dialog header action pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
-  },
-  "md.comp.full-screen-dialog.action-bar.label-text.type": {
-    "description": "Full screen dialog action bar label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.full-screen-dialog.action-bar.label-text.font",
-      "fontWeightTokenName": "md.comp.full-screen-dialog.action-bar.label-text.weight",
-      "fontSizeTokenName": "md.comp.full-screen-dialog.action-bar.label-text.size",
-      "fontTrackingTokenName": "md.comp.full-screen-dialog.action-bar.label-text.tracking",
-      "lineHeightTokenName": "md.comp.full-screen-dialog.action-bar.label-text.line-height"
-    }
-  },
-  "md.comp.full-screen-dialog.header.headline.type": {
-    "description": "Header type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.full-screen-dialog.header.headline.font",
-      "fontWeightTokenName": "md.comp.full-screen-dialog.header.headline.weight",
-      "fontSizeTokenName": "md.comp.full-screen-dialog.header.headline.size",
-      "fontTrackingTokenName": "md.comp.full-screen-dialog.header.headline.tracking",
-      "lineHeightTokenName": "md.comp.full-screen-dialog.header.headline.line-height"
-    }
-  },
-  "md.comp.full-screen-dialog.header.action.label-text.type": {
-    "description": "Full screen dialog header action label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.full-screen-dialog.header.action.label-text.font",
-      "fontWeightTokenName": "md.comp.full-screen-dialog.header.action.label-text.weight",
-      "fontSizeTokenName": "md.comp.full-screen-dialog.header.action.label-text.size",
-      "fontTrackingTokenName": "md.comp.full-screen-dialog.header.action.label-text.tracking",
-      "lineHeightTokenName": "md.comp.full-screen-dialog.header.action.label-text.line-height"
-    }
   }
 }

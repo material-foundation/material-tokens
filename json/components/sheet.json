@@ -54,21 +54,5 @@
   "md.comp.sheet.side.docked.modal.container.elevation": {
     "description": "Sheet side docked modal container elevation",
     "value": "{md.sys.elevation.level1}"
-  },
-  "md.comp.sheet.side.docked.headline.type": {
-    "description": "Sheet side docked headline type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.sheet.side.docked.headline.font",
-      "fontWeightTokenName": "md.comp.sheet.side.docked.headline.weight",
-      "fontSizeTokenName": "md.comp.sheet.side.docked.headline.size",
-      "fontTrackingTokenName": "md.comp.sheet.side.docked.headline.tracking",
-      "lineHeightTokenName": "md.comp.sheet.side.docked.headline.line-height"
-    }
   }
 }

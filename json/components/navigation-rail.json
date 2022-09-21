@@ -142,37 +142,5 @@
   "md.comp.navigation-rail.pressed.state-layer.opacity": {
     "description": "Navigation rail pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
-  },
-  "md.comp.navigation-rail.large-badge-label.type": {
-    "description": "Navigation rail large badge label type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.navigation-rail.large-badge-label.font",
-      "fontWeightTokenName": "md.comp.navigation-rail.large-badge-label.weight",
-      "fontSizeTokenName": "md.comp.navigation-rail.large-badge-label.size",
-      "fontTrackingTokenName": "md.comp.navigation-rail.large-badge-label.tracking",
-      "lineHeightTokenName": "md.comp.navigation-rail.large-badge-label.line-height"
-    }
-  },
-  "md.comp.navigation-rail.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.navigation-rail.label-text.font",
-      "fontWeightTokenName": "md.comp.navigation-rail.label-text.weight",
-      "fontSizeTokenName": "md.comp.navigation-rail.label-text.size",
-      "fontTrackingTokenName": "md.comp.navigation-rail.label-text.tracking",
-      "lineHeightTokenName": "md.comp.navigation-rail.label-text.line-height"
-    }
   }
 }

@@ -42,21 +42,5 @@
   "md.comp.top-app-bar.small.container.shape": {
     "description": "Top app bar (small) container shape",
     "value": "{md.sys.shape.corner.none}"
-  },
-  "md.comp.top-app-bar.small.headline.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.top-app-bar.small.headline.font",
-      "fontWeightTokenName": "md.comp.top-app-bar.small.headline.weight",
-      "fontSizeTokenName": "md.comp.top-app-bar.small.headline.size",
-      "fontTrackingTokenName": "md.comp.top-app-bar.small.headline.tracking",
-      "lineHeightTokenName": "md.comp.top-app-bar.small.headline.line-height"
-    }
   }
 }

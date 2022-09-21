@@ -70,21 +70,5 @@
   "md.comp.menu.list-item.disabled.label-text.opacity": {
     "description": "Menu list item disabled label text opacity",
     "value": 0.3799999952316284
-  },
-  "md.comp.menu.list-item.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.menu.list-item.label-text.font",
-      "fontWeightTokenName": "md.comp.menu.list-item.label-text.weight",
-      "fontSizeTokenName": "md.comp.menu.list-item.label-text.size",
-      "fontTrackingTokenName": "md.comp.menu.list-item.label-text.tracking",
-      "lineHeightTokenName": "md.comp.menu.list-item.label-text.line-height"
-    }
   }
 }

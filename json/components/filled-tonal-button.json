@@ -74,21 +74,5 @@
   "md.comp.filled-tonal-button.container.elevation": {
     "description": "Filled tonal button container elevation",
     "value": "{md.sys.elevation.level0}"
-  },
-  "md.comp.filled-tonal-button.label-text.type": {
-    "description": "Filled tonal button label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.filled-tonal-button.label-text.font",
-      "fontWeightTokenName": "md.comp.filled-tonal-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.filled-tonal-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.filled-tonal-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.filled-tonal-button.label-text.line-height"
-    }
   }
 }

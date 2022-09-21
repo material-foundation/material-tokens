@@ -66,21 +66,5 @@
   "md.comp.outlined-menu-button.outline.width": {
     "description": "Outlined menu button outline width",
     "value": "1px"
-  },
-  "md.comp.outlined-menu-button.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-menu-button.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-menu-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-menu-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-menu-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-menu-button.label-text.line-height"
-    }
   }
 }

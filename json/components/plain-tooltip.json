@@ -22,21 +22,5 @@
   "md.comp.plain-tooltip.container.shape": {
     "description": "Plain tooltip container shape",
     "value": "{md.sys.shape.corner.small}"
-  },
-  "md.comp.plain-tooltip.supporting-text.type": {
-    "description": "Supporting text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.plain-tooltip.supporting-text.font",
-      "fontWeightTokenName": "md.comp.plain-tooltip.supporting-text.weight",
-      "fontSizeTokenName": "md.comp.plain-tooltip.supporting-text.size",
-      "fontTrackingTokenName": "md.comp.plain-tooltip.supporting-text.tracking",
-      "lineHeightTokenName": "md.comp.plain-tooltip.supporting-text.line-height"
-    }
   }
 }

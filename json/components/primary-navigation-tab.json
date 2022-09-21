@@ -80,21 +80,5 @@
   "md.comp.primary-navigation-tab.active.pressed.state-layer.opacity": {
     "description": "Primary navigation tab active pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
-  },
-  "md.comp.primary-navigation-tab.with-label-text.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.font",
-      "fontWeightTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.weight",
-      "fontSizeTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.size",
-      "fontTrackingTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.tracking",
-      "lineHeightTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.line-height"
-    }
   }
 }

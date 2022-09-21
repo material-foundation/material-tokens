@@ -34,21 +34,5 @@
   "md.comp.badge.shape": {
     "description": "Badge shape",
     "value": "{md.sys.shape.corner.full}"
-  },
-  "md.comp.badge.large.label-text.type": {
-    "description": "Badge large label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.badge.large.label-text.font",
-      "fontWeightTokenName": "md.comp.badge.large.label-text.weight",
-      "fontSizeTokenName": "md.comp.badge.large.label-text.size",
-      "fontTrackingTokenName": "md.comp.badge.large.label-text.tracking",
-      "lineHeightTokenName": "md.comp.badge.large.label-text.line-height"
-    }
   }
 }

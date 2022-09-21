@@ -62,21 +62,5 @@
   "md.comp.outlined-button.disabled.outline.opacity": {
     "description": "Outlined button disabled outline opacity",
     "value": 0.11999999731779099
-  },
-  "md.comp.outlined-button.label-text.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-button.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-button.label-text.line-height"
-    }
   }
 }
