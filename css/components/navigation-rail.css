@@ -25,10 +25,10 @@
   --md-comp-navigation-rail-large-badge-label-line-height: var(--md-sys-typescale-label-small-line-height);
   /* Navigation rail large badge label font */
   --md-comp-navigation-rail-large-badge-label-font: var(--md-sys-typescale-label-small-font);
-  --md-comp-navigation-rail-large-badge-shape: 8pxpx 8pxpx 8pxpx 8pxpx;
+  --md-comp-navigation-rail-large-badge-shape: 8px 8px 8px 8px;
   /* Navigation rail large badge size */
   --md-comp-navigation-rail-large-badge-size: 16px;
-  --md-comp-navigation-rail-badge-shape: 3pxpx 3pxpx 3pxpx 3pxpx;
+  --md-comp-navigation-rail-badge-shape: 3px 3px 3px 3px;
   /* Navigation rail badge size */
   --md-comp-navigation-rail-badge-size: 6px;
   /* Navigation rail large badge label font family */

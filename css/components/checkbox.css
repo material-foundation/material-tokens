@@ -67,7 +67,7 @@
   --md-comp-checkbox-selected-outline-width: 0px;
   /* Checkbox unselected outline width */
   --md-comp-checkbox-unselected-outline-width: 2px;
-  --md-comp-checkbox-container-shape: 2pxpx 2pxpx 2pxpx 2pxpx;
+  --md-comp-checkbox-container-shape: 2px 2px 2px 2px;
   /* Checkbox container height */
   --md-comp-checkbox-container-height: 18px;
   /* Checkbox container width */

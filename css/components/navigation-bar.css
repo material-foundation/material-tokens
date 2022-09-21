@@ -15,10 +15,10 @@
 */
 
 :where(html), .tokens {
-  --md-comp-navigation-bar-large-badge-shape: 8pxpx 8pxpx 8pxpx 8pxpx;
+  --md-comp-navigation-bar-large-badge-shape: 8px 8px 8px 8px;
   /* Size */
   --md-comp-navigation-bar-large-badge-size: 16px;
-  --md-comp-navigation-bar-badge-shape: 3pxpx 3pxpx 3pxpx 3pxpx;
+  --md-comp-navigation-bar-badge-shape: 3px 3px 3px 3px;
   /* Size */
   --md-comp-navigation-bar-badge-size: 6px;
   /* Opacity */
