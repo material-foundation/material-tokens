@@ -41,26 +41,7 @@
   },
   "md.comp.filled-tonal-button.with-icon.icon.size": {
     "description": "Filled tonal button icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
-  },
-  "md.comp.filled-tonal-button.label-text.type": {
-    "description": "Filled tonal button label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.filled-tonal-button.label-text.font",
-      "fontWeightTokenName": "md.comp.filled-tonal-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.filled-tonal-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.filled-tonal-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.filled-tonal-button.label-text.line-height"
-    }
+    "value": "18px"
   },
   "md.comp.filled-tonal-button.label-text.weight": {
     "description": "Filled tonal button label text weight",
@@ -88,13 +69,26 @@
   },
   "md.comp.filled-tonal-button.container.height": {
     "description": "Filled tonal button container height",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.filled-tonal-button.container.elevation": {
     "description": "Filled tonal button container elevation",
     "value": "{md.sys.elevation.level0}"
+  },
+  "md.comp.filled-tonal-button.label-text.type": {
+    "description": "Filled tonal button label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.filled-tonal-button.label-text.font",
+      "fontWeightTokenName": "md.comp.filled-tonal-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.filled-tonal-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.filled-tonal-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.filled-tonal-button.label-text.line-height"
+    }
   }
 }

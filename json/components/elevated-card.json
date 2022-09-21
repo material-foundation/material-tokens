@@ -9,10 +9,7 @@
   },
   "md.comp.elevated-card.icon.size": {
     "description": "Elevated card icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.elevated-card.focus.state-layer.opacity": {
     "description": "Elevated card focus state layer opacity",

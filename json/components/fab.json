@@ -13,10 +13,7 @@
   },
   "md.comp.fab.branded.large.icon.size": {
     "description": "FAB (large branded) icon size",
-    "value": {
-      "value": 48,
-      "unit": 1
-    }
+    "value": "48px"
   },
   "md.comp.fab.branded.large.lowered.focus.container.elevation": {
     "description": "FAB (large branded) lowered focus container elevation",
@@ -40,17 +37,11 @@
   },
   "md.comp.fab.branded.large.container.height": {
     "description": "FAB (large branded) container height",
-    "value": {
-      "value": 96,
-      "unit": 1
-    }
+    "value": "96px"
   },
   "md.comp.fab.branded.large.container.width": {
     "description": "FAB (large branded) container width",
-    "value": {
-      "value": 96,
-      "unit": 1
-    }
+    "value": "96px"
   },
   "md.comp.fab.branded.large.container.shape": {
     "description": "FAB (large branded) container shape",

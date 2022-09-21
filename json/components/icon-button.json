@@ -29,17 +29,11 @@
   },
   "md.comp.icon-button.state-layer.size": {
     "description": "Icon button state layer size",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.icon-button.icon.size": {
     "description": "Icon button icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.icon-button.disabled.icon.opacity": {
     "description": "Icon button disabled icon opacity",

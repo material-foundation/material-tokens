@@ -1,14 +1,8 @@
 {
   "md.ref.palette.error0": {
+    "type": "color",
     "description": "Error 0",
-    "value": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "alpha": {
-        "value": 1
-      }
-    }
+    "value": "#000000"
   },
   "md.ref.palette.error10": {
     "description": "Error 10",
@@ -59,15 +53,9 @@
     "value": "#FFFFFF"
   },
   "md.ref.palette.tertiary0": {
+    "type": "color",
     "description": "Tertiary 0",
-    "value": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "alpha": {
-        "value": 1
-      }
-    }
+    "value": "#000000"
   },
   "md.ref.palette.tertiary10": {
     "description": "Tertiary 10",
@@ -118,15 +106,9 @@
     "value": "#FFFFFF"
   },
   "md.ref.palette.secondary0": {
+    "type": "color",
     "description": "Secondary 0",
-    "value": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "alpha": {
-        "value": 1
-      }
-    }
+    "value": "#000000"
   },
   "md.ref.palette.secondary10": {
     "description": "Secondary 10",
@@ -177,26 +159,14 @@
     "value": "#FFFFFF"
   },
   "md.ref.palette.primary0": {
+    "type": "color",
     "description": "Primary 0",
-    "value": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "alpha": {
-        "value": 1
-      }
-    }
+    "value": "#000000"
   },
   "md.ref.palette.primary10": {
+    "type": "color",
     "description": "Primary 10",
-    "value": {
-      "red": 0.12941177189350128,
-      "green": 0,
-      "blue": 0.364705890417099,
-      "alpha": {
-        "value": 1
-      }
-    }
+    "value": "#21005D"
   },
   "md.ref.palette.primary20": {
     "description": "Primary 20",
@@ -243,15 +213,9 @@
     "value": "#FFFFFF"
   },
   "md.ref.palette.neutral-variant0": {
+    "type": "color",
     "description": "Neutral Variant 0",
-    "value": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "alpha": {
-        "value": 1
-      }
-    }
+    "value": "#000000"
   },
   "md.ref.palette.neutral-variant10": {
     "description": "Neutral Variant 10",
@@ -302,15 +266,9 @@
     "value": "#FFFFFF"
   },
   "md.ref.palette.neutral0": {
+    "type": "color",
     "description": "Neutral 0",
-    "value": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "alpha": {
-        "value": 1
-      }
-    }
+    "value": "#000000"
   },
   "md.ref.palette.neutral10": {
     "description": "Neutral 10",
@@ -361,15 +319,9 @@
     "value": "#FFFFFF"
   },
   "md.ref.palette.black": {
+    "type": "color",
     "description": "Black",
-    "value": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "alpha": {
-        "value": 1
-      }
-    }
+    "value": "#000000"
   },
   "md.ref.palette.white": {
     "description": "White",

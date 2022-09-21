@@ -1,17 +1,11 @@
 {
   "md.comp.search-bar.avatar.size": {
     "description": "Search bar avatar size",
-    "value": {
-      "value": 30,
-      "unit": 1
-    }
+    "value": "30px"
   },
   "md.comp.search-bar.container.height": {
     "description": "Search bar container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.search-bar.pressed.state-layer.opacity": {
     "description": "Search bar pressed state layer opacity",
@@ -24,22 +18,6 @@
   "md.comp.search-bar.avatar.shape": {
     "description": "Search bar avatar shape",
     "value": "{md.sys.shape.corner.full}"
-  },
-  "md.comp.search-bar.input-text.type": {
-    "description": "Search bar input text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.search-bar.input-text.font",
-      "fontWeightTokenName": "md.comp.search-bar.input-text.weight",
-      "fontSizeTokenName": "md.comp.search-bar.input-text.size",
-      "fontTrackingTokenName": "md.comp.search-bar.input-text.tracking",
-      "lineHeightTokenName": "md.comp.search-bar.input-text.line-height"
-    }
   },
   "md.comp.search-bar.input-text.tracking": {
     "description": "Search bar input text tracking",
@@ -60,22 +38,6 @@
   "md.comp.search-bar.input-text.font": {
     "description": "Search bar input text font",
     "value": "{md.sys.typescale.body-large.font}"
-  },
-  "md.comp.search-bar.supporting-text.type": {
-    "description": "search bar supporting text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.search-bar.supporting-text.font",
-      "fontWeightTokenName": "md.comp.search-bar.supporting-text.weight",
-      "fontSizeTokenName": "md.comp.search-bar.supporting-text.size",
-      "fontTrackingTokenName": "md.comp.search-bar.supporting-text.tracking",
-      "lineHeightTokenName": "md.comp.search-bar.supporting-text.line-height"
-    }
   },
   "md.comp.search-bar.supporting-text.tracking": {
     "description": "Search bar supporting text tracking",
@@ -104,5 +66,37 @@
   "md.comp.search-bar.container.elevation": {
     "description": "Search bar container elevation",
     "value": "{md.sys.elevation.level3}"
+  },
+  "md.comp.search-bar.input-text.type": {
+    "description": "Search bar input text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.search-bar.input-text.font",
+      "fontWeightTokenName": "md.comp.search-bar.input-text.weight",
+      "fontSizeTokenName": "md.comp.search-bar.input-text.size",
+      "fontTrackingTokenName": "md.comp.search-bar.input-text.tracking",
+      "lineHeightTokenName": "md.comp.search-bar.input-text.line-height"
+    }
+  },
+  "md.comp.search-bar.supporting-text.type": {
+    "description": "search bar supporting text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.search-bar.supporting-text.font",
+      "fontWeightTokenName": "md.comp.search-bar.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.search-bar.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.search-bar.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.search-bar.supporting-text.line-height"
+    }
   }
 }

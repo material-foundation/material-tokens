@@ -41,33 +41,11 @@
   },
   "md.comp.filled-menu-button.trailing-icon.size": {
     "description": "Filled menu button trailing icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.filled-menu-button.with-icon.leading-icon.size": {
     "description": "Filled menu button with icon leading icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
-  },
-  "md.comp.filled-menu-button.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.filled-menu-button.label-text.font",
-      "fontWeightTokenName": "md.comp.filled-menu-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.filled-menu-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.filled-menu-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.filled-menu-button.label-text.line-height"
-    }
+    "value": "18px"
   },
   "md.comp.filled-menu-button.label-text.weight": {
     "description": "Filled menu button label text weight",
@@ -99,9 +77,22 @@
   },
   "md.comp.filled-menu-button.container.height": {
     "description": "Filled menu button container height",
+    "value": "40px"
+  },
+  "md.comp.filled-menu-button.label-text.type": {
+    "description": "Label text type style",
     "value": {
-      "value": 40,
-      "unit": 1
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.filled-menu-button.label-text.font",
+      "fontWeightTokenName": "md.comp.filled-menu-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.filled-menu-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.filled-menu-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.filled-menu-button.label-text.line-height"
     }
   }
 }

@@ -16,12 +16,16 @@
 
 :root {
   color-scheme: dark;
+  /* Scrim */
+  --md-sys-color-scrim: var(--md-ref-palette-neutral0);
+  /* Outline Variant */
+  --md-sys-color-outline-variant: var(--md-ref-palette-neutral-variant30);
   /* Surface tint */
   --md-sys-color-surface-tint: var(--md-sys-color-primary);
   /* Surface tint color */
   --md-sys-color-surface-tint-color: var(--md-sys-color-primary);
   /* On error container */
-  --md-sys-color-on-error-container: var(--md-ref-palette-error80);
+  --md-sys-color-on-error-container: var(--md-ref-palette-error90);
   /* On error */
   --md-sys-color-on-error: var(--md-ref-palette-error20);
   /* Error container */

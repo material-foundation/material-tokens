@@ -1,17 +1,11 @@
 {
   "md.comp.data-table.row-item.outline.width": {
     "description": "Data table row item outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.data-table.row-item.divider.thickness": {
     "description": "Data table row item divider thickness",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.data-table.row-item.selected.hover.state-layer.opacity": {
     "description": "Data table row item selected hover state layer opacity",
@@ -27,10 +21,7 @@
   },
   "md.comp.data-table.footer.outlined-select.text-field.container.height": {
     "description": "Data table footer outlined select text field container height",
-    "value": {
-      "value": 36,
-      "unit": 1
-    }
+    "value": "36px"
   },
   "md.comp.data-table.footer.supporting-text.tracking": {
     "description": "Data table footer supporting text tracking",
@@ -54,10 +45,7 @@
   },
   "md.comp.data-table.footer.container.height": {
     "description": "Data table footer container height",
-    "value": {
-      "value": 52,
-      "unit": 1
-    }
+    "value": "52px"
   },
   "md.comp.data-table.row-item.label-text.tracking": {
     "description": "Data table row item label text tracking",
@@ -81,10 +69,7 @@
   },
   "md.comp.data-table.row-item.container.height": {
     "description": "Data table row item container height",
-    "value": {
-      "value": 52,
-      "unit": 1
-    }
+    "value": "52px"
   },
   "md.comp.data-table.header.headline.tracking": {
     "description": "Data table header headline tracking",
@@ -108,17 +93,11 @@
   },
   "md.comp.data-table.header.container.height": {
     "description": "Data table header container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.data-table.outline.width": {
     "description": "Data table outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.data-table.container.shape": {
     "description": "Data table container shape",

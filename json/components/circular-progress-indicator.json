@@ -5,16 +5,10 @@
   },
   "md.comp.circular-progress-indicator.active-indicator.width": {
     "description": "Circular progress indicator active indicator width",
-    "value": {
-      "value": 4,
-      "unit": 1
-    }
+    "value": "4px"
   },
   "md.comp.circular-progress-indicator.size": {
     "description": "Circular progress indicator active indicator size",
-    "value": {
-      "value": 48,
-      "unit": 1
-    }
+    "value": "48px"
   }
 }

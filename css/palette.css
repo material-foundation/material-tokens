@@ -16,163 +16,163 @@
 
 :root {
   /* Error 0 */
-  --md-ref-palette-error0: #000000ff;
+  --md-ref-palette-error0: #000000;
   /* Error 10 */
-  --md-ref-palette-error10: #410e0bff;
+  --md-ref-palette-error10: #410E0B;
   /* Error 20 */
-  --md-ref-palette-error20: #601410ff;
+  --md-ref-palette-error20: #601410;
   /* Error 30 */
-  --md-ref-palette-error30: #8c1d18ff;
+  --md-ref-palette-error30: #8C1D18;
   /* Error 40 */
-  --md-ref-palette-error40: #b3261eff;
+  --md-ref-palette-error40: #B3261E;
   /* Error 50 */
-  --md-ref-palette-error50: #dc362eff;
+  --md-ref-palette-error50: #DC362E;
   /* Error 60 */
-  --md-ref-palette-error60: #e46962ff;
+  --md-ref-palette-error60: #E46962;
   /* Error 70 */
-  --md-ref-palette-error70: #ec928eff;
+  --md-ref-palette-error70: #EC928E;
   /* Error 80 */
-  --md-ref-palette-error80: #f2b8b5ff;
+  --md-ref-palette-error80: #F2B8B5;
   /* Error 90 */
-  --md-ref-palette-error90: #f9dedcff;
+  --md-ref-palette-error90: #F9DEDC;
   /* Error 95 */
-  --md-ref-palette-error95: #fceeeeff;
+  --md-ref-palette-error95: #FCEEEE;
   /* Error 99 */
-  --md-ref-palette-error99: #fffbf9ff;
+  --md-ref-palette-error99: #FFFBF9;
   /* Error 100 */
-  --md-ref-palette-error100: #ffffffff;
+  --md-ref-palette-error100: #FFFFFF;
   /* Tertiary 0 */
-  --md-ref-palette-tertiary0: #000000ff;
+  --md-ref-palette-tertiary0: #000000;
   /* Tertiary 10 */
-  --md-ref-palette-tertiary10: #31111dff;
+  --md-ref-palette-tertiary10: #31111D;
   /* Tertiary 20 */
-  --md-ref-palette-tertiary20: #492532ff;
+  --md-ref-palette-tertiary20: #492532;
   /* Tertiary 30 */
-  --md-ref-palette-tertiary30: #633b48ff;
+  --md-ref-palette-tertiary30: #633B48;
   /* Tertiary 40 */
-  --md-ref-palette-tertiary40: #7d5260ff;
+  --md-ref-palette-tertiary40: #7D5260;
   /* Tertiary 50 */
-  --md-ref-palette-tertiary50: #986977ff;
+  --md-ref-palette-tertiary50: #986977;
   /* Tertiary 60 */
-  --md-ref-palette-tertiary60: #b58392ff;
+  --md-ref-palette-tertiary60: #B58392;
   /* Tertiary 70 */
-  --md-ref-palette-tertiary70: #d29dacff;
+  --md-ref-palette-tertiary70: #D29DAC;
   /* Tertiary 80 */
-  --md-ref-palette-tertiary80: #efb8c8ff;
+  --md-ref-palette-tertiary80: #EFB8C8;
   /* Tertiary 90 */
-  --md-ref-palette-tertiary90: #ffd8e4ff;
+  --md-ref-palette-tertiary90: #FFD8E4;
   /* Tertiary 95 */
-  --md-ref-palette-tertiary95: #ffecf1ff;
+  --md-ref-palette-tertiary95: #FFECF1;
   /* Tertiary 99 */
-  --md-ref-palette-tertiary99: #fffbfaff;
+  --md-ref-palette-tertiary99: #FFFBFA;
   /* Tertiary 100 */
-  --md-ref-palette-tertiary100: #ffffffff;
+  --md-ref-palette-tertiary100: #FFFFFF;
   /* Secondary 0 */
-  --md-ref-palette-secondary0: #000000ff;
+  --md-ref-palette-secondary0: #000000;
   /* Secondary 10 */
-  --md-ref-palette-secondary10: #1d192bff;
+  --md-ref-palette-secondary10: #1D192B;
   /* Secondary 20 */
-  --md-ref-palette-secondary20: #332d41ff;
+  --md-ref-palette-secondary20: #332D41;
   /* Secondary 30 */
-  --md-ref-palette-secondary30: #4a4458ff;
+  --md-ref-palette-secondary30: #4A4458;
   /* Secondary 40 */
-  --md-ref-palette-secondary40: #625b71ff;
+  --md-ref-palette-secondary40: #625B71;
   /* Secondary 50 */
-  --md-ref-palette-secondary50: #7a7289ff;
+  --md-ref-palette-secondary50: #7A7289;
   /* Secondary 60 */
-  --md-ref-palette-secondary60: #958da5ff;
+  --md-ref-palette-secondary60: #958DA5;
   /* Secondary 70 */
-  --md-ref-palette-secondary70: #b0a7c0ff;
+  --md-ref-palette-secondary70: #B0A7C0;
   /* Secondary 80 */
-  --md-ref-palette-secondary80: #ccc2dcff;
+  --md-ref-palette-secondary80: #CCC2DC;
   /* Secondary 90 */
-  --md-ref-palette-secondary90: #e8def8ff;
+  --md-ref-palette-secondary90: #E8DEF8;
   /* Secondary 95 */
-  --md-ref-palette-secondary95: #f6edffff;
+  --md-ref-palette-secondary95: #F6EDFF;
   /* Secondary 99 */
-  --md-ref-palette-secondary99: #fffbfeff;
+  --md-ref-palette-secondary99: #FFFBFE;
   /* Secondary 100 */
-  --md-ref-palette-secondary100: #ffffffff;
+  --md-ref-palette-secondary100: #FFFFFF;
   /* Primary 0 */
-  --md-ref-palette-primary0: #000000ff;
+  --md-ref-palette-primary0: #000000;
   /* Primary 10 */
-  --md-ref-palette-primary10: #21005dff;
+  --md-ref-palette-primary10: #21005D;
   /* Primary 20 */
-  --md-ref-palette-primary20: #381e72ff;
+  --md-ref-palette-primary20: #381E72;
   /* Primary 30 */
-  --md-ref-palette-primary30: #4f378bff;
+  --md-ref-palette-primary30: #4F378B;
   /* Primary 40 */
-  --md-ref-palette-primary40: #6750a4ff;
+  --md-ref-palette-primary40: #6750A4;
   /* Primary 50 */
-  --md-ref-palette-primary50: #7f67beff;
+  --md-ref-palette-primary50: #7F67BE;
   /* Primary 60 */
-  --md-ref-palette-primary60: #9a82dbff;
+  --md-ref-palette-primary60: #9A82DB;
   /* Primary 70 */
-  --md-ref-palette-primary70: #b69df8ff;
+  --md-ref-palette-primary70: #B69DF8;
   /* Primary 80 */
-  --md-ref-palette-primary80: #d0bcffff;
+  --md-ref-palette-primary80: #D0BCFF;
   /* Primary 90 */
-  --md-ref-palette-primary90: #eaddffff;
+  --md-ref-palette-primary90: #EADDFF;
   /* Primary 95 */
-  --md-ref-palette-primary95: #f6edffff;
+  --md-ref-palette-primary95: #F6EDFF;
   /* Primary 99 */
-  --md-ref-palette-primary99: #fffbfeff;
+  --md-ref-palette-primary99: #FFFBFE;
   /* Primary 100 */
-  --md-ref-palette-primary100: #ffffffff;
+  --md-ref-palette-primary100: #FFFFFF;
   /* Neutral Variant 0 */
-  --md-ref-palette-neutral-variant0: #000000ff;
+  --md-ref-palette-neutral-variant0: #000000;
   /* Neutral Variant 10 */
-  --md-ref-palette-neutral-variant10: #1d1a22ff;
+  --md-ref-palette-neutral-variant10: #1D1A22;
   /* Neutral Variant 20 */
-  --md-ref-palette-neutral-variant20: #322f37ff;
+  --md-ref-palette-neutral-variant20: #322F37;
   /* Neutral Variant 30 */
-  --md-ref-palette-neutral-variant30: #49454fff;
+  --md-ref-palette-neutral-variant30: #49454F;
   /* Neutral Variant 40 */
-  --md-ref-palette-neutral-variant40: #605d66ff;
+  --md-ref-palette-neutral-variant40: #605D66;
   /* Neutral Variant 50 */
-  --md-ref-palette-neutral-variant50: #79747eff;
+  --md-ref-palette-neutral-variant50: #79747E;
   /* Neutral Variant 60 */
-  --md-ref-palette-neutral-variant60: #938f99ff;
+  --md-ref-palette-neutral-variant60: #938F99;
   /* Neutral Variant 70 */
-  --md-ref-palette-neutral-variant70: #aea9b4ff;
+  --md-ref-palette-neutral-variant70: #AEA9B4;
   /* Neutral Variant 80 */
-  --md-ref-palette-neutral-variant80: #cac4d0ff;
+  --md-ref-palette-neutral-variant80: #CAC4D0;
   /* Neutral Variant 90 */
-  --md-ref-palette-neutral-variant90: #e7e0ecff;
+  --md-ref-palette-neutral-variant90: #E7E0EC;
   /* Neutral Variant 95 */
-  --md-ref-palette-neutral-variant95: #f5eefaff;
+  --md-ref-palette-neutral-variant95: #F5EEFA;
   /* Neutral Variant 99 */
-  --md-ref-palette-neutral-variant99: #fffbfeff;
+  --md-ref-palette-neutral-variant99: #FFFBFE;
   /* Neutral Variant 100 */
-  --md-ref-palette-neutral-variant100: #ffffffff;
+  --md-ref-palette-neutral-variant100: #FFFFFF;
   /* Neutral 0 */
-  --md-ref-palette-neutral0: #000000ff;
+  --md-ref-palette-neutral0: #000000;
   /* Neutral 10 */
-  --md-ref-palette-neutral10: #1c1b1fff;
+  --md-ref-palette-neutral10: #1C1B1F;
   /* Neutral 20 */
-  --md-ref-palette-neutral20: #313033ff;
+  --md-ref-palette-neutral20: #313033;
   /* Neutral 30 */
-  --md-ref-palette-neutral30: #484649ff;
+  --md-ref-palette-neutral30: #484649;
   /* Neutral 40 */
-  --md-ref-palette-neutral40: #605d62ff;
+  --md-ref-palette-neutral40: #605D62;
   /* Neutral 50 */
-  --md-ref-palette-neutral50: #787579ff;
+  --md-ref-palette-neutral50: #787579;
   /* Neutral 60 */
-  --md-ref-palette-neutral60: #939094ff;
+  --md-ref-palette-neutral60: #939094;
   /* Neutral 70 */
-  --md-ref-palette-neutral70: #aeaaaeff;
+  --md-ref-palette-neutral70: #AEAAAE;
   /* Neutral 80 */
-  --md-ref-palette-neutral80: #c9c5caff;
+  --md-ref-palette-neutral80: #C9C5CA;
   /* Neutral 90 */
-  --md-ref-palette-neutral90: #e6e1e5ff;
+  --md-ref-palette-neutral90: #E6E1E5;
   /* Neutral 95 */
-  --md-ref-palette-neutral95: #f4eff4ff;
+  --md-ref-palette-neutral95: #F4EFF4;
   /* Neutral 99 */
-  --md-ref-palette-neutral99: #fffbfeff;
+  --md-ref-palette-neutral99: #FFFBFE;
   /* Neutral 100 */
-  --md-ref-palette-neutral100: #ffffffff;
+  --md-ref-palette-neutral100: #FFFFFF;
   /* Black */
-  --md-ref-palette-black: #000000ff;
+  --md-ref-palette-black: #000000;
   /* White */
-  --md-ref-palette-white: #ffffffff;
+  --md-ref-palette-white: #FFFFFF;
 }

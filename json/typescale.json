@@ -3,6 +3,306 @@
     "description": "Label Medium text transform",
     "value": 1
   },
+  "md.sys.typescale.label-small.line-height": {
+    "description": "Label Small line height",
+    "value": "21.328px"
+  },
+  "md.sys.typescale.label-small.tracking": {
+    "description": "Label Small font tracking",
+    "value": "0.6665px"
+  },
+  "md.sys.typescale.label-small.size": {
+    "description": "Label Small font size",
+    "value": "14.663px"
+  },
+  "md.sys.typescale.label-small.weight": {
+    "description": "Label Small font weight",
+    "value": "{md.ref.typeface.weight-medium}"
+  },
+  "md.sys.typescale.label-small.font": {
+    "description": "Label Small font name",
+    "value": "{md.ref.typeface.plain}"
+  },
+  "md.sys.typescale.label-medium.line-height": {
+    "description": "Label Medium line height",
+    "value": "21.328px"
+  },
+  "md.sys.typescale.label-medium.tracking": {
+    "description": "Label Medium font tracking",
+    "value": "0.6665px"
+  },
+  "md.sys.typescale.label-medium.size": {
+    "description": "Label Medium font size",
+    "value": "15.995999999999999px"
+  },
+  "md.sys.typescale.label-medium.weight": {
+    "description": "Label Medium font weight",
+    "value": "{md.ref.typeface.weight-medium}"
+  },
+  "md.sys.typescale.label-medium.font": {
+    "description": "Label Medium font name",
+    "value": "{md.ref.typeface.plain}"
+  },
+  "md.sys.typescale.label-large.line-height": {
+    "description": "Label Large line height",
+    "value": "26.66px"
+  },
+  "md.sys.typescale.label-large.tracking": {
+    "description": "Label Large font tracking",
+    "value": "0.13330000198632477px"
+  },
+  "md.sys.typescale.label-large.size": {
+    "description": "Label Large font size",
+    "value": "18.662px"
+  },
+  "md.sys.typescale.label-large.weight": {
+    "description": "Label Large font weight",
+    "value": "{md.ref.typeface.weight-medium}"
+  },
+  "md.sys.typescale.label-large.font": {
+    "description": "Label Large font name",
+    "value": "{md.ref.typeface.plain}"
+  },
+  "md.sys.typescale.body-small.line-height": {
+    "description": "Body Small line height",
+    "value": "21.328px"
+  },
+  "md.sys.typescale.body-small.tracking": {
+    "description": "Body Small font tracking",
+    "value": "0.5332000079452991px"
+  },
+  "md.sys.typescale.body-small.size": {
+    "description": "Body Small font size",
+    "value": "15.995999999999999px"
+  },
+  "md.sys.typescale.body-small.weight": {
+    "description": "Body Small font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.body-small.font": {
+    "description": "Body Small font name",
+    "value": "{md.ref.typeface.plain}"
+  },
+  "md.sys.typescale.body-medium.line-height": {
+    "description": "Body Medium line height",
+    "value": "26.66px"
+  },
+  "md.sys.typescale.body-medium.tracking": {
+    "description": "Body Medium font tracking",
+    "value": "0.33325px"
+  },
+  "md.sys.typescale.body-medium.size": {
+    "description": "Body Medium font size",
+    "value": "18.662px"
+  },
+  "md.sys.typescale.body-medium.weight": {
+    "description": "Body Medium font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.body-medium.font": {
+    "description": "Body Medium font name",
+    "value": "{md.ref.typeface.plain}"
+  },
+  "md.sys.typescale.body-large.line-height": {
+    "description": "Body Large line height",
+    "value": "31.991999999999997px"
+  },
+  "md.sys.typescale.body-large.tracking": {
+    "description": "Body Large font tracking",
+    "value": "0.6665px"
+  },
+  "md.sys.typescale.body-large.size": {
+    "description": "Body Large font size",
+    "value": "21.328px"
+  },
+  "md.sys.typescale.body-large.weight": {
+    "description": "Body Large font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.body-large.font": {
+    "description": "Body Large font name",
+    "value": "{md.ref.typeface.plain}"
+  },
+  "md.sys.typescale.title-small.line-height": {
+    "description": "Title Small line height",
+    "value": "26.66px"
+  },
+  "md.sys.typescale.title-small.tracking": {
+    "description": "Title Small font tracking",
+    "value": "0.13330000198632477px"
+  },
+  "md.sys.typescale.title-small.size": {
+    "description": "Title Small font size",
+    "value": "18.662px"
+  },
+  "md.sys.typescale.title-small.weight": {
+    "description": "Title Small font weight",
+    "value": "{md.ref.typeface.weight-medium}"
+  },
+  "md.sys.typescale.title-small.font": {
+    "description": "Title Small font name",
+    "value": "{md.ref.typeface.plain}"
+  },
+  "md.sys.typescale.title-medium.line-height": {
+    "description": "Title Medium line height",
+    "value": "31.991999999999997px"
+  },
+  "md.sys.typescale.title-medium.tracking": {
+    "description": "Title Medium font tracking",
+    "value": "0.19995000794529913px"
+  },
+  "md.sys.typescale.title-medium.size": {
+    "description": "Title Medium font size",
+    "value": "21.328px"
+  },
+  "md.sys.typescale.title-medium.weight": {
+    "description": "Title Medium font weight",
+    "value": "{md.ref.typeface.weight-medium}"
+  },
+  "md.sys.typescale.title-medium.font": {
+    "description": "Title Medium font name",
+    "value": "{md.ref.typeface.plain}"
+  },
+  "md.sys.typescale.title-large.line-height": {
+    "description": "Title Large line height",
+    "value": "37.324px"
+  },
+  "md.sys.typescale.title-large.tracking": {
+    "description": "Title Large font tracking",
+    "value": "0px"
+  },
+  "md.sys.typescale.title-large.size": {
+    "description": "Title Large font size",
+    "value": "29.326px"
+  },
+  "md.sys.typescale.title-large.weight": {
+    "description": "Title Large font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.title-large.font": {
+    "description": "Title Large font name",
+    "value": "{md.ref.typeface.brand}"
+  },
+  "md.sys.typescale.headline-small.line-height": {
+    "description": "Headline Small line height",
+    "value": "42.656px"
+  },
+  "md.sys.typescale.headline-small.tracking": {
+    "description": "Headline Small font tracking",
+    "value": "0px"
+  },
+  "md.sys.typescale.headline-small.size": {
+    "description": "Headline Small font size",
+    "value": "31.991999999999997px"
+  },
+  "md.sys.typescale.headline-small.weight": {
+    "description": "Headline Small font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.headline-small.font": {
+    "description": "Headline Small font name",
+    "value": "{md.ref.typeface.brand}"
+  },
+  "md.sys.typescale.headline-medium.line-height": {
+    "description": "Headline Medium line height",
+    "value": "47.988px"
+  },
+  "md.sys.typescale.headline-medium.tracking": {
+    "description": "Headline Medium font tracking",
+    "value": "0px"
+  },
+  "md.sys.typescale.headline-medium.size": {
+    "description": "Headline Medium font size",
+    "value": "37.324px"
+  },
+  "md.sys.typescale.headline-medium.weight": {
+    "description": "Headline Medium font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.headline-medium.font": {
+    "description": "Headline Medium font name",
+    "value": "{md.ref.typeface.brand}"
+  },
+  "md.sys.typescale.headline-large.line-height": {
+    "description": "Headline Large line height",
+    "value": "53.32px"
+  },
+  "md.sys.typescale.headline-large.tracking": {
+    "description": "Headline Large font tracking",
+    "value": "0px"
+  },
+  "md.sys.typescale.headline-large.size": {
+    "description": "Headline Large font size",
+    "value": "42.656px"
+  },
+  "md.sys.typescale.headline-large.font": {
+    "description": "Headline Large font name",
+    "value": "{md.ref.typeface.brand}"
+  },
+  "md.sys.typescale.headline-large.weight": {
+    "description": "Headline Large font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.display-small.line-height": {
+    "description": "Display Small line height",
+    "value": "58.652px"
+  },
+  "md.sys.typescale.display-small.tracking": {
+    "description": "Display Small font tracking",
+    "value": "0px"
+  },
+  "md.sys.typescale.display-small.size": {
+    "description": "Display Small font size",
+    "value": "47.988px"
+  },
+  "md.sys.typescale.display-small.weight": {
+    "description": "Display Small font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.display-small.font": {
+    "description": "Display Small font name",
+    "value": "{md.ref.typeface.brand}"
+  },
+  "md.sys.typescale.display-medium.line-height": {
+    "description": "Display Medium line height",
+    "value": "69.316px"
+  },
+  "md.sys.typescale.display-medium.tracking": {
+    "description": "Display Medium font tracking",
+    "value": "0px"
+  },
+  "md.sys.typescale.display-medium.size": {
+    "description": "Display Medium font size",
+    "value": "59.985px"
+  },
+  "md.sys.typescale.display-medium.weight": {
+    "description": "Display Medium font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.display-medium.font": {
+    "description": "Display Medium font name",
+    "value": "{md.ref.typeface.brand}"
+  },
+  "md.sys.typescale.display-large.line-height": {
+    "description": "Display Large line height",
+    "value": "85.312px"
+  },
+  "md.sys.typescale.display-large.tracking": {
+    "description": "Display Large font tracking",
+    "value": "-0.33325px"
+  },
+  "md.sys.typescale.display-large.size": {
+    "description": "Display Large font size",
+    "value": "75.981px"
+  },
+  "md.sys.typescale.display-large.weight": {
+    "description": "Display Large font weight",
+    "value": "{md.ref.typeface.weight-regular}"
+  },
+  "md.sys.typescale.display-large.font": {
+    "description": "Display Large font name",
+    "value": "{md.ref.typeface.brand}"
+  },
   "md.sys.typescale.label-small": {
     "description": "Label Small",
     "value": {
@@ -18,35 +318,6 @@
       "fontTrackingTokenName": "md.sys.typescale.label-small.tracking",
       "lineHeightTokenName": "md.sys.typescale.label-small.line-height"
     }
-  },
-  "md.sys.typescale.label-small.line-height": {
-    "description": "Label Small line height",
-    "value": {
-      "value": 16,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.label-small.tracking": {
-    "description": "Label Small font tracking",
-    "value": {
-      "value": 0.5,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.label-small.size": {
-    "description": "Label Small font size",
-    "value": {
-      "value": 11,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.label-small.weight": {
-    "description": "Label Small font weight",
-    "value": "{md.ref.typeface.weight-medium}"
-  },
-  "md.sys.typescale.label-small.font": {
-    "description": "Label Small font name",
-    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.label-medium": {
     "description": "Label Medium",
@@ -64,35 +335,6 @@
       "lineHeightTokenName": "md.sys.typescale.label-medium.line-height"
     }
   },
-  "md.sys.typescale.label-medium.line-height": {
-    "description": "Label Medium line height",
-    "value": {
-      "value": 16,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.label-medium.tracking": {
-    "description": "Label Medium font tracking",
-    "value": {
-      "value": 0.5,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.label-medium.size": {
-    "description": "Label Medium font size",
-    "value": {
-      "value": 12,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.label-medium.weight": {
-    "description": "Label Medium font weight",
-    "value": "{md.ref.typeface.weight-medium}"
-  },
-  "md.sys.typescale.label-medium.font": {
-    "description": "Label Medium font name",
-    "value": "{md.ref.typeface.plain}"
-  },
   "md.sys.typescale.label-large": {
     "description": "Label Large",
     "value": {
@@ -108,35 +350,6 @@
       "fontTrackingTokenName": "md.sys.typescale.label-large.tracking",
       "lineHeightTokenName": "md.sys.typescale.label-large.line-height"
     }
-  },
-  "md.sys.typescale.label-large.line-height": {
-    "description": "Label Large line height",
-    "value": {
-      "value": 20,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.label-large.tracking": {
-    "description": "Label Large font tracking",
-    "value": {
-      "value": 0.10000000149011612,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.label-large.size": {
-    "description": "Label Large font size",
-    "value": {
-      "value": 14,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.label-large.weight": {
-    "description": "Label Large font weight",
-    "value": "{md.ref.typeface.weight-medium}"
-  },
-  "md.sys.typescale.label-large.font": {
-    "description": "Label Large font name",
-    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.body-small": {
     "description": "Body Small",
@@ -154,35 +367,6 @@
       "lineHeightTokenName": "md.sys.typescale.body-small.line-height"
     }
   },
-  "md.sys.typescale.body-small.line-height": {
-    "description": "Body Small line height",
-    "value": {
-      "value": 16,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.body-small.tracking": {
-    "description": "Body Small font tracking",
-    "value": {
-      "value": 0.4000000059604645,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.body-small.size": {
-    "description": "Body Small font size",
-    "value": {
-      "value": 12,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.body-small.weight": {
-    "description": "Body Small font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
-  "md.sys.typescale.body-small.font": {
-    "description": "Body Small font name",
-    "value": "{md.ref.typeface.plain}"
-  },
   "md.sys.typescale.body-medium": {
     "description": "Body Medium",
     "value": {
@@ -198,35 +382,6 @@
       "fontTrackingTokenName": "md.sys.typescale.body-medium.tracking",
       "lineHeightTokenName": "md.sys.typescale.body-medium.line-height"
     }
-  },
-  "md.sys.typescale.body-medium.line-height": {
-    "description": "Body Medium line height",
-    "value": {
-      "value": 20,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.body-medium.tracking": {
-    "description": "Body Medium font tracking",
-    "value": {
-      "value": 0.25,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.body-medium.size": {
-    "description": "Body Medium font size",
-    "value": {
-      "value": 14,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.body-medium.weight": {
-    "description": "Body Medium font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
-  "md.sys.typescale.body-medium.font": {
-    "description": "Body Medium font name",
-    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.body-large": {
     "description": "Body Large",
@@ -244,35 +399,6 @@
       "lineHeightTokenName": "md.sys.typescale.body-large.line-height"
     }
   },
-  "md.sys.typescale.body-large.line-height": {
-    "description": "Body Large line height",
-    "value": {
-      "value": 24,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.body-large.tracking": {
-    "description": "Body Large font tracking",
-    "value": {
-      "value": 0.5,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.body-large.size": {
-    "description": "Body Large font size",
-    "value": {
-      "value": 16,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.body-large.weight": {
-    "description": "Body Large font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
-  "md.sys.typescale.body-large.font": {
-    "description": "Body Large font name",
-    "value": "{md.ref.typeface.plain}"
-  },
   "md.sys.typescale.title-small": {
     "description": "Title Small",
     "value": {
@@ -288,35 +414,6 @@
       "fontTrackingTokenName": "md.sys.typescale.title-small.tracking",
       "lineHeightTokenName": "md.sys.typescale.title-small.line-height"
     }
-  },
-  "md.sys.typescale.title-small.line-height": {
-    "description": "Title Small line height",
-    "value": {
-      "value": 20,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.title-small.tracking": {
-    "description": "Title Small font tracking",
-    "value": {
-      "value": 0.10000000149011612,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.title-small.size": {
-    "description": "Title Small font size",
-    "value": {
-      "value": 14,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.title-small.weight": {
-    "description": "Title Small font weight",
-    "value": "{md.ref.typeface.weight-medium}"
-  },
-  "md.sys.typescale.title-small.font": {
-    "description": "Title Small font name",
-    "value": "{md.ref.typeface.plain}"
   },
   "md.sys.typescale.title-medium": {
     "description": "Title Medium",
@@ -334,35 +431,6 @@
       "lineHeightTokenName": "md.sys.typescale.title-medium.line-height"
     }
   },
-  "md.sys.typescale.title-medium.line-height": {
-    "description": "Title Medium line height",
-    "value": {
-      "value": 24,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.title-medium.tracking": {
-    "description": "Title Medium font tracking",
-    "value": {
-      "value": 0.15000000596046448,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.title-medium.size": {
-    "description": "Title Medium font size",
-    "value": {
-      "value": 16,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.title-medium.weight": {
-    "description": "Title Medium font weight",
-    "value": "{md.ref.typeface.weight-medium}"
-  },
-  "md.sys.typescale.title-medium.font": {
-    "description": "Title Medium font name",
-    "value": "{md.ref.typeface.plain}"
-  },
   "md.sys.typescale.title-large": {
     "description": "Title Large",
     "value": {
@@ -378,35 +446,6 @@
       "fontTrackingTokenName": "md.sys.typescale.title-large.tracking",
       "lineHeightTokenName": "md.sys.typescale.title-large.line-height"
     }
-  },
-  "md.sys.typescale.title-large.line-height": {
-    "description": "Title Large line height",
-    "value": {
-      "value": 28,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.title-large.tracking": {
-    "description": "Title Large font tracking",
-    "value": {
-      "value": 0,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.title-large.size": {
-    "description": "Title Large font size",
-    "value": {
-      "value": 22,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.title-large.weight": {
-    "description": "Title Large font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
-  "md.sys.typescale.title-large.font": {
-    "description": "Title Large font name",
-    "value": "{md.ref.typeface.brand}"
   },
   "md.sys.typescale.headline-small": {
     "description": "Headline Small",
@@ -424,35 +463,6 @@
       "lineHeightTokenName": "md.sys.typescale.headline-small.line-height"
     }
   },
-  "md.sys.typescale.headline-small.line-height": {
-    "description": "Headline Small line height",
-    "value": {
-      "value": 32,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.headline-small.tracking": {
-    "description": "Headline Small font tracking",
-    "value": {
-      "value": 0,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.headline-small.size": {
-    "description": "Headline Small font size",
-    "value": {
-      "value": 24,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.headline-small.weight": {
-    "description": "Headline Small font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
-  "md.sys.typescale.headline-small.font": {
-    "description": "Headline Small font name",
-    "value": "{md.ref.typeface.brand}"
-  },
   "md.sys.typescale.headline-medium": {
     "description": "Headline Medium",
     "value": {
@@ -468,35 +478,6 @@
       "fontTrackingTokenName": "md.sys.typescale.headline-medium.tracking",
       "lineHeightTokenName": "md.sys.typescale.headline-medium.line-height"
     }
-  },
-  "md.sys.typescale.headline-medium.line-height": {
-    "description": "Headline Medium line height",
-    "value": {
-      "value": 36,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.headline-medium.tracking": {
-    "description": "Headline Medium font tracking",
-    "value": {
-      "value": 0,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.headline-medium.size": {
-    "description": "Headline Medium font size",
-    "value": {
-      "value": 28,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.headline-medium.weight": {
-    "description": "Headline Medium font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
-  "md.sys.typescale.headline-medium.font": {
-    "description": "Headline Medium font name",
-    "value": "{md.ref.typeface.brand}"
   },
   "md.sys.typescale.headline-large": {
     "description": "Headline Large",
@@ -514,35 +495,6 @@
       "lineHeightTokenName": "md.sys.typescale.headline-large.line-height"
     }
   },
-  "md.sys.typescale.headline-large.line-height": {
-    "description": "Headline Large line height",
-    "value": {
-      "value": 40,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.headline-large.tracking": {
-    "description": "Headline Large font tracking",
-    "value": {
-      "value": 0,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.headline-large.size": {
-    "description": "Headline Large font size",
-    "value": {
-      "value": 32,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.headline-large.font": {
-    "description": "Headline Large font name",
-    "value": "{md.ref.typeface.brand}"
-  },
-  "md.sys.typescale.headline-large.weight": {
-    "description": "Headline Large font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
   "md.sys.typescale.display-small": {
     "description": "Display Small",
     "value": {
@@ -558,35 +510,6 @@
       "fontTrackingTokenName": "md.sys.typescale.display-small.tracking",
       "lineHeightTokenName": "md.sys.typescale.display-small.line-height"
     }
-  },
-  "md.sys.typescale.display-small.line-height": {
-    "description": "Display Small line height",
-    "value": {
-      "value": 44,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.display-small.tracking": {
-    "description": "Display Small font tracking",
-    "value": {
-      "value": 0,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.display-small.size": {
-    "description": "Display Small font size",
-    "value": {
-      "value": 36,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.display-small.weight": {
-    "description": "Display Small font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
-  "md.sys.typescale.display-small.font": {
-    "description": "Display Small font name",
-    "value": "{md.ref.typeface.brand}"
   },
   "md.sys.typescale.display-medium": {
     "description": "Display Medium",
@@ -604,35 +527,6 @@
       "lineHeightTokenName": "md.sys.typescale.display-medium.line-height"
     }
   },
-  "md.sys.typescale.display-medium.line-height": {
-    "description": "Display Medium line height",
-    "value": {
-      "value": 52,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.display-medium.tracking": {
-    "description": "Display Medium font tracking",
-    "value": {
-      "value": 0,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.display-medium.size": {
-    "description": "Display Medium font size",
-    "value": {
-      "value": 45,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.display-medium.weight": {
-    "description": "Display Medium font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
-  "md.sys.typescale.display-medium.font": {
-    "description": "Display Medium font name",
-    "value": "{md.ref.typeface.brand}"
-  },
   "md.sys.typescale.display-large": {
     "description": "Display Large",
     "value": {
@@ -648,34 +542,5 @@
       "fontTrackingTokenName": "md.sys.typescale.display-large.tracking",
       "lineHeightTokenName": "md.sys.typescale.display-large.line-height"
     }
-  },
-  "md.sys.typescale.display-large.line-height": {
-    "description": "Display Large line height",
-    "value": {
-      "value": 64,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.display-large.tracking": {
-    "description": "Display Large font tracking",
-    "value": {
-      "value": -0.25,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.display-large.size": {
-    "description": "Display Large font size",
-    "value": {
-      "value": 57,
-      "unit": 2
-    }
-  },
-  "md.sys.typescale.display-large.weight": {
-    "description": "Display Large font weight",
-    "value": "{md.ref.typeface.weight-regular}"
-  },
-  "md.sys.typescale.display-large.font": {
-    "description": "Display Large font name",
-    "value": "{md.ref.typeface.brand}"
   }
 }

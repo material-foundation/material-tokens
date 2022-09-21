@@ -1,20 +1,4 @@
 {
-  "md.comp.elevated-button.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.elevated-button.label-text.font",
-      "fontWeightTokenName": "md.comp.elevated-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.elevated-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.elevated-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.elevated-button.label-text.line-height"
-    }
-  },
   "md.comp.elevated-button.focus.container.elevation": {
     "description": "Elevated button focus container elevation",
     "value": "{md.sys.elevation.level1}"
@@ -53,10 +37,7 @@
   },
   "md.comp.elevated-button.with-icon.icon.size": {
     "description": "Elevated button with icon icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.elevated-button.container.elevation": {
     "description": "Elevated button container elevation",
@@ -64,10 +45,7 @@
   },
   "md.comp.elevated-button.container.height": {
     "description": "Elevated button container height",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.elevated-button.container.shape": {
     "description": "Elevated button container shape",
@@ -96,5 +74,21 @@
   "md.comp.elevated-button.disabled.container.opacity": {
     "description": "Elevated button disabled container opacity",
     "value": 0.11999999731779099
+  },
+  "md.comp.elevated-button.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.elevated-button.label-text.font",
+      "fontWeightTokenName": "md.comp.elevated-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.elevated-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.elevated-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.elevated-button.label-text.line-height"
+    }
   }
 }

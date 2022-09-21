@@ -41,17 +41,11 @@
   },
   "md.comp.input-chip.selected.outline.width": {
     "description": "Input chip selected outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.input-chip.unselected.outline.width": {
     "description": "Input chip unselected outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.input-chip.dragged.state-layer.opacity": {
     "description": "Input chip dragged state layer opacity",
@@ -75,10 +69,7 @@
   },
   "md.comp.input-chip.outline.width": {
     "description": "Input chip outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.input-chip.dragged.container.elevation": {
     "description": "Input chip dragged container elevation",
@@ -102,10 +93,7 @@
   },
   "md.comp.input-chip.with-avatar.avatar.size": {
     "description": "Input chip with avatar avatar size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.input-chip.with-avatar.avatar.shape": {
     "description": "Input chip with avatar avatar shape",
@@ -117,10 +105,7 @@
   },
   "md.comp.input-chip.container.height": {
     "description": "Input chip container height",
-    "value": {
-      "value": 32,
-      "unit": 1
-    }
+    "value": "32px"
   },
   "md.comp.input-chip.container.elevation": {
     "description": "Input chip container elevation",
@@ -146,6 +131,14 @@
     "description": "Input chip label text tracking",
     "value": "{md.sys.typescale.label-large.tracking}"
   },
+  "md.comp.input-chip.with-leading-icon.leading-icon.size": {
+    "description": "Input chip leading icon size",
+    "value": "18px"
+  },
+  "md.comp.input-chip.with-trailing-icon.trailing-icon.size": {
+    "description": "Input chip trailing icon size",
+    "value": "18px"
+  },
   "md.comp.input-chip.label-text.type": {
     "description": "Input chip label text type style",
     "value": {
@@ -160,20 +153,6 @@
       "fontSizeTokenName": "md.comp.input-chip.label-text.size",
       "fontTrackingTokenName": "md.comp.input-chip.label-text.tracking",
       "lineHeightTokenName": "md.comp.input-chip.label-text.line-height"
-    }
-  },
-  "md.comp.input-chip.with-leading-icon.leading-icon.size": {
-    "description": "Input chip leading icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
-  },
-  "md.comp.input-chip.with-trailing-icon.trailing-icon.size": {
-    "description": "Input chip trailing icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
     }
   }
 }

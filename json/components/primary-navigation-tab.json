@@ -1,20 +1,4 @@
 {
-  "md.comp.primary-navigation-tab.with-label-text.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.font",
-      "fontWeightTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.weight",
-      "fontSizeTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.size",
-      "fontTrackingTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.tracking",
-      "lineHeightTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.line-height"
-    }
-  },
   "md.comp.primary-navigation-tab.inactive.focus.state-layer.opacity": {
     "description": "Primary navigation tab inactive focus state layer opacity",
     "value": "{md.sys.state.focus.state-layer-opacity}"
@@ -33,35 +17,21 @@
   },
   "md.comp.primary-navigation-tab.divider.height": {
     "description": "Primary navigation tab divider height",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.primary-navigation-tab.active-indicator.shape": {
+    "type": "shape",
     "description": "Primary navigation tab active indicator shape",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 3,
-        "unit": 1
-      },
-      "bottomLeft": {
-        "value": 0,
-        "unit": 1
-      },
-      "bottomRight": {
-        "value": 0,
-        "unit": 1
-      }
+      "all": "3px",
+      "method": "round",
+      "bottomLeft": "0px",
+      "bottomRight": "0px"
     }
   },
   "md.comp.primary-navigation-tab.active-indicator.height": {
     "description": "Primary navigation tab active indicator height",
-    "value": {
-      "value": 3,
-      "unit": 1
-    }
+    "value": "3px"
   },
   "md.comp.primary-navigation-tab.with-label-text.label-text.tracking": {
     "description": "Primary navigation tab with label text tracking",
@@ -85,10 +55,7 @@
   },
   "md.comp.primary-navigation-tab.with-icon.icon.size": {
     "description": "Primary navigation tab with icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.primary-navigation-tab.container.elevation": {
     "description": "Primary navigation tab container elevation",
@@ -96,17 +63,11 @@
   },
   "md.comp.primary-navigation-tab.with-icon-and-label-text.container.height": {
     "description": "Primary navigation tab with icon and label text container height",
-    "value": {
-      "value": 64,
-      "unit": 1
-    }
+    "value": "64px"
   },
   "md.comp.primary-navigation-tab.container.height": {
     "description": "Primary navigation tab container height",
-    "value": {
-      "value": 48,
-      "unit": 1
-    }
+    "value": "48px"
   },
   "md.comp.primary-navigation-tab.container.shape": {
     "description": "Primary navigation tab container shape",
@@ -119,5 +80,21 @@
   "md.comp.primary-navigation-tab.active.pressed.state-layer.opacity": {
     "description": "Primary navigation tab active pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
+  },
+  "md.comp.primary-navigation-tab.with-label-text.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.font",
+      "fontWeightTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.weight",
+      "fontSizeTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.size",
+      "fontTrackingTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.tracking",
+      "lineHeightTokenName": "md.comp.primary-navigation-tab.with-label-text.label-text.line-height"
+    }
   }
 }

@@ -3,22 +3,6 @@
     "description": "Text button container elevation",
     "value": "{md.sys.elevation.level0}"
   },
-  "md.comp.text-button.label-text.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.text-button.label-text.font",
-      "fontWeightTokenName": "md.comp.text-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.text-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.text-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.text-button.label-text.line-height"
-    }
-  },
   "md.comp.text-button.focus.state-layer.opacity": {
     "description": "Text button focus state layer opacity",
     "value": "{md.sys.state.focus.state-layer-opacity}"
@@ -49,17 +33,11 @@
   },
   "md.comp.text-button.with-icon.icon.size": {
     "description": "Text button with icon icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.text-button.container.height": {
     "description": "Text button container height",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.text-button.container.shape": {
     "description": "Text button container shape",
@@ -76,5 +54,21 @@
   "md.comp.text-button.disabled.label-text.opacity": {
     "description": "Text button disabled label opacity",
     "value": 0.3799999952316284
+  },
+  "md.comp.text-button.label-text.type": {
+    "description": "Type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.text-button.label-text.font",
+      "fontWeightTokenName": "md.comp.text-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.text-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.text-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.text-button.label-text.line-height"
+    }
   }
 }

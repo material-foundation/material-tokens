@@ -7,22 +7,6 @@
     "description": "Slider label label text font size",
     "value": "{md.sys.typescale.label-medium.size}"
   },
-  "md.comp.slider.label.label-text.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.slider.label.label-text.font",
-      "fontWeightTokenName": "md.comp.slider.label.label-text.weight",
-      "fontSizeTokenName": "md.comp.slider.label.label-text.size",
-      "fontTrackingTokenName": "md.comp.slider.label.label-text.tracking",
-      "lineHeightTokenName": "md.comp.slider.label.label-text.line-height"
-    }
-  },
   "md.comp.slider.label.label-text.tracking": {
     "description": "Slider label label text tracking",
     "value": "{md.sys.typescale.label-medium.tracking}"
@@ -45,10 +29,7 @@
   },
   "md.comp.slider.label.container.height": {
     "description": "Slider label container height",
-    "value": {
-      "value": 28,
-      "unit": 1
-    }
+    "value": "28px"
   },
   "md.comp.slider.track.elevation": {
     "description": "Slider track elevation",
@@ -84,17 +65,11 @@
   },
   "md.comp.slider.with-tick-marks.container.size": {
     "description": "Slider with tick marks container size",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.slider.with-overlap.handle.outline.width": {
     "description": "Slider with overlap handle outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.slider.handle.elevation": {
     "description": "Slider handle elevation",
@@ -106,38 +81,23 @@
   },
   "md.comp.slider.handle.width": {
     "description": "Slider handle width",
-    "value": {
-      "value": 20,
-      "unit": 1
-    }
+    "value": "20px"
   },
   "md.comp.slider.handle.height": {
     "description": "Slider handle height",
-    "value": {
-      "value": 20,
-      "unit": 1
-    }
+    "value": "20px"
   },
   "md.comp.slider.state-layer.size": {
     "description": "Slider state layer size",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.slider.inactive.track.height": {
     "description": "Slider inactive track height",
-    "value": {
-      "value": 4,
-      "unit": 1
-    }
+    "value": "4px"
   },
   "md.comp.slider.active.track.height": {
     "description": "Slider active track height",
-    "value": {
-      "value": 4,
-      "unit": 1
-    }
+    "value": "4px"
   },
   "md.comp.slider.disabled.inactive.track.opacity": {
     "description": "Slider disabled inactive track opacity",
@@ -162,5 +122,21 @@
   "md.comp.slider.disabled.handle.elevation": {
     "description": "Slider disabled handle elevation",
     "value": "{md.sys.elevation.level0}"
+  },
+  "md.comp.slider.label.label-text.type": {
+    "description": "Type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.slider.label.label-text.font",
+      "fontWeightTokenName": "md.comp.slider.label.label-text.weight",
+      "fontSizeTokenName": "md.comp.slider.label.label-text.size",
+      "fontTrackingTokenName": "md.comp.slider.label.label-text.tracking",
+      "lineHeightTokenName": "md.comp.slider.label.label-text.line-height"
+    }
   }
 }

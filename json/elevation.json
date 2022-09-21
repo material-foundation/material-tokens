@@ -1,44 +1,26 @@
 {
   "md.sys.elevation.level0": {
     "description": "0",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.sys.elevation.level1": {
     "description": "+1",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.sys.elevation.level2": {
     "description": "+2",
-    "value": {
-      "value": 3,
-      "unit": 1
-    }
+    "value": "3px"
   },
   "md.sys.elevation.level3": {
     "description": "+3",
-    "value": {
-      "value": 6,
-      "unit": 1
-    }
+    "value": "6px"
   },
   "md.sys.elevation.level4": {
     "description": "+4",
-    "value": {
-      "value": 8,
-      "unit": 1
-    }
+    "value": "8px"
   },
   "md.sys.elevation.level5": {
     "description": "+5",
-    "value": {
-      "value": 12,
-      "unit": 1
-    }
+    "value": "12px"
   }
 }

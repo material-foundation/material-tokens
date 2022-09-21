@@ -6,22 +6,24 @@
     }
   },
   "md.sys.motion.easing.linear": {
+    "type": "cubic-bezier",
     "description": "Linear",
-    "value": {
-      "x0": 0,
-      "y0": 0,
-      "x1": 1,
-      "y1": 1
-    }
+    "value": [
+      0,
+      0,
+      1,
+      1
+    ]
   },
   "md.sys.motion.easing.standard": {
+    "type": "cubic-bezier",
     "description": "Standard",
-    "value": {
-      "x0": 0.20000000298023224,
-      "y0": 0,
-      "x1": 0,
-      "y1": 1
-    }
+    "value": [
+      0.20000000298023224,
+      0,
+      0,
+      1
+    ]
   },
   "md.sys.motion.duration.short1": {
     "description": "Short 1",
@@ -88,66 +90,73 @@
     "value": 1000
   },
   "md.sys.motion.easing.standard.accelerate": {
+    "type": "cubic-bezier",
     "description": "Standard accelerate",
-    "value": {
-      "x0": 0.30000001192092896,
-      "y0": 0,
-      "x1": 1,
-      "y1": 1
-    }
+    "value": [
+      0.30000001192092896,
+      0,
+      1,
+      1
+    ]
   },
   "md.sys.motion.easing.standard.decelerate": {
+    "type": "cubic-bezier",
     "description": "Standard decelerate",
-    "value": {
-      "x0": 0,
-      "y0": 0,
-      "x1": 0,
-      "y1": 1
-    }
+    "value": [
+      0,
+      0,
+      0,
+      1
+    ]
   },
   "md.sys.motion.easing.emphasized.accelerate": {
+    "type": "cubic-bezier",
     "description": "Emphasized accelerate",
-    "value": {
-      "x0": 0.30000001192092896,
-      "y0": 0,
-      "x1": 0.800000011920929,
-      "y1": 0.15000000596046448
-    }
+    "value": [
+      0.30000001192092896,
+      0,
+      0.800000011920929,
+      0.15000000596046448
+    ]
   },
   "md.sys.motion.easing.emphasized.decelerate": {
+    "type": "cubic-bezier",
     "description": "Emphasized decelerate",
-    "value": {
-      "x0": 0.05000000074505806,
-      "y0": 0.699999988079071,
-      "x1": 0.10000000149011612,
-      "y1": 1
-    }
+    "value": [
+      0.05000000074505806,
+      0.699999988079071,
+      0.10000000149011612,
+      1
+    ]
   },
   "md.sys.motion.easing.legacy": {
+    "type": "cubic-bezier",
     "description": "Legacy",
-    "value": {
-      "x0": 0.4000000059604645,
-      "y0": 0,
-      "x1": 0.20000000298023224,
-      "y1": 1
-    }
+    "value": [
+      0.4000000059604645,
+      0,
+      0.20000000298023224,
+      1
+    ]
   },
   "md.sys.motion.easing.legacy.accelerate": {
+    "type": "cubic-bezier",
     "description": "Legacy accelerate",
-    "value": {
-      "x0": 0.4000000059604645,
-      "y0": 0,
-      "x1": 1,
-      "y1": 1
-    }
+    "value": [
+      0.4000000059604645,
+      0,
+      1,
+      1
+    ]
   },
   "md.sys.motion.easing.legacy.decelerate": {
+    "type": "cubic-bezier",
     "description": "Legacy decelerate",
-    "value": {
-      "x0": 0,
-      "y0": 0,
-      "x1": 0.20000000298023224,
-      "y1": 1
-    }
+    "value": [
+      0,
+      0,
+      0.20000000298023224,
+      1
+    ]
   }
 }

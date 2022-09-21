@@ -13,10 +13,7 @@
   },
   "md.comp.filled-card.icon.size": {
     "description": "Filled card icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.filled-card.focus.state-layer.opacity": {
     "description": "Filled card focus state layer opacity",

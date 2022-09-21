@@ -29,33 +29,11 @@
   },
   "md.comp.outlined-menu-button.trailing-icon.size": {
     "description": "Outlined menu button trailing icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.outlined-menu-button.with-icon.leading-icon.size": {
     "description": "Outlined menu button with icon leading icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
-  },
-  "md.comp.outlined-menu-button.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-menu-button.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-menu-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-menu-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-menu-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-menu-button.label-text.line-height"
-    }
+    "value": "18px"
   },
   "md.comp.outlined-menu-button.label-text.weight": {
     "description": "Outlined menu button label text weight",
@@ -83,16 +61,26 @@
   },
   "md.comp.outlined-menu-button.container.height": {
     "description": "Outlined menu button container height",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.outlined-menu-button.outline.width": {
     "description": "Outlined menu button outline width",
+    "value": "1px"
+  },
+  "md.comp.outlined-menu-button.label-text.type": {
+    "description": "Label text type style",
     "value": {
-      "value": 1,
-      "unit": 1
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-menu-button.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-menu-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-menu-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-menu-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-menu-button.label-text.line-height"
     }
   }
 }

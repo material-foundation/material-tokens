@@ -61,10 +61,7 @@
   },
   "md.comp.filter-chip.container.height": {
     "description": "Filter chip container height",
-    "value": {
-      "value": 32,
-      "unit": 1
-    }
+    "value": "32px"
   },
   "md.comp.filter-chip.flat.container.elevation": {
     "description": "Filter chip container elevation",
@@ -72,17 +69,11 @@
   },
   "md.comp.filter-chip.flat.unselected.outline.width": {
     "description": "Filter chip (unselected) outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.filter-chip.flat.selected.outline.width": {
     "description": "Filter chip (selected) outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.filter-chip.label-text.font": {
     "description": "Filter chip label text font",
@@ -104,28 +95,9 @@
     "description": "Filter chip label text tracking",
     "value": "{md.sys.typescale.label-large.tracking}"
   },
-  "md.comp.filter-chip.label-text.type": {
-    "description": "Filter chip label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.filter-chip.label-text.font",
-      "fontWeightTokenName": "md.comp.filter-chip.label-text.weight",
-      "fontSizeTokenName": "md.comp.filter-chip.label-text.size",
-      "fontTrackingTokenName": "md.comp.filter-chip.label-text.tracking",
-      "lineHeightTokenName": "md.comp.filter-chip.label-text.line-height"
-    }
-  },
   "md.comp.filter-chip.with-icon.icon.size": {
     "description": "Filter chip with icon icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.filter-chip.flat.disabled.unselected.outline.opacity": {
     "description": "Filter chip disabled (unselected) outline opacity",
@@ -178,5 +150,21 @@
   "md.comp.filter-chip.selected.dragged.state-layer.opacity": {
     "description": "Filter chip (selected) dragged state layer opacity",
     "value": "{md.sys.state.dragged.state-layer-opacity}"
+  },
+  "md.comp.filter-chip.label-text.type": {
+    "description": "Filter chip label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.filter-chip.label-text.font",
+      "fontWeightTokenName": "md.comp.filter-chip.label-text.weight",
+      "fontSizeTokenName": "md.comp.filter-chip.label-text.size",
+      "fontTrackingTokenName": "md.comp.filter-chip.label-text.tracking",
+      "lineHeightTokenName": "md.comp.filter-chip.label-text.line-height"
+    }
   }
 }

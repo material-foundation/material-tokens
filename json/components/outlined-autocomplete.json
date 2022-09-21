@@ -1,10 +1,7 @@
 {
   "md.comp.outlined-autocomplete.text-field.container.height": {
     "description": "Outlined autocomplete text field container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.outlined-autocomplete.text-field.error.hover.state-layer.opacity": {
     "description": "Outlined autocomplete text field error hover state layer opacity",
@@ -16,17 +13,11 @@
   },
   "md.comp.outlined-autocomplete.text-field.hover.outline.width": {
     "description": "Outlined autocomplete text field hover outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-autocomplete.text-field.focus.outline.width": {
     "description": "Outlined autocomplete text field focus outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.outlined-autocomplete.text-field.disabled.trailing-icon.opacity": {
     "description": "Outlined autocomplete text field disabled trailing icon opacity",
@@ -54,40 +45,15 @@
   },
   "md.comp.outlined-autocomplete.text-field.disabled.outline.width": {
     "description": "Outlined autocomplete text field disabled outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-autocomplete.menu.cascading-menu-indicator.icon.size": {
     "description": "Outlined autocomplete menu cascading menu indicator icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.outlined-autocomplete.menu.divider.height": {
     "description": "Outlined autocomplete menu divider height",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
-  },
-  "md.comp.outlined-autocomplete.menu.list-item.label-text.type": {
-    "description": "Outlined autocomplete menu list item label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.line-height"
-    }
+    "value": "1px"
   },
   "md.comp.outlined-autocomplete.menu.list-item.label-text.weight": {
     "description": "Outlined autocomplete menu list item label text weight",
@@ -111,10 +77,7 @@
   },
   "md.comp.outlined-autocomplete.menu.list-item.container.height": {
     "description": "Outlined autocomplete menu list item container height",
-    "value": {
-      "value": 48,
-      "unit": 1
-    }
+    "value": "48px"
   },
   "md.comp.outlined-autocomplete.menu.container.shape": {
     "description": "Outlined autocomplete menu container shape",
@@ -126,33 +89,11 @@
   },
   "md.comp.outlined-autocomplete.text-field.trailing-icon.size": {
     "description": "Outlined autocomplete text field trailing icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.outlined-autocomplete.text-field.leading-icon.size": {
     "description": "Outlined autocomplete text field leading icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
-  },
-  "md.comp.outlined-autocomplete.text-field.supporting-text.type": {
-    "description": "Outlined autocomplete text field supporting text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.font",
-      "fontWeightTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.line-height"
-    }
+    "value": "24px"
   },
   "md.comp.outlined-autocomplete.text-field.supporting-text.tracking": {
     "description": "Outlined autocomplete text field supporting text tracking",
@@ -182,22 +123,6 @@
     "description": "Outlined autocomplete text field label text populated line height",
     "value": "{md.sys.typescale.body-small.line-height}"
   },
-  "md.comp.outlined-autocomplete.text-field.label-text.type": {
-    "description": "Outlined autocomplete text field label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-autocomplete.text-field.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-autocomplete.text-field.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-autocomplete.text-field.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-autocomplete.text-field.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-autocomplete.text-field.label-text.line-height"
-    }
-  },
   "md.comp.outlined-autocomplete.text-field.label-text.tracking": {
     "description": "Outlined autocomplete text field label text tracking",
     "value": "{md.sys.typescale.body-large.tracking}"
@@ -217,22 +142,6 @@
   "md.comp.outlined-autocomplete.text-field.label-text.font": {
     "description": "Outlined autocomplete text field label text font",
     "value": "{md.sys.typescale.body-large.font}"
-  },
-  "md.comp.outlined-autocomplete.text-field.input-text.type": {
-    "description": "Outlined autocomplete text field input text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-autocomplete.text-field.input-text.font",
-      "fontWeightTokenName": "md.comp.outlined-autocomplete.text-field.input-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-autocomplete.text-field.input-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-autocomplete.text-field.input-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-autocomplete.text-field.input-text.line-height"
-    }
   },
   "md.comp.outlined-autocomplete.text-field.input-text.tracking": {
     "description": "Outlined autocomplete text field input text tracking",
@@ -256,13 +165,74 @@
   },
   "md.comp.outlined-autocomplete.text-field.outline.width": {
     "description": "Outlined autocomplete text field outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-autocomplete.text-field.container.shape": {
     "description": "Outlined autocomplete text field container shape",
     "value": "{md.sys.shape.corner.extra-small}"
+  },
+  "md.comp.outlined-autocomplete.menu.list-item.label-text.type": {
+    "description": "Outlined autocomplete menu list item label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-autocomplete.menu.list-item.label-text.line-height"
+    }
+  },
+  "md.comp.outlined-autocomplete.text-field.supporting-text.type": {
+    "description": "Outlined autocomplete text field supporting text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.font",
+      "fontWeightTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-autocomplete.text-field.supporting-text.line-height"
+    }
+  },
+  "md.comp.outlined-autocomplete.text-field.label-text.type": {
+    "description": "Outlined autocomplete text field label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-autocomplete.text-field.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-autocomplete.text-field.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-autocomplete.text-field.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-autocomplete.text-field.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-autocomplete.text-field.label-text.line-height"
+    }
+  },
+  "md.comp.outlined-autocomplete.text-field.input-text.type": {
+    "description": "Outlined autocomplete text field input text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-autocomplete.text-field.input-text.font",
+      "fontWeightTokenName": "md.comp.outlined-autocomplete.text-field.input-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-autocomplete.text-field.input-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-autocomplete.text-field.input-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-autocomplete.text-field.input-text.line-height"
+    }
   }
 }

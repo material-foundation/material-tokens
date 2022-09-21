@@ -53,26 +53,7 @@
   },
   "md.comp.assist-chip.with-icon.icon.size": {
     "description": "Assist chip icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
-  },
-  "md.comp.assist-chip.label-text.type": {
-    "description": "Assist chip label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.assist-chip.label-text.font",
-      "fontWeightTokenName": "md.comp.assist-chip.label-text.weight",
-      "fontSizeTokenName": "md.comp.assist-chip.label-text.size",
-      "fontTrackingTokenName": "md.comp.assist-chip.label-text.tracking",
-      "lineHeightTokenName": "md.comp.assist-chip.label-text.line-height"
-    }
+    "value": "18px"
   },
   "md.comp.assist-chip.label-text.tracking": {
     "description": "Assist chip label text tracking",
@@ -100,10 +81,7 @@
   },
   "md.comp.assist-chip.flat.outline.width": {
     "description": "Assist chip container outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.assist-chip.flat.container.elevation": {
     "description": "Assist chip container elevation",
@@ -111,13 +89,26 @@
   },
   "md.comp.assist-chip.container.height": {
     "description": "Assist chip container height",
-    "value": {
-      "value": 32,
-      "unit": 1
-    }
+    "value": "32px"
   },
   "md.comp.assist-chip.container.shape": {
     "description": "Assist chip container shape",
     "value": "{md.sys.shape.corner.small}"
+  },
+  "md.comp.assist-chip.label-text.type": {
+    "description": "Assist chip label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.assist-chip.label-text.font",
+      "fontWeightTokenName": "md.comp.assist-chip.label-text.weight",
+      "fontSizeTokenName": "md.comp.assist-chip.label-text.size",
+      "fontTrackingTokenName": "md.comp.assist-chip.label-text.tracking",
+      "lineHeightTokenName": "md.comp.assist-chip.label-text.line-height"
+    }
   }
 }

@@ -1,10 +1,7 @@
 {
   "md.comp.outlined-select.text-field.container.height": {
     "description": "Outlined select text field container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.outlined-select.text-field.error.hover.state-layer.opacity": {
     "description": "Outlined select text field error hover state layer opacity",
@@ -16,17 +13,11 @@
   },
   "md.comp.outlined-select.text-field.hover.outline.width": {
     "description": "Outlined select text field hover outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-select.text-field.focus.outline.width": {
     "description": "Outlined select text field focus outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.outlined-select.text-field.disabled.trailing-icon.opacity": {
     "description": "Outlined select text field disabled trailing icon opacity",
@@ -54,54 +45,23 @@
   },
   "md.comp.outlined-select.text-field.disabled.outline.width": {
     "description": "Outlined select text field disabled outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-select.menu.cascading-menu-indicator.icon.size": {
     "description": "Outlined select menu cascading menu indicator icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.outlined-select.menu.divider.height": {
     "description": "Outlined select menu divider height",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-select.menu.list-item.with-trailing-icon.trailing-icon.size": {
     "description": "Outlined select menu list item with trailing icon trailing icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.outlined-select.menu.list-item.with-leading-icon.leading-icon.size": {
     "description": "Outlined select menu list item with leading icon leading icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
-  },
-  "md.comp.outlined-select.menu.list-item.label-text.type": {
-    "description": "Outlined select menu list item label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-select.menu.list-item.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-select.menu.list-item.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-select.menu.list-item.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-select.menu.list-item.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-select.menu.list-item.label-text.line-height"
-    }
+    "value": "24px"
   },
   "md.comp.outlined-select.menu.list-item.label-text.weight": {
     "description": "Outlined select menu list item label text weight",
@@ -125,10 +85,7 @@
   },
   "md.comp.outlined-select.menu.list-item.container.height": {
     "description": "Outlined select menu list item container height",
-    "value": {
-      "value": 48,
-      "unit": 1
-    }
+    "value": "48px"
   },
   "md.comp.outlined-select.menu.container.shape": {
     "description": "Outlined select menu container shape",
@@ -140,33 +97,11 @@
   },
   "md.comp.outlined-select.text-field.trailing-icon.size": {
     "description": "Outlined select text field trailing icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.outlined-select.text-field.leading-icon.size": {
     "description": "Outlined select text field leading icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
-  },
-  "md.comp.outlined-select.text-field.supporting-text.type": {
-    "description": "Outlined select text field supporting text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-select.text-field.supporting-text.font",
-      "fontWeightTokenName": "md.comp.outlined-select.text-field.supporting-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-select.text-field.supporting-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-select.text-field.supporting-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-select.text-field.supporting-text.line-height"
-    }
+    "value": "24px"
   },
   "md.comp.outlined-select.text-field.supporting-text.tracking": {
     "description": "Outlined select text field supporting text tracking",
@@ -196,22 +131,6 @@
     "description": "Outlined select text field label text populated line height",
     "value": "{md.sys.typescale.body-small.line-height}"
   },
-  "md.comp.outlined-select.text-field.label-text.type": {
-    "description": "Outlined select text field label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-select.text-field.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-select.text-field.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-select.text-field.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-select.text-field.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-select.text-field.label-text.line-height"
-    }
-  },
   "md.comp.outlined-select.text-field.label-text.tracking": {
     "description": "Outlined select text field label text tracking",
     "value": "{md.sys.typescale.body-large.tracking}"
@@ -231,22 +150,6 @@
   "md.comp.outlined-select.text-field.label-text.font": {
     "description": "Outlined select text field label text font",
     "value": "{md.sys.typescale.body-large.font}"
-  },
-  "md.comp.outlined-select.text-field.input-text.type": {
-    "description": "Outlined select text field input text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-select.text-field.input-text.font",
-      "fontWeightTokenName": "md.comp.outlined-select.text-field.input-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-select.text-field.input-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-select.text-field.input-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-select.text-field.input-text.line-height"
-    }
   },
   "md.comp.outlined-select.text-field.input-text.tracking": {
     "description": "Outlined select text field input text tracking",
@@ -270,13 +173,74 @@
   },
   "md.comp.outlined-select.text-field.outline.width": {
     "description": "Outlined select text field outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-select.text-field.container.shape": {
     "description": "Outlined select text field container shape",
     "value": "{md.sys.shape.corner.extra-small}"
+  },
+  "md.comp.outlined-select.menu.list-item.label-text.type": {
+    "description": "Outlined select menu list item label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-select.menu.list-item.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-select.menu.list-item.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-select.menu.list-item.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-select.menu.list-item.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-select.menu.list-item.label-text.line-height"
+    }
+  },
+  "md.comp.outlined-select.text-field.supporting-text.type": {
+    "description": "Outlined select text field supporting text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-select.text-field.supporting-text.font",
+      "fontWeightTokenName": "md.comp.outlined-select.text-field.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-select.text-field.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-select.text-field.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-select.text-field.supporting-text.line-height"
+    }
+  },
+  "md.comp.outlined-select.text-field.label-text.type": {
+    "description": "Outlined select text field label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-select.text-field.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-select.text-field.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-select.text-field.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-select.text-field.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-select.text-field.label-text.line-height"
+    }
+  },
+  "md.comp.outlined-select.text-field.input-text.type": {
+    "description": "Outlined select text field input text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-select.text-field.input-text.font",
+      "fontWeightTokenName": "md.comp.outlined-select.text-field.input-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-select.text-field.input-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-select.text-field.input-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-select.text-field.input-text.line-height"
+    }
   }
 }

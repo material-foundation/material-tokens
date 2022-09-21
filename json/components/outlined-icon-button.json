@@ -29,10 +29,7 @@
   },
   "md.comp.outlined-icon-button.container.size": {
     "description": "Outlined icon button container size",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.outlined-icon-button.container.shape": {
     "description": "Outlined icon button container shape",
@@ -40,16 +37,10 @@
   },
   "md.comp.outlined-icon-button.unselected.outline.width": {
     "description": "Outlined icon button unselected outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-icon-button.icon.size": {
     "description": "Outlined icon button icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   }
 }

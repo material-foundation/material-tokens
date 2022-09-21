@@ -1,20 +1,4 @@
 {
-  "md.comp.banner.supporting-text.type": {
-    "description": "Banner supporting text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.banner.supporting-text.font",
-      "fontWeightTokenName": "md.comp.banner.supporting-text.weight",
-      "fontSizeTokenName": "md.comp.banner.supporting-text.size",
-      "fontTrackingTokenName": "md.comp.banner.supporting-text.tracking",
-      "lineHeightTokenName": "md.comp.banner.supporting-text.line-height"
-    }
-  },
   "md.comp.banner.supporting-text.tracking": {
     "description": "Banner supporting text tracking",
     "value": "{md.sys.typescale.body-medium.tracking}"
@@ -39,28 +23,9 @@
     "description": "Banner supporting text font",
     "value": "{md.sys.typescale.body-medium.font}"
   },
-  "md.comp.banner.action.label-text.type": {
-    "description": "Banner action label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.banner.action.label-text.font",
-      "fontWeightTokenName": "md.comp.banner.action.label-text.weight",
-      "fontSizeTokenName": "md.comp.banner.action.label-text.size",
-      "fontTrackingTokenName": "md.comp.banner.action.label-text.tracking",
-      "lineHeightTokenName": "md.comp.banner.action.label-text.line-height"
-    }
-  },
   "md.comp.banner.with-image.image.size": {
     "description": "Banner image size",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.banner.action.focus.state-layer.opacity": {
     "description": "Banner action focus state layer opacity",
@@ -92,52 +57,31 @@
   },
   "md.comp.banner.divider.height": {
     "description": "Banner divider height",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.banner.desktop.with-three-lines.container.height": {
     "description": "Banner with three lines container height",
-    "value": {
-      "value": 90,
-      "unit": 1
-    }
+    "value": "90px"
   },
   "md.comp.banner.desktop.with-two-lines.with-image.container.height": {
     "description": "Banner desktop with two lines with image container height",
-    "value": {
-      "value": 72,
-      "unit": 1
-    }
+    "value": "72px"
   },
   "md.comp.banner.desktop.with-single-line.container.height": {
     "description": "Banner desktop with single line container height",
-    "value": {
-      "value": 52,
-      "unit": 1
-    }
+    "value": "52px"
   },
   "md.comp.banner.mobile.with-two-lines.with-image.container.height": {
     "description": "Banner mobile with two lines with image container height",
-    "value": {
-      "value": 120,
-      "unit": 1
-    }
+    "value": "120px"
   },
   "md.comp.banner.mobile.with-two-lines.container.height": {
     "description": "Banner mobile with two lines container height",
-    "value": {
-      "value": 112,
-      "unit": 1
-    }
+    "value": "112px"
   },
   "md.comp.banner.mobile.with-single-line.container.height": {
     "description": "Banner mobile with single line container height",
-    "value": {
-      "value": 54,
-      "unit": 1
-    }
+    "value": "54px"
   },
   "md.comp.banner.container.shape": {
     "description": "Banner container shape",
@@ -150,5 +94,37 @@
   "md.comp.banner.action.pressed.state-layer.opacity": {
     "description": "Banner action pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
+  },
+  "md.comp.banner.supporting-text.type": {
+    "description": "Banner supporting text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.banner.supporting-text.font",
+      "fontWeightTokenName": "md.comp.banner.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.banner.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.banner.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.banner.supporting-text.line-height"
+    }
+  },
+  "md.comp.banner.action.label-text.type": {
+    "description": "Banner action label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.banner.action.label-text.font",
+      "fontWeightTokenName": "md.comp.banner.action.label-text.weight",
+      "fontSizeTokenName": "md.comp.banner.action.label-text.size",
+      "fontTrackingTokenName": "md.comp.banner.action.label-text.tracking",
+      "lineHeightTokenName": "md.comp.banner.action.label-text.line-height"
+    }
   }
 }

@@ -1,158 +1,107 @@
 {
   "md.sys.shape.corner.extra-small.top": {
+    "type": "shape",
     "description": "Extra small top rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 0,
-        "unit": 1
-      },
-      "topLeft": {
-        "value": 4,
-        "unit": 1
-      },
-      "topRight": {
-        "value": 4,
-        "unit": 1
-      }
+      "all": "0px",
+      "method": "round",
+      "topLeft": "4px",
+      "topRight": "4px"
     }
   },
   "md.sys.shape.corner.extra-small": {
+    "type": "shape",
     "description": "Extra small rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 4,
-        "unit": 1
-      }
+      "all": "4px",
+      "method": "round"
     }
   },
   "md.sys.shape.corner.large": {
+    "type": "shape",
     "description": "Large rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 16,
-        "unit": 1
-      }
+      "all": "16px",
+      "method": "round"
     }
   },
   "md.sys.shape.corner.none": {
+    "type": "shape",
     "description": "No rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 0,
-        "unit": 1
-      }
+      "all": "0px",
+      "method": "round"
     }
   },
   "md.sys.shape.corner.large.start": {
+    "type": "shape",
     "description": "Large start rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 0,
-        "unit": 1
-      },
-      "topLeft": {
-        "value": 16,
-        "unit": 1
-      },
-      "bottomLeft": {
-        "value": 16,
-        "unit": 1
-      }
+      "all": "0px",
+      "method": "round",
+      "topLeft": "16px",
+      "bottomLeft": "16px"
     }
   },
   "md.sys.shape.corner.medium": {
+    "type": "shape",
     "description": "Medium rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 12,
-        "unit": 1
-      }
+      "all": "12px",
+      "method": "round"
     }
   },
   "md.sys.shape.corner.small": {
+    "type": "shape",
     "description": "Small rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 8,
-        "unit": 1
-      }
+      "all": "8px",
+      "method": "round"
     }
   },
   "md.sys.shape.corner.large.end": {
+    "type": "shape",
     "description": "Large end rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 0,
-        "unit": 1
-      },
-      "topRight": {
-        "value": 16,
-        "unit": 1
-      },
-      "bottomRight": {
-        "value": 16,
-        "unit": 1
-      }
+      "all": "0px",
+      "method": "round",
+      "topRight": "16px",
+      "bottomRight": "16px"
     }
   },
   "md.sys.shape.corner.large.top": {
+    "type": "shape",
     "description": "Large top rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 0,
-        "unit": 1
-      },
-      "topLeft": {
-        "value": 16,
-        "unit": 1
-      },
-      "topRight": {
-        "value": 16,
-        "unit": 1
-      }
+      "all": "0px",
+      "method": "round",
+      "topLeft": "16px",
+      "topRight": "16px"
     }
   },
   "md.sys.shape.corner.extra-large": {
+    "type": "shape",
     "description": "Extra large rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 28,
-        "unit": 1
-      }
+      "all": "28px",
+      "method": "round"
     }
   },
   "md.sys.shape.corner.extra-large.top": {
+    "type": "shape",
     "description": "Extra large top rounding",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 0,
-        "unit": 1
-      },
-      "topLeft": {
-        "value": 28,
-        "unit": 1
-      },
-      "topRight": {
-        "value": 28,
-        "unit": 1
-      }
+      "all": "0px",
+      "method": "round",
+      "topLeft": "28px",
+      "topRight": "28px"
     }
   },
   "md.sys.shape.corner.full": {
+    "type": "shape",
     "description": "Fully rounded",
     "value": {
-      "family": 3
+      "method": "circle"
     }
   }
 }

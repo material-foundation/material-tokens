@@ -1,26 +1,7 @@
 {
   "md.comp.menu.divider.height": {
     "description": "Menu divider height",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
-  },
-  "md.comp.menu.list-item.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.menu.list-item.label-text.font",
-      "fontWeightTokenName": "md.comp.menu.list-item.label-text.weight",
-      "fontSizeTokenName": "md.comp.menu.list-item.label-text.size",
-      "fontTrackingTokenName": "md.comp.menu.list-item.label-text.tracking",
-      "lineHeightTokenName": "md.comp.menu.list-item.label-text.line-height"
-    }
+    "value": "1px"
   },
   "md.comp.menu.list-item.focus.state-layer.opacity": {
     "description": "Menu list item focus state layer opacity",
@@ -32,24 +13,15 @@
   },
   "md.comp.menu.cascading-menu-indicator.icon.size": {
     "description": "Menu icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.menu.list-item.with-trailing-icon.trailing-icon.size": {
     "description": "Menu list item trailing icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.menu.list-item.with-leading-icon.leading-icon.size": {
     "description": "Menu list item leading icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.menu.list-item.label-text.weight": {
     "description": "Menu list item label text weight",
@@ -73,10 +45,7 @@
   },
   "md.comp.menu.list-item.container.height": {
     "description": "Menu list item container height",
-    "value": {
-      "value": 48,
-      "unit": 1
-    }
+    "value": "48px"
   },
   "md.comp.menu.container.shape": {
     "description": "Menu container shape",
@@ -101,5 +70,21 @@
   "md.comp.menu.list-item.disabled.label-text.opacity": {
     "description": "Menu list item disabled label text opacity",
     "value": 0.3799999952316284
+  },
+  "md.comp.menu.list-item.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.menu.list-item.label-text.font",
+      "fontWeightTokenName": "md.comp.menu.list-item.label-text.weight",
+      "fontSizeTokenName": "md.comp.menu.list-item.label-text.size",
+      "fontTrackingTokenName": "md.comp.menu.list-item.label-text.tracking",
+      "lineHeightTokenName": "md.comp.menu.list-item.label-text.line-height"
+    }
   }
 }

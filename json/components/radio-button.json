@@ -17,17 +17,11 @@
   },
   "md.comp.radio-button.state-layer.size": {
     "description": "Radio button state layer size",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.radio-button.icon.size": {
     "description": "Radio button icon size",
-    "value": {
-      "value": 20,
-      "unit": 1
-    }
+    "value": "20px"
   },
   "md.comp.radio-button.unselected.pressed.state-layer.opacity": {
     "description": "Radio button unselected pressed state layer opacity",

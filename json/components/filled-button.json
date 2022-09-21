@@ -7,22 +7,6 @@
     "description": "Filled button dragged container elevation",
     "value": "{md.sys.elevation.level3}"
   },
-  "md.comp.filled-button.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.filled-button.label-text.font",
-      "fontWeightTokenName": "md.comp.filled-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.filled-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.filled-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.filled-button.label-text.line-height"
-    }
-  },
   "md.comp.filled-button.focus.state-layer.opacity": {
     "description": "Filled button focus state layer opacity",
     "value": "{md.sys.state.focus.state-layer-opacity}"
@@ -61,10 +45,7 @@
   },
   "md.comp.filled-button.with-icon.icon.size": {
     "description": "Filled button with icon icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.filled-button.container.elevation": {
     "description": "Filled button container elevation",
@@ -72,10 +53,7 @@
   },
   "md.comp.filled-button.container.height": {
     "description": "Filled button container height",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.filled-button.container.shape": {
     "description": "Filled button container shape",
@@ -104,5 +82,21 @@
   "md.comp.filled-button.disabled.container.elevation": {
     "description": "Filled button disabled container elevation",
     "value": "{md.sys.elevation.level0}"
+  },
+  "md.comp.filled-button.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.filled-button.label-text.font",
+      "fontWeightTokenName": "md.comp.filled-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.filled-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.filled-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.filled-button.label-text.line-height"
+    }
   }
 }

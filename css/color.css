@@ -15,7 +15,10 @@
 */
 
 :root {
-  color-scheme: light;
+  /* Scrim */
+  --md-sys-color-scrim: var(--md-ref-palette-neutral0);
+  /* Outline Variant */
+  --md-sys-color-outline-variant: var(--md-ref-palette-neutral-variant80);
   /* Surface tint */
   --md-sys-color-surface-tint: var(--md-sys-color-primary);
   /* Surface tint color */

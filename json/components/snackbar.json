@@ -13,24 +13,15 @@
   },
   "md.comp.snackbar.icon.size": {
     "description": "Snackbar icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.snackbar.with-two-lines.container.height": {
     "description": "Snackbar container with two lines height",
-    "value": {
-      "value": 68,
-      "unit": 1
-    }
+    "value": "68px"
   },
   "md.comp.snackbar.with-single-line.container.height": {
     "description": "Snackbar container with single line height",
-    "value": {
-      "value": 48,
-      "unit": 1
-    }
+    "value": "48px"
   },
   "md.comp.snackbar.action.pressed.state-layer.opacity": {
     "description": "Snackbar pressed state layer opacity",

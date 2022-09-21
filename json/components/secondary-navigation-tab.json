@@ -1,26 +1,7 @@
 {
   "md.comp.secondary-navigation-tab.with-icon.icon.size": {
     "description": "Secondary navigation tab with icon icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
-  },
-  "md.comp.secondary-navigation-tab.label-text.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.secondary-navigation-tab.label-text.font",
-      "fontWeightTokenName": "md.comp.secondary-navigation-tab.label-text.weight",
-      "fontSizeTokenName": "md.comp.secondary-navigation-tab.label-text.size",
-      "fontTrackingTokenName": "md.comp.secondary-navigation-tab.label-text.tracking",
-      "lineHeightTokenName": "md.comp.secondary-navigation-tab.label-text.line-height"
-    }
+    "value": "24px"
   },
   "md.comp.secondary-navigation-tab.focus.state-layer.opacity": {
     "description": "Secondary navigation tab focus state layer opacity",
@@ -32,17 +13,11 @@
   },
   "md.comp.secondary-navigation-tab.divider.height": {
     "description": "Secondary navigation tab divider height",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.secondary-navigation-tab.active-indicator.height": {
     "description": "Secondary navigation tab active indicator height",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.secondary-navigation-tab.label-text.tracking": {
     "description": "Secondary navigation tab label text tracking",
@@ -70,10 +45,7 @@
   },
   "md.comp.secondary-navigation-tab.container.height": {
     "description": "Secondary navigation tab container height",
-    "value": {
-      "value": 48,
-      "unit": 1
-    }
+    "value": "48px"
   },
   "md.comp.secondary-navigation-tab.container.shape": {
     "description": "Secondary navigation tab container shape",
@@ -82,5 +54,21 @@
   "md.comp.secondary-navigation-tab.pressed.state-layer.opacity": {
     "description": "Secondary navigation tab pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
+  },
+  "md.comp.secondary-navigation-tab.label-text.type": {
+    "description": "Type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.secondary-navigation-tab.label-text.font",
+      "fontWeightTokenName": "md.comp.secondary-navigation-tab.label-text.weight",
+      "fontSizeTokenName": "md.comp.secondary-navigation-tab.label-text.size",
+      "fontTrackingTokenName": "md.comp.secondary-navigation-tab.label-text.tracking",
+      "lineHeightTokenName": "md.comp.secondary-navigation-tab.label-text.line-height"
+    }
   }
 }

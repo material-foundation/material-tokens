@@ -1,20 +1,4 @@
 {
-  "md.comp.extended-fab.branded.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.extended-fab.branded.label-text.font",
-      "fontWeightTokenName": "md.comp.extended-fab.branded.label-text.weight",
-      "fontSizeTokenName": "md.comp.extended-fab.branded.label-text.size",
-      "fontTrackingTokenName": "md.comp.extended-fab.branded.label-text.tracking",
-      "lineHeightTokenName": "md.comp.extended-fab.branded.label-text.line-height"
-    }
-  },
   "md.comp.extended-fab.branded.lowered.focus.container.elevation": {
     "description": "Branded extended FAB lowered focus container elevation",
     "value": "{md.sys.elevation.level1}"
@@ -61,10 +45,7 @@
   },
   "md.comp.extended-fab.branded.icon.size": {
     "description": "Extended FAB (branded) icon size",
-    "value": {
-      "value": 36,
-      "unit": 1
-    }
+    "value": "36px"
   },
   "md.comp.extended-fab.branded.lowered.container.elevation": {
     "description": "Branded extended FAB lowered container elevation",
@@ -76,10 +57,7 @@
   },
   "md.comp.extended-fab.branded.container.height": {
     "description": "Extended FAB (branded) container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.extended-fab.branded.container.shape": {
     "description": "Extended FAB (branded) container shape",
@@ -96,5 +74,21 @@
   "md.comp.extended-fab.branded.pressed.container.elevation": {
     "description": "Extended FAB (branded) pressed container elevation",
     "value": "{md.sys.elevation.level3}"
+  },
+  "md.comp.extended-fab.branded.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.extended-fab.branded.label-text.font",
+      "fontWeightTokenName": "md.comp.extended-fab.branded.label-text.weight",
+      "fontSizeTokenName": "md.comp.extended-fab.branded.label-text.size",
+      "fontTrackingTokenName": "md.comp.extended-fab.branded.label-text.tracking",
+      "lineHeightTokenName": "md.comp.extended-fab.branded.label-text.line-height"
+    }
   }
 }

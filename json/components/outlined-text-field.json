@@ -1,24 +1,15 @@
 {
   "md.comp.outlined-text-field.container.height": {
     "description": "Outlined text field container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.outlined-text-field.hover.outline.width": {
     "description": "Outlined text field hover outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-text-field.focus.outline.width": {
     "description": "Outlined text field focus outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.outlined-text-field.disabled.trailing-icon.opacity": {
     "description": "Outlined text field disabled trailing-icon opacity",
@@ -46,40 +37,15 @@
   },
   "md.comp.outlined-text-field.disabled.outline.width": {
     "description": "Outlined text field disabled outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-text-field.trailing-icon.size": {
     "description": "Outlined text field trailing icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.outlined-text-field.leading-icon.size": {
     "description": "Outlined text field leading icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
-  },
-  "md.comp.outlined-text-field.supporting-text.type": {
-    "description": "Outlined text field supporting text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-text-field.supporting-text.font",
-      "fontWeightTokenName": "md.comp.outlined-text-field.supporting-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-text-field.supporting-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-text-field.supporting-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-text-field.supporting-text.line-height"
-    }
+    "value": "24px"
   },
   "md.comp.outlined-text-field.supporting-text.tracking": {
     "description": "Outlined text field supporting text tracking",
@@ -109,22 +75,6 @@
     "description": "Outlined text field label text populated line height",
     "value": "{md.sys.typescale.body-small.line-height}"
   },
-  "md.comp.outlined-text-field.label-text.type": {
-    "description": "Outlined text field label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-text-field.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-text-field.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-text-field.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-text-field.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-text-field.label-text.line-height"
-    }
-  },
   "md.comp.outlined-text-field.label-text.tracking": {
     "description": "Outlined text field label text tracking",
     "value": "{md.sys.typescale.body-large.tracking}"
@@ -144,22 +94,6 @@
   "md.comp.outlined-text-field.label-text.font": {
     "description": "Outlined text field label text font",
     "value": "{md.sys.typescale.body-large.font}"
-  },
-  "md.comp.outlined-text-field.input-text.type": {
-    "description": "Outlined text field input text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-text-field.input-text.font",
-      "fontWeightTokenName": "md.comp.outlined-text-field.input-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-text-field.input-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-text-field.input-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-text-field.input-text.line-height"
-    }
   },
   "md.comp.outlined-text-field.input-text.tracking": {
     "description": "Outlined text field input text tracking",
@@ -183,13 +117,58 @@
   },
   "md.comp.outlined-text-field.outline.width": {
     "description": "Outlined text field outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-text-field.container.shape": {
     "description": "Outlined text field container shape",
     "value": "{md.sys.shape.corner.extra-small}"
+  },
+  "md.comp.outlined-text-field.supporting-text.type": {
+    "description": "Outlined text field supporting text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-text-field.supporting-text.font",
+      "fontWeightTokenName": "md.comp.outlined-text-field.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-text-field.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-text-field.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-text-field.supporting-text.line-height"
+    }
+  },
+  "md.comp.outlined-text-field.label-text.type": {
+    "description": "Outlined text field label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-text-field.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-text-field.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-text-field.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-text-field.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-text-field.label-text.line-height"
+    }
+  },
+  "md.comp.outlined-text-field.input-text.type": {
+    "description": "Outlined text field input text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-text-field.input-text.font",
+      "fontWeightTokenName": "md.comp.outlined-text-field.input-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-text-field.input-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-text-field.input-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-text-field.input-text.line-height"
+    }
   }
 }

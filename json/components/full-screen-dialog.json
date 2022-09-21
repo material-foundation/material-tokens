@@ -1,10 +1,7 @@
 {
   "md.comp.full-screen-dialog.with-divider.divider.height": {
     "description": "Full screen dialog divider height",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.full-screen-dialog.action-bar.pressed.state-layer.opacity": {
     "description": "Full screen dialog action bar pressed state layer opacity",
@@ -17,22 +14,6 @@
   "md.comp.full-screen-dialog.action-bar.hover.state-layer.opacity": {
     "description": "Full screen dialog action bar hover state layer opacity",
     "value": "{md.sys.state.hover.state-layer-opacity}"
-  },
-  "md.comp.full-screen-dialog.action-bar.label-text.type": {
-    "description": "Full screen dialog action bar label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.full-screen-dialog.action-bar.label-text.font",
-      "fontWeightTokenName": "md.comp.full-screen-dialog.action-bar.label-text.weight",
-      "fontSizeTokenName": "md.comp.full-screen-dialog.action-bar.label-text.size",
-      "fontTrackingTokenName": "md.comp.full-screen-dialog.action-bar.label-text.tracking",
-      "lineHeightTokenName": "md.comp.full-screen-dialog.action-bar.label-text.line-height"
-    }
   },
   "md.comp.full-screen-dialog.action-bar.label-text.tracking": {
     "description": "Full screen dialog action bar label text tracking",
@@ -64,26 +45,7 @@
   },
   "md.comp.full-screen-dialog.action-bar.container.height": {
     "description": "Full screen dialog action bar container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
-  },
-  "md.comp.full-screen-dialog.header.headline.type": {
-    "description": "Header type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.full-screen-dialog.header.headline.font",
-      "fontWeightTokenName": "md.comp.full-screen-dialog.header.headline.weight",
-      "fontSizeTokenName": "md.comp.full-screen-dialog.header.headline.size",
-      "fontTrackingTokenName": "md.comp.full-screen-dialog.header.headline.tracking",
-      "lineHeightTokenName": "md.comp.full-screen-dialog.header.headline.line-height"
-    }
+    "value": "56px"
   },
   "md.comp.full-screen-dialog.header.action.focus.state-layer.opacity": {
     "description": "Full screen dialog header action focus state layer opacity",
@@ -92,22 +54,6 @@
   "md.comp.full-screen-dialog.header.action.hover.state-layer.opacity": {
     "description": "Full screen dialog header action hover state layer opacity",
     "value": "{md.sys.state.hover.state-layer-opacity}"
-  },
-  "md.comp.full-screen-dialog.header.action.label-text.type": {
-    "description": "Full screen dialog header action label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.full-screen-dialog.header.action.label-text.font",
-      "fontWeightTokenName": "md.comp.full-screen-dialog.header.action.label-text.weight",
-      "fontSizeTokenName": "md.comp.full-screen-dialog.header.action.label-text.size",
-      "fontTrackingTokenName": "md.comp.full-screen-dialog.header.action.label-text.tracking",
-      "lineHeightTokenName": "md.comp.full-screen-dialog.header.action.label-text.line-height"
-    }
   },
   "md.comp.full-screen-dialog.header.action.label-text.tracking": {
     "description": "Full screen dialog header action label text tracking",
@@ -151,10 +97,7 @@
   },
   "md.comp.full-screen-dialog.header.icon.size": {
     "description": "Full screen dialog header icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.full-screen-dialog.header.on-scroll.container.elevation": {
     "description": "Full screen dialog header on scroll container elevation",
@@ -166,10 +109,7 @@
   },
   "md.comp.full-screen-dialog.header.container.height": {
     "description": "Full screen dialog header container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.full-screen-dialog.container.shape": {
     "description": "Full screen dialog container shape",
@@ -182,5 +122,53 @@
   "md.comp.full-screen-dialog.header.action.pressed.state-layer.opacity": {
     "description": "Full screen dialog header action pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
+  },
+  "md.comp.full-screen-dialog.action-bar.label-text.type": {
+    "description": "Full screen dialog action bar label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.full-screen-dialog.action-bar.label-text.font",
+      "fontWeightTokenName": "md.comp.full-screen-dialog.action-bar.label-text.weight",
+      "fontSizeTokenName": "md.comp.full-screen-dialog.action-bar.label-text.size",
+      "fontTrackingTokenName": "md.comp.full-screen-dialog.action-bar.label-text.tracking",
+      "lineHeightTokenName": "md.comp.full-screen-dialog.action-bar.label-text.line-height"
+    }
+  },
+  "md.comp.full-screen-dialog.header.headline.type": {
+    "description": "Header type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.full-screen-dialog.header.headline.font",
+      "fontWeightTokenName": "md.comp.full-screen-dialog.header.headline.weight",
+      "fontSizeTokenName": "md.comp.full-screen-dialog.header.headline.size",
+      "fontTrackingTokenName": "md.comp.full-screen-dialog.header.headline.tracking",
+      "lineHeightTokenName": "md.comp.full-screen-dialog.header.headline.line-height"
+    }
+  },
+  "md.comp.full-screen-dialog.header.action.label-text.type": {
+    "description": "Full screen dialog header action label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.full-screen-dialog.header.action.label-text.font",
+      "fontWeightTokenName": "md.comp.full-screen-dialog.header.action.label-text.weight",
+      "fontSizeTokenName": "md.comp.full-screen-dialog.header.action.label-text.size",
+      "fontTrackingTokenName": "md.comp.full-screen-dialog.header.action.label-text.tracking",
+      "lineHeightTokenName": "md.comp.full-screen-dialog.header.action.label-text.line-height"
+    }
   }
 }

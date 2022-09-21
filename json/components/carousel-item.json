@@ -5,10 +5,7 @@
   },
   "md.comp.carousel-item.with-outline.outline.width": {
     "description": "Carousel item outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.carousel-item.container.shape": {
     "description": "Carousel item container shape",

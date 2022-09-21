@@ -25,16 +25,10 @@
   },
   "md.comp.filled-tonal-icon-button.container.size": {
     "description": "Filled tonal icon button container size",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.filled-tonal-icon-button.icon.size": {
     "description": "Filled tonal icon button icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   }
 }

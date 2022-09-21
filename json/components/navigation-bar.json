@@ -1,53 +1,27 @@
 {
   "md.comp.navigation-bar.large-badge.shape": {
+    "type": "shape",
     "description": "Shape",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 8,
-        "unit": 1
-      }
+      "all": "8px",
+      "method": "round"
     }
   },
   "md.comp.navigation-bar.large-badge.size": {
     "description": "Size",
-    "value": {
-      "value": 16,
-      "unit": 1
-    }
+    "value": "16px"
   },
   "md.comp.navigation-bar.badge.shape": {
+    "type": "shape",
     "description": "Shape",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 3,
-        "unit": 1
-      }
+      "all": "3px",
+      "method": "round"
     }
   },
   "md.comp.navigation-bar.badge.size": {
     "description": "Size",
-    "value": {
-      "value": 6,
-      "unit": 1
-    }
-  },
-  "md.comp.navigation-bar.label-text.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.navigation-bar.label-text.font",
-      "fontWeightTokenName": "md.comp.navigation-bar.label-text.weight",
-      "fontSizeTokenName": "md.comp.navigation-bar.label-text.size",
-      "fontTrackingTokenName": "md.comp.navigation-bar.label-text.tracking",
-      "lineHeightTokenName": "md.comp.navigation-bar.label-text.line-height"
-    }
+    "value": "6px"
   },
   "md.comp.navigation-bar.pressed.state-layer.opacity": {
     "description": "Opacity",
@@ -67,17 +41,11 @@
   },
   "md.comp.navigation-bar.active-indicator.width": {
     "description": "Width",
-    "value": {
-      "value": 64,
-      "unit": 1
-    }
+    "value": "64px"
   },
   "md.comp.navigation-bar.active-indicator.height": {
     "description": "Height",
-    "value": {
-      "value": 32,
-      "unit": 1
-    }
+    "value": "32px"
   },
   "md.comp.navigation-bar.label-text.tracking": {
     "description": "Tracking",
@@ -101,10 +69,7 @@
   },
   "md.comp.navigation-bar.icon.size": {
     "description": "Size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.navigation-bar.container.elevation": {
     "description": "Elevation",
@@ -112,13 +77,26 @@
   },
   "md.comp.navigation-bar.container.height": {
     "description": "Height",
-    "value": {
-      "value": 80,
-      "unit": 1
-    }
+    "value": "80px"
   },
   "md.comp.navigation-bar.container.shape": {
     "description": "Shape",
     "value": "{md.sys.shape.corner.none}"
+  },
+  "md.comp.navigation-bar.label-text.type": {
+    "description": "Type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.navigation-bar.label-text.font",
+      "fontWeightTokenName": "md.comp.navigation-bar.label-text.weight",
+      "fontSizeTokenName": "md.comp.navigation-bar.label-text.size",
+      "fontTrackingTokenName": "md.comp.navigation-bar.label-text.tracking",
+      "lineHeightTokenName": "md.comp.navigation-bar.label-text.line-height"
+    }
   }
 }

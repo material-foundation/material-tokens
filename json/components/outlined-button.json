@@ -3,22 +3,6 @@
     "description": "Outlined button container elevation",
     "value": "{md.sys.elevation.level0}"
   },
-  "md.comp.outlined-button.label-text.type": {
-    "description": "Type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.outlined-button.label-text.font",
-      "fontWeightTokenName": "md.comp.outlined-button.label-text.weight",
-      "fontSizeTokenName": "md.comp.outlined-button.label-text.size",
-      "fontTrackingTokenName": "md.comp.outlined-button.label-text.tracking",
-      "lineHeightTokenName": "md.comp.outlined-button.label-text.line-height"
-    }
-  },
   "md.comp.outlined-button.focus.state-layer.opacity": {
     "description": "Outlined button focus state layer opacity",
     "value": "{md.sys.state.focus.state-layer-opacity}"
@@ -49,24 +33,15 @@
   },
   "md.comp.outlined-button.with-icon.icon.size": {
     "description": "Outlined button with icon icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.outlined-button.outline.width": {
     "description": "Outlined button outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-button.container.height": {
     "description": "Outlined button container height",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.outlined-button.container.shape": {
     "description": "Outlined button container shape",
@@ -87,5 +62,21 @@
   "md.comp.outlined-button.disabled.outline.opacity": {
     "description": "Outlined button disabled outline opacity",
     "value": 0.11999999731779099
+  },
+  "md.comp.outlined-button.label-text.type": {
+    "description": "Type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.outlined-button.label-text.font",
+      "fontWeightTokenName": "md.comp.outlined-button.label-text.weight",
+      "fontSizeTokenName": "md.comp.outlined-button.label-text.size",
+      "fontTrackingTokenName": "md.comp.outlined-button.label-text.tracking",
+      "lineHeightTokenName": "md.comp.outlined-button.label-text.line-height"
+    }
   }
 }

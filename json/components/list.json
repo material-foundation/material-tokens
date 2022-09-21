@@ -1,38 +1,23 @@
 {
   "md.comp.list.list-item.container.height": {
     "description": "List list item container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.list.md.comp.list.list-item.three-line.container.height": {
     "description": "Three lines list item container height",
-    "value": {
-      "value": 88,
-      "unit": 1
-    }
+    "value": "88px"
   },
   "md.comp.list.md.comp.list.list-item.two-line.container.height": {
     "description": "Two lines list item container height",
-    "value": {
-      "value": 72,
-      "unit": 1
-    }
+    "value": "72px"
   },
   "md.comp.list.md.comp.list.list-item.one-line.container.height": {
     "description": "One line list item container height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.list.divider.height": {
     "description": "List list item divider height",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.list.list-item.dragged.container.elevation": {
     "description": "List list item dragged container color",
@@ -72,26 +57,7 @@
   },
   "md.comp.list.list-item.trailing-icon.size": {
     "description": "List list item trailing icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
-  },
-  "md.comp.list.list-item.trailing-supporting-text.type": {
-    "description": "List list item trailing supporting text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.list.list-item.trailing-supporting-text.font",
-      "fontWeightTokenName": "md.comp.list.list-item.trailing-supporting-text.weight",
-      "fontSizeTokenName": "md.comp.list.list-item.trailing-supporting-text.size",
-      "fontTrackingTokenName": "md.comp.list.list-item.trailing-supporting-text.tracking",
-      "lineHeightTokenName": "md.comp.list.list-item.trailing-supporting-text.line-height"
-    }
+    "value": "24px"
   },
   "md.comp.list.list-item.trailing-supporting-text.weight": {
     "description": "List list item trailing supporting text weight",
@@ -119,33 +85,11 @@
   },
   "md.comp.list.list-item.leading-image.height": {
     "description": "List list item leading-image height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.list.list-item.leading-image.width": {
     "description": "List list item leading-image width",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
-  },
-  "md.comp.list.list-item.leading-avatar-label.type": {
-    "description": "List list item leading avatar label type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.list.list-item.leading-avatar-label.font",
-      "fontWeightTokenName": "md.comp.list.list-item.leading-avatar-label.weight",
-      "fontSizeTokenName": "md.comp.list.list-item.leading-avatar-label.size",
-      "fontTrackingTokenName": "md.comp.list.list-item.leading-avatar-label.tracking",
-      "lineHeightTokenName": "md.comp.list.list-item.leading-avatar-label.line-height"
-    }
+    "value": "56px"
   },
   "md.comp.list.list-item.leading-avatar-label.weight": {
     "description": "List list item leading avatar label weight",
@@ -169,10 +113,7 @@
   },
   "md.comp.list.list-item.leading-avatar.size": {
     "description": "List list item leading-avatar size",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.list.list-item.leading-avatar.shape": {
     "description": "List list item leading-avatar shape",
@@ -184,47 +125,19 @@
   },
   "md.comp.list.list-item.large.leading-video.height": {
     "description": "List list item large leading-icon color",
-    "value": {
-      "value": 69,
-      "unit": 1
-    }
+    "value": "69px"
   },
   "md.comp.list.list-item.small.leading-video.height": {
     "description": "List list item small leading-icon height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.list.list-item.leading-video.width": {
     "description": "List list item leading-icon width",
-    "value": {
-      "value": 100,
-      "unit": 1
-    }
+    "value": "100px"
   },
   "md.comp.list.list-item.leading-icon.size": {
     "description": "List list item leading-icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
-  },
-  "md.comp.list.list-item.overline.type": {
-    "description": "List list item overline type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.list.list-item.overline.font",
-      "fontWeightTokenName": "md.comp.list.list-item.overline.weight",
-      "fontSizeTokenName": "md.comp.list.list-item.overline.size",
-      "fontTrackingTokenName": "md.comp.list.list-item.overline.tracking",
-      "lineHeightTokenName": "md.comp.list.list-item.overline.line-height"
-    }
+    "value": "18px"
   },
   "md.comp.list.list-item.overline.weight": {
     "description": "List list item overline weight",
@@ -246,22 +159,6 @@
     "description": "List list item overline font",
     "value": "{md.sys.typescale.label-small.font}"
   },
-  "md.comp.list.list-item.supporting-text.type": {
-    "description": "List list item supporting text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.list.list-item.supporting-text.font",
-      "fontWeightTokenName": "md.comp.list.list-item.supporting-text.weight",
-      "fontSizeTokenName": "md.comp.list.list-item.supporting-text.size",
-      "fontTrackingTokenName": "md.comp.list.list-item.supporting-text.tracking",
-      "lineHeightTokenName": "md.comp.list.list-item.supporting-text.line-height"
-    }
-  },
   "md.comp.list.list-item.supporting-text.weight": {
     "description": "List list item supporting text weight",
     "value": "{md.sys.typescale.body-medium.weight}"
@@ -281,22 +178,6 @@
   "md.comp.list.list-item.supporting-text.font": {
     "description": "List list item supporting text font",
     "value": "{md.sys.typescale.body-medium.font}"
-  },
-  "md.comp.list.list-item.label-text.type": {
-    "description": "List list item label text type",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.list.list-item.label-text.font",
-      "fontWeightTokenName": "md.comp.list.list-item.label-text.weight",
-      "fontSizeTokenName": "md.comp.list.list-item.label-text.size",
-      "fontTrackingTokenName": "md.comp.list.list-item.label-text.tracking",
-      "lineHeightTokenName": "md.comp.list.list-item.label-text.line-height"
-    }
   },
   "md.comp.list.list-item.label-text.weight": {
     "description": "List list item label text weight",
@@ -325,5 +206,85 @@
   "md.comp.list.list-item.container.shape": {
     "description": "List list item container shape",
     "value": "{md.sys.shape.corner.none}"
+  },
+  "md.comp.list.list-item.trailing-supporting-text.type": {
+    "description": "List list item trailing supporting text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.trailing-supporting-text.font",
+      "fontWeightTokenName": "md.comp.list.list-item.trailing-supporting-text.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.trailing-supporting-text.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.trailing-supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.trailing-supporting-text.line-height"
+    }
+  },
+  "md.comp.list.list-item.leading-avatar-label.type": {
+    "description": "List list item leading avatar label type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.leading-avatar-label.font",
+      "fontWeightTokenName": "md.comp.list.list-item.leading-avatar-label.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.leading-avatar-label.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.leading-avatar-label.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.leading-avatar-label.line-height"
+    }
+  },
+  "md.comp.list.list-item.overline.type": {
+    "description": "List list item overline type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.overline.font",
+      "fontWeightTokenName": "md.comp.list.list-item.overline.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.overline.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.overline.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.overline.line-height"
+    }
+  },
+  "md.comp.list.list-item.supporting-text.type": {
+    "description": "List list item supporting text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.supporting-text.font",
+      "fontWeightTokenName": "md.comp.list.list-item.supporting-text.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.supporting-text.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.supporting-text.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.supporting-text.line-height"
+    }
+  },
+  "md.comp.list.list-item.label-text.type": {
+    "description": "List list item label text type",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.list.list-item.label-text.font",
+      "fontWeightTokenName": "md.comp.list.list-item.label-text.weight",
+      "fontSizeTokenName": "md.comp.list.list-item.label-text.size",
+      "fontTrackingTokenName": "md.comp.list.list-item.label-text.tracking",
+      "lineHeightTokenName": "md.comp.list.list-item.label-text.line-height"
+    }
   }
 }

@@ -9,17 +9,11 @@
   },
   "md.comp.checkbox.selected.error.pressed.outline.width": {
     "description": "Checkbox selected error pressed outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.checkbox.unselected.error.pressed.outline.width": {
     "description": "Checkbox unselected error pressed outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.checkbox.error.pressed.state-layer.opacity": {
     "description": "Checkbox error pressed state layer opacity",
@@ -27,10 +21,7 @@
   },
   "md.comp.checkbox.selected.pressed.outline.width": {
     "description": "Checkbox selected pressed outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.checkbox.selected.pressed.state-layer.opacity": {
     "description": "Checkbox selected pressed state layer opacity",
@@ -38,10 +29,7 @@
   },
   "md.comp.checkbox.unselected.pressed.outline.width": {
     "description": "Checkbox unselected pressed outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.checkbox.unselected.pressed.state-layer.opacity": {
     "description": "Checkbox unselected pressed state layer opacity",
@@ -49,45 +37,27 @@
   },
   "md.comp.checkbox.selected.error.focus.outline.width": {
     "description": "Checkbox selected error focus outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.checkbox.unselected.error.focus.outline.width": {
     "description": "Checkbox unselected error focusd outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.checkbox.selected.focus.outline.width": {
     "description": "Checkbox selected focus outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.checkbox.unselected.focus.outline.width": {
     "description": "Checkbox unselected focus outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.checkbox.selected.error.hover.outline.width": {
     "description": "Checkbox selected error hover outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.checkbox.unselected.error.hover.outline.width": {
     "description": "Checkbox unselected error hover outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.checkbox.error.hover.state-layer.opacity": {
     "description": "Checkbox error hover state layer opacity",
@@ -95,24 +65,15 @@
   },
   "md.comp.checkbox.selected.hover.outline.width": {
     "description": "Checkbox selected hover outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.checkbox.unselected.hover.outline.width": {
     "description": "Checkbox unselected hover outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.checkbox.selected.disabled.container.outline.width": {
     "description": "Checkbox selected disabled container outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.checkbox.selected.disabled.container.opacity": {
     "description": "Checkbox selected disabled container opacity",
@@ -124,10 +85,7 @@
   },
   "md.comp.checkbox.unselected.disabled.outline.width": {
     "description": "Checkbox unselected disabled outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.checkbox.state-layer.shape": {
     "description": "Checkbox state layer shape",
@@ -135,48 +93,31 @@
   },
   "md.comp.checkbox.icon.size": {
     "description": "Checkbox icon size",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.checkbox.selected.outline.width": {
     "description": "Checkbox selected outline width",
-    "value": {
-      "value": 0,
-      "unit": 1
-    }
+    "value": "0px"
   },
   "md.comp.checkbox.unselected.outline.width": {
     "description": "Checkbox unselected outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.checkbox.container.shape": {
+    "type": "shape",
     "description": "Checkbox container shape",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 2,
-        "unit": 1
-      }
+      "all": "2px",
+      "method": "round"
     }
   },
   "md.comp.checkbox.container.height": {
     "description": "Checkbox container height",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.checkbox.container.width": {
     "description": "Checkbox container width",
-    "value": {
-      "value": 18,
-      "unit": 1
-    }
+    "value": "18px"
   },
   "md.comp.checkbox.unselected.focus.state-layer.opacity": {
     "description": "Checkbox unselected focus state layer opacity",
@@ -196,9 +137,6 @@
   },
   "md.comp.checkbox.state-layer.size": {
     "description": "Checkbox state layer size",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   }
 }

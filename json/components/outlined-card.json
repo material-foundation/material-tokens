@@ -21,17 +21,11 @@
   },
   "md.comp.outlined-card.icon.size": {
     "description": "Outlined card icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.outlined-card.outline.width": {
     "description": "Outlined card outline width",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   },
   "md.comp.outlined-card.focus.state-layer.opacity": {
     "description": "Outlined card focus state layer opacity",

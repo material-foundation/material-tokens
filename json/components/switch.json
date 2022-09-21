@@ -5,24 +5,15 @@
   },
   "md.comp.switch.track.outline.width": {
     "description": "Switch track outline width",
-    "value": {
-      "value": 2,
-      "unit": 1
-    }
+    "value": "2px"
   },
   "md.comp.switch.handle.width": {
     "description": "Switch handle width",
-    "value": {
-      "value": 20,
-      "unit": 1
-    }
+    "value": "20px"
   },
   "md.comp.switch.handle.height": {
     "description": "Switch handle height",
-    "value": {
-      "value": 20,
-      "unit": 1
-    }
+    "value": "20px"
   },
   "md.comp.switch.disabled.handle.elevation": {
     "description": "Switch disabled handle elevation",
@@ -78,94 +69,55 @@
   },
   "md.comp.switch.pressed.handle.width": {
     "description": "Switch pressed handle width",
-    "value": {
-      "value": 28,
-      "unit": 1
-    }
+    "value": "28px"
   },
   "md.comp.switch.selected.handle.width": {
     "description": "Switch selected handle width",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.switch.with-icon.handle.width": {
     "description": "Switch with icon handle width",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.switch.unselected.handle.width": {
     "description": "Switch unselected handle width",
-    "value": {
-      "value": 16,
-      "unit": 1
-    }
+    "value": "16px"
   },
   "md.comp.switch.pressed.handle.height": {
     "description": "Switch pressed handle height",
-    "value": {
-      "value": 28,
-      "unit": 1
-    }
+    "value": "28px"
   },
   "md.comp.switch.selected.handle.height": {
     "description": "Switch selected handle height",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.switch.with-icon.handle.height": {
     "description": "Switch with icon handle height",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.switch.unselected.handle.height": {
     "description": "Switch unselected handle height",
-    "value": {
-      "value": 16,
-      "unit": 1
-    }
+    "value": "16px"
   },
   "md.comp.switch.unselected.icon.size": {
     "description": "Switch unselected icon size",
-    "value": {
-      "value": 16,
-      "unit": 1
-    }
+    "value": "16px"
   },
   "md.comp.switch.selected.icon.size": {
     "description": "Switch selected icon size",
-    "value": {
-      "value": 16,
-      "unit": 1
-    }
+    "value": "16px"
   },
   "md.comp.switch.state-layer.size": {
     "description": "Switch state layer size",
-    "value": {
-      "value": 40,
-      "unit": 1
-    }
+    "value": "40px"
   },
   "md.comp.switch.track.width": {
     "description": "Switch track width",
-    "value": {
-      "value": 52,
-      "unit": 1
-    }
+    "value": "52px"
   },
   "md.comp.switch.track.height": {
     "description": "Switch track height",
-    "value": {
-      "value": 32,
-      "unit": 1
-    }
+    "value": "32px"
   },
   "md.comp.switch.disabled.unselected.icon.opacity": {
     "description": "Switch disabled unselected icon opacity",

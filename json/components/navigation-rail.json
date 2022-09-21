@@ -1,20 +1,4 @@
 {
-  "md.comp.navigation-rail.large-badge-label.type": {
-    "description": "Navigation rail large badge label type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.navigation-rail.large-badge-label.font",
-      "fontWeightTokenName": "md.comp.navigation-rail.large-badge-label.weight",
-      "fontSizeTokenName": "md.comp.navigation-rail.large-badge-label.size",
-      "fontTrackingTokenName": "md.comp.navigation-rail.large-badge-label.tracking",
-      "lineHeightTokenName": "md.comp.navigation-rail.large-badge-label.line-height"
-    }
-  },
   "md.comp.navigation-rail.large-badge-label.tracking": {
     "description": "Navigation rail large badge label tracking",
     "value": "{md.sys.typescale.label-small.tracking}"
@@ -36,38 +20,28 @@
     "value": "{md.sys.typescale.label-small.font}"
   },
   "md.comp.navigation-rail.large-badge.shape": {
+    "type": "shape",
     "description": "Navigation rail large badge shape",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 8,
-        "unit": 1
-      }
+      "all": "8px",
+      "method": "round"
     }
   },
   "md.comp.navigation-rail.large-badge.size": {
     "description": "Navigation rail large badge size",
-    "value": {
-      "value": 16,
-      "unit": 1
-    }
+    "value": "16px"
   },
   "md.comp.navigation-rail.badge.shape": {
+    "type": "shape",
     "description": "Navigation rail badge shape",
     "value": {
-      "family": 1,
-      "defaultSize": {
-        "value": 3,
-        "unit": 1
-      }
+      "all": "3px",
+      "method": "round"
     }
   },
   "md.comp.navigation-rail.badge.size": {
     "description": "Navigation rail badge size",
-    "value": {
-      "value": 6,
-      "unit": 1
-    }
+    "value": "6px"
   },
   "md.comp.navigation-rail.large-badge-label.font-family": {
     "description": "Navigation rail large badge label font family",
@@ -84,22 +58,6 @@
   "md.comp.navigation-rail.label-text.font-family": {
     "description": "Navigation rail label font family",
     "value": "{md.sys.typescale.label-medium.font}"
-  },
-  "md.comp.navigation-rail.label-text.type": {
-    "description": "Label text type style",
-    "value": {
-      "font": "",
-      "weight": 0,
-      "sizePoints": 0,
-      "trackingPoints": 0,
-      "lineHeightPoints": 0,
-      "axisValuesList": [],
-      "fontNameTokenName": "md.comp.navigation-rail.label-text.font",
-      "fontWeightTokenName": "md.comp.navigation-rail.label-text.weight",
-      "fontSizeTokenName": "md.comp.navigation-rail.label-text.size",
-      "fontTrackingTokenName": "md.comp.navigation-rail.label-text.tracking",
-      "lineHeightTokenName": "md.comp.navigation-rail.label-text.line-height"
-    }
   },
   "md.comp.navigation-rail.menu.focus.state-layer.opacity": {
     "description": "Navigation rail menu focus state layer opacity",
@@ -119,17 +77,11 @@
   },
   "md.comp.navigation-rail.menu.icon.size": {
     "description": "Navigation rail menu icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.navigation-rail.active-indicator.width": {
     "description": "Navigation rail active indicator width",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.navigation-rail.no-label.active-indicator.shape": {
     "description": "Navigation rail no label active indicator shape",
@@ -141,17 +93,11 @@
   },
   "md.comp.navigation-rail.no-label.active-indicator.height": {
     "description": "Navigation rail no label active indicator height",
-    "value": {
-      "value": 56,
-      "unit": 1
-    }
+    "value": "56px"
   },
   "md.comp.navigation-rail.active-indicator.height": {
     "description": "Navigation rail active indicator height",
-    "value": {
-      "value": 32,
-      "unit": 1
-    }
+    "value": "32px"
   },
   "md.comp.navigation-rail.label-text.tracking": {
     "description": "Navigation rail label tracking",
@@ -175,10 +121,7 @@
   },
   "md.comp.navigation-rail.icon.size": {
     "description": "Navigation rail icon size",
-    "value": {
-      "value": 24,
-      "unit": 1
-    }
+    "value": "24px"
   },
   "md.comp.navigation-rail.container.elevation": {
     "description": "Navigation rail container elevation",
@@ -186,10 +129,7 @@
   },
   "md.comp.navigation-rail.container.width": {
     "description": "Navigation rail container width",
-    "value": {
-      "value": 80,
-      "unit": 1
-    }
+    "value": "80px"
   },
   "md.comp.navigation-rail.container.shape": {
     "description": "Navigation rail container shape",
@@ -202,5 +142,37 @@
   "md.comp.navigation-rail.pressed.state-layer.opacity": {
     "description": "Navigation rail pressed state layer opacity",
     "value": "{md.sys.state.pressed.state-layer-opacity}"
+  },
+  "md.comp.navigation-rail.large-badge-label.type": {
+    "description": "Navigation rail large badge label type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.navigation-rail.large-badge-label.font",
+      "fontWeightTokenName": "md.comp.navigation-rail.large-badge-label.weight",
+      "fontSizeTokenName": "md.comp.navigation-rail.large-badge-label.size",
+      "fontTrackingTokenName": "md.comp.navigation-rail.large-badge-label.tracking",
+      "lineHeightTokenName": "md.comp.navigation-rail.large-badge-label.line-height"
+    }
+  },
+  "md.comp.navigation-rail.label-text.type": {
+    "description": "Label text type style",
+    "value": {
+      "font": "",
+      "weight": 0,
+      "sizePoints": 0,
+      "trackingPoints": 0,
+      "lineHeightPoints": 0,
+      "axisValuesList": [],
+      "fontNameTokenName": "md.comp.navigation-rail.label-text.font",
+      "fontWeightTokenName": "md.comp.navigation-rail.label-text.weight",
+      "fontSizeTokenName": "md.comp.navigation-rail.label-text.size",
+      "fontTrackingTokenName": "md.comp.navigation-rail.label-text.tracking",
+      "lineHeightTokenName": "md.comp.navigation-rail.label-text.line-height"
+    }
   }
 }

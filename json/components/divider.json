@@ -1,9 +1,6 @@
 {
   "md.comp.divider.thickness": {
     "description": "Divider thickness",
-    "value": {
-      "value": 1,
-      "unit": 1
-    }
+    "value": "1px"
   }
 }
