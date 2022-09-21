@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* Filled mneu button focus container elevation */
   --md-comp-filled-menu-button-focus-container-elevation: var(--md-sys-elevation-level0);
   /* Filled mneu button hover container elevation */

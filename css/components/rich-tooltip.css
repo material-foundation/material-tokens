@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* Rich tooltip action focus state layer opacity */
   --md-comp-rich-tooltip-action-focus-state-layer-opacity: var(--md-sys-state-focus-state-layer-opacity);
   /* Rich tooltip action hover state layer opacity */

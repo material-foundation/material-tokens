@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* Menu divider height */
   --md-comp-menu-divider-height: 1px;
   /* Menu list item focus state layer opacity */

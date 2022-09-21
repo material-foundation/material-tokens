@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* Search bar avatar size */
   --md-comp-search-bar-avatar-size: 30px;
   /* Search bar container height */

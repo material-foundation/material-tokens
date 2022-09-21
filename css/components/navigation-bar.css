@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   --md-comp-navigation-bar-large-badge-shape: 8pxpx 8pxpx 8pxpx 8pxpx;
   /* Size */
   --md-comp-navigation-bar-large-badge-size: 16px;

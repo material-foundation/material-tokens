@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* Input chip selected dragged state layer opacity */
   --md-comp-input-chip-selected-dragged-state-layer-opacity: var(--md-sys-state-dragged-state-layer-opacity);
   /* Input chip unselected dragged state layer opacity */

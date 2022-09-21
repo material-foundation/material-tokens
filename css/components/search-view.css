@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* Search view docked header container height */
   --md-comp-search-view-docked-header-container-height: 56px;
   /* Search view full screen header container height */

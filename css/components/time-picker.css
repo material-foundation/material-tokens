@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* Time picker clock dial selector track container width */
   --md-comp-time-picker-clock-dial-selector-track-container-width: 2px;
   /* Time picker clock dial selector center container size */

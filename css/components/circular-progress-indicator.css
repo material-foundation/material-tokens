@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* Circular progress indicator active indicator shape */
   --md-comp-circular-progress-indicator-active-indicator-shape: var(--md-sys-shape-corner-none);
   /* Circular progress indicator active indicator width */

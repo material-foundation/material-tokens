@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* List list item container height */
   --md-comp-list-list-item-container-height: 56px;
   /* Three lines list item container height */

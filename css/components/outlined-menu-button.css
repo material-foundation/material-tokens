@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-:where(html) {
+:where(html), .tokens {
   /* Outlined menu button pressed state layer opacity */
   --md-comp-outlined-menu-button-pressed-state-layer-opacity: var(--md-sys-state-pressed-state-layer-opacity);
   /* Outlined menu button focus state layer opacity */
