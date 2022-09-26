@@ -178,9 +178,9 @@ graph LR;
     md.sys.color ----> md.sys.color.inverseOnSurface[Inverse On Surface];
     md.sys.color.inverseOnSurface --Light---> md.ref.palette.neutral95;
     md.sys.color.inverseOnSurface --Dark---> md.ref.palette.neutral20;
-    
+
     md.sys.color ----> md.sys.color.surfaceTint[Surface Tint] ---> md.sys.color.primary;
-    
+
     md.sys.color ----> md.sys.color.outline[Outline];
     md.sys.color.outline --Light---> md.ref.palette.neutral-variant50;
     md.sys.color.outline --Dark---> md.ref.palette.neutral60;

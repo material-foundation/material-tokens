@@ -14,23 +14,38 @@
  limitations under the License.
 */
 
-:where(html), .tokens {
+:where(html),
+.tokens {
   /* Filled text field container height */
   --md-comp-filled-text-field-container-height: 56px;
   /* Filled text field label text tracking */
-  --md-comp-filled-text-field-label-text-tracking: var(--md-sys-typescale-body-large-tracking);
+  --md-comp-filled-text-field-label-text-tracking: var(
+    --md-sys-typescale-body-large-tracking
+  );
   /* Filled text field label text weight */
-  --md-comp-filled-text-field-label-text-weight: var(--md-sys-typescale-body-large-weight);
+  --md-comp-filled-text-field-label-text-weight: var(
+    --md-sys-typescale-body-large-weight
+  );
   /* Filled text field label text size */
-  --md-comp-filled-text-field-label-text-size: var(--md-sys-typescale-body-large-size);
+  --md-comp-filled-text-field-label-text-size: var(
+    --md-sys-typescale-body-large-size
+  );
   /* Filled text field label text line height */
-  --md-comp-filled-text-field-label-text-line-height: var(--md-sys-typescale-body-large-line-height);
+  --md-comp-filled-text-field-label-text-line-height: var(
+    --md-sys-typescale-body-large-line-height
+  );
   /* Filled text field label text font */
-  --md-comp-filled-text-field-label-text-font: var(--md-sys-typescale-body-large-font);
+  --md-comp-filled-text-field-label-text-font: var(
+    --md-sys-typescale-body-large-font
+  );
   /* Filled text field error hover state layer opacity */
-  --md-comp-filled-text-field-error-hover-state-layer-opacity: var(--md-sys-state-hover-state-layer-opacity);
+  --md-comp-filled-text-field-error-hover-state-layer-opacity: var(
+    --md-sys-state-hover-state-layer-opacity
+  );
   /* Filled text field hover state layer opacity */
-  --md-comp-filled-text-field-hover-state-layer-opacity: var(--md-sys-state-hover-state-layer-opacity);
+  --md-comp-filled-text-field-hover-state-layer-opacity: var(
+    --md-sys-state-hover-state-layer-opacity
+  );
   /* Filled text field hover active indicator height */
   --md-comp-filled-text-field-hover-active-indicator-height: 1px;
   /* Filled text field focus active indicator height */
@@ -56,31 +71,57 @@
   /* Filled text field leading icon size */
   --md-comp-filled-text-field-leading-icon-size: 20px;
   /* Filled text field supporting text tracking */
-  --md-comp-filled-text-field-supporting-text-tracking: var(--md-sys-typescale-body-small-tracking);
+  --md-comp-filled-text-field-supporting-text-tracking: var(
+    --md-sys-typescale-body-small-tracking
+  );
   /* Filled text field supporting text weight */
-  --md-comp-filled-text-field-supporting-text-weight: var(--md-sys-typescale-body-small-weight);
+  --md-comp-filled-text-field-supporting-text-weight: var(
+    --md-sys-typescale-body-small-weight
+  );
   /* Filled text field supporting text size */
-  --md-comp-filled-text-field-supporting-text-size: var(--md-sys-typescale-body-small-size);
+  --md-comp-filled-text-field-supporting-text-size: var(
+    --md-sys-typescale-body-small-size
+  );
   /* Filled text field supporting text line height */
-  --md-comp-filled-text-field-supporting-text-line-height: var(--md-sys-typescale-body-small-line-height);
+  --md-comp-filled-text-field-supporting-text-line-height: var(
+    --md-sys-typescale-body-small-line-height
+  );
   /* Filled text field supporting text font */
-  --md-comp-filled-text-field-supporting-text-font: var(--md-sys-typescale-body-small-font);
+  --md-comp-filled-text-field-supporting-text-font: var(
+    --md-sys-typescale-body-small-font
+  );
   /* Filled text field label text populated size */
-  --md-comp-filled-text-field-label-text-populated-size: var(--md-sys-typescale-body-small-size);
+  --md-comp-filled-text-field-label-text-populated-size: var(
+    --md-sys-typescale-body-small-size
+  );
   /* Filled text field label text populated line height */
-  --md-comp-filled-text-field-label-text-populated-line-height: var(--md-sys-typescale-body-small-line-height);
+  --md-comp-filled-text-field-label-text-populated-line-height: var(
+    --md-sys-typescale-body-small-line-height
+  );
   /* Filled text field input text tracking */
-  --md-comp-filled-text-field-input-text-tracking: var(--md-sys-typescale-body-large-tracking);
+  --md-comp-filled-text-field-input-text-tracking: var(
+    --md-sys-typescale-body-large-tracking
+  );
   /* Filled text field input text weight */
-  --md-comp-filled-text-field-input-text-weight: var(--md-sys-typescale-body-large-weight);
+  --md-comp-filled-text-field-input-text-weight: var(
+    --md-sys-typescale-body-large-weight
+  );
   /* Filled text field input text size */
-  --md-comp-filled-text-field-input-text-size: var(--md-sys-typescale-body-large-size);
+  --md-comp-filled-text-field-input-text-size: var(
+    --md-sys-typescale-body-large-size
+  );
   /* Filled text field input text line height */
-  --md-comp-filled-text-field-input-text-line-height: var(--md-sys-typescale-body-large-line-height);
+  --md-comp-filled-text-field-input-text-line-height: var(
+    --md-sys-typescale-body-large-line-height
+  );
   /* Filled text field input text font */
-  --md-comp-filled-text-field-input-text-font: var(--md-sys-typescale-body-large-font);
+  --md-comp-filled-text-field-input-text-font: var(
+    --md-sys-typescale-body-large-font
+  );
   /* Filled text field active indicator height */
   --md-comp-filled-text-field-active-indicator-height: 1px;
   /* Filled text field container shape */
-  --md-comp-filled-text-field-container-shape: var(--md-sys-shape-corner-extra-small-top);
+  --md-comp-filled-text-field-container-shape: var(
+    --md-sys-shape-corner-extra-small-top
+  );
 }

@@ -8,22 +8,12 @@
   "md.sys.motion.easing.linear": {
     "type": "cubic-bezier",
     "description": "Linear",
-    "value": [
-      0,
-      0,
-      1,
-      1
-    ]
+    "value": [0, 0, 1, 1]
   },
   "md.sys.motion.easing.standard": {
     "type": "cubic-bezier",
     "description": "Standard",
-    "value": [
-      0.20000000298023224,
-      0,
-      0,
-      1
-    ]
+    "value": [0.20000000298023224, 0, 0, 1]
   },
   "md.sys.motion.duration.short1": {
     "description": "Short 1",
@@ -92,71 +82,36 @@
   "md.sys.motion.easing.standard.accelerate": {
     "type": "cubic-bezier",
     "description": "Standard accelerate",
-    "value": [
-      0.30000001192092896,
-      0,
-      1,
-      1
-    ]
+    "value": [0.30000001192092896, 0, 1, 1]
   },
   "md.sys.motion.easing.standard.decelerate": {
     "type": "cubic-bezier",
     "description": "Standard decelerate",
-    "value": [
-      0,
-      0,
-      0,
-      1
-    ]
+    "value": [0, 0, 0, 1]
   },
   "md.sys.motion.easing.emphasized.accelerate": {
     "type": "cubic-bezier",
     "description": "Emphasized accelerate",
-    "value": [
-      0.30000001192092896,
-      0,
-      0.800000011920929,
-      0.15000000596046448
-    ]
+    "value": [0.30000001192092896, 0, 0.800000011920929, 0.15000000596046448]
   },
   "md.sys.motion.easing.emphasized.decelerate": {
     "type": "cubic-bezier",
     "description": "Emphasized decelerate",
-    "value": [
-      0.05000000074505806,
-      0.699999988079071,
-      0.10000000149011612,
-      1
-    ]
+    "value": [0.05000000074505806, 0.699999988079071, 0.10000000149011612, 1]
   },
   "md.sys.motion.easing.legacy": {
     "type": "cubic-bezier",
     "description": "Legacy",
-    "value": [
-      0.4000000059604645,
-      0,
-      0.20000000298023224,
-      1
-    ]
+    "value": [0.4000000059604645, 0, 0.20000000298023224, 1]
   },
   "md.sys.motion.easing.legacy.accelerate": {
     "type": "cubic-bezier",
     "description": "Legacy accelerate",
-    "value": [
-      0.4000000059604645,
-      0,
-      1,
-      1
-    ]
+    "value": [0.4000000059604645, 0, 1, 1]
   },
   "md.sys.motion.easing.legacy.decelerate": {
     "type": "cubic-bezier",
     "description": "Legacy decelerate",
-    "value": [
-      0,
-      0,
-      0.20000000298023224,
-      1
-    ]
+    "value": [0, 0, 0.20000000298023224, 1]
   }
 }

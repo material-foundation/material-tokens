@@ -14,19 +14,32 @@
  limitations under the License.
 */
 
-:where(html), .tokens {
+:where(html),
+.tokens {
   /* Slider label label text font size */
-  --md-comp-slider-label-label-text-font-size: var(--md-sys-typescale-label-medium-size);
+  --md-comp-slider-label-label-text-font-size: var(
+    --md-sys-typescale-label-medium-size
+  );
   /* Slider label label text font size */
-  --md-comp-slider-label-label-text-size: var(--md-sys-typescale-label-medium-size);
+  --md-comp-slider-label-label-text-size: var(
+    --md-sys-typescale-label-medium-size
+  );
   /* Slider label label text tracking */
-  --md-comp-slider-label-label-text-tracking: var(--md-sys-typescale-label-medium-tracking);
+  --md-comp-slider-label-label-text-tracking: var(
+    --md-sys-typescale-label-medium-tracking
+  );
   /* Slider label label text weight */
-  --md-comp-slider-label-label-text-weight: var(--md-sys-typescale-label-medium-weight);
+  --md-comp-slider-label-label-text-weight: var(
+    --md-sys-typescale-label-medium-weight
+  );
   /* Slider label label text line height */
-  --md-comp-slider-label-label-text-line-height: var(--md-sys-typescale-label-medium-line-height);
+  --md-comp-slider-label-label-text-line-height: var(
+    --md-sys-typescale-label-medium-line-height
+  );
   /* Slider label label text font */
-  --md-comp-slider-label-label-text-font: var(--md-sys-typescale-label-medium-font);
+  --md-comp-slider-label-label-text-font: var(
+    --md-sys-typescale-label-medium-font
+  );
   /* Slider label container elevation */
   --md-comp-slider-label-container-elevation: var(--md-sys-elevation-level0);
   /* Slider label container height */
@@ -38,15 +51,21 @@
   /* Slider active track shape */
   --md-comp-slider-active-track-shape: var(--md-sys-shape-corner-full);
   /* Slider focus state layer opacity */
-  --md-comp-slider-focus-state-layer-opacity: var(--md-sys-state-focus-state-layer-opacity);
+  --md-comp-slider-focus-state-layer-opacity: var(
+    --md-sys-state-focus-state-layer-opacity
+  );
   /* Slider hover state layer opacity */
-  --md-comp-slider-hover-state-layer-opacity: var(--md-sys-state-hover-state-layer-opacity);
+  --md-comp-slider-hover-state-layer-opacity: var(
+    --md-sys-state-hover-state-layer-opacity
+  );
   /* Slider with tick marks inactive container opacity */
   --md-comp-slider-with-tick-marks-inactive-container-opacity: 0.3799999952316284;
   /* Slider with tick marks active container opacity */
   --md-comp-slider-with-tick-marks-active-container-opacity: 0.3799999952316284;
   /* Slider with tick marks container shape */
-  --md-comp-slider-with-tick-marks-container-shape: var(--md-sys-shape-corner-full);
+  --md-comp-slider-with-tick-marks-container-shape: var(
+    --md-sys-shape-corner-full
+  );
   /* Slider with tick marks container size */
   --md-comp-slider-with-tick-marks-container-size: 2px;
   /* Slider with overlap handle outline width */
@@ -70,7 +89,9 @@
   /* Slider disabled active track opacity */
   --md-comp-slider-disabled-active-track-opacity: 0.3799999952316284;
   /* Slider pressed state layer opacity */
-  --md-comp-slider-pressed-state-layer-opacity: var(--md-sys-state-pressed-state-layer-opacity);
+  --md-comp-slider-pressed-state-layer-opacity: var(
+    --md-sys-state-pressed-state-layer-opacity
+  );
   /* Slider with tick marks disabled container opacity */
   --md-comp-slider-with-tick-marks-disabled-container-opacity: 0.3799999952316284;
   /* Slider disabled handle opacity */

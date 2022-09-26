@@ -14,7 +14,8 @@
  limitations under the License.
 */
 
-:where(html), .tokens {
+:where(html),
+.tokens {
   /* Checkbox disabled unselected icon opacity */
   --md-comp-checkbox-disabled-unselected-icon-opacity: 0.3799999952316284;
   /* Checkbox disabled selected icon opacity */
@@ -24,15 +25,21 @@
   /* Checkbox unselected error pressed outline width */
   --md-comp-checkbox-unselected-error-pressed-outline-width: 2px;
   /* Checkbox error pressed state layer opacity */
-  --md-comp-checkbox-error-pressed-state-layer-opacity: var(--md-sys-state-pressed-state-layer-opacity);
+  --md-comp-checkbox-error-pressed-state-layer-opacity: var(
+    --md-sys-state-pressed-state-layer-opacity
+  );
   /* Checkbox selected pressed outline width */
   --md-comp-checkbox-selected-pressed-outline-width: 0px;
   /* Checkbox selected pressed state layer opacity */
-  --md-comp-checkbox-selected-pressed-state-layer-opacity: var(--md-sys-state-pressed-state-layer-opacity);
+  --md-comp-checkbox-selected-pressed-state-layer-opacity: var(
+    --md-sys-state-pressed-state-layer-opacity
+  );
   /* Checkbox unselected pressed outline width */
   --md-comp-checkbox-unselected-pressed-outline-width: 2px;
   /* Checkbox unselected pressed state layer opacity */
-  --md-comp-checkbox-unselected-pressed-state-layer-opacity: var(--md-sys-state-pressed-state-layer-opacity);
+  --md-comp-checkbox-unselected-pressed-state-layer-opacity: var(
+    --md-sys-state-pressed-state-layer-opacity
+  );
   /* Checkbox selected error focus outline width */
   --md-comp-checkbox-selected-error-focus-outline-width: 0px;
   /* Checkbox unselected error focusd outline width */
@@ -46,7 +53,9 @@
   /* Checkbox unselected error hover outline width */
   --md-comp-checkbox-unselected-error-hover-outline-width: 2px;
   /* Checkbox error hover state layer opacity */
-  --md-comp-checkbox-error-hover-state-layer-opacity: var(--md-sys-state-hover-state-layer-opacity);
+  --md-comp-checkbox-error-hover-state-layer-opacity: var(
+    --md-sys-state-hover-state-layer-opacity
+  );
   /* Checkbox selected hover outline width */
   --md-comp-checkbox-selected-hover-outline-width: 0px;
   /* Checkbox unselected hover outline width */
@@ -73,13 +82,21 @@
   /* Checkbox container width */
   --md-comp-checkbox-container-width: 18px;
   /* Checkbox unselected focus state layer opacity */
-  --md-comp-checkbox-unselected-focus-state-layer-opacity: var(--md-sys-state-focus-state-layer-opacity);
+  --md-comp-checkbox-unselected-focus-state-layer-opacity: var(
+    --md-sys-state-focus-state-layer-opacity
+  );
   /* Checkbox selected focus state layer opacity */
-  --md-comp-checkbox-selected-focus-state-layer-opacity: var(--md-sys-state-focus-state-layer-opacity);
+  --md-comp-checkbox-selected-focus-state-layer-opacity: var(
+    --md-sys-state-focus-state-layer-opacity
+  );
   /* Checkbox unselected hover state layer opacity */
-  --md-comp-checkbox-unselected-hover-state-layer-opacity: var(--md-sys-state-hover-state-layer-opacity);
+  --md-comp-checkbox-unselected-hover-state-layer-opacity: var(
+    --md-sys-state-hover-state-layer-opacity
+  );
   /* Checkbox selected hover state layer opacity */
-  --md-comp-checkbox-selected-hover-state-layer-opacity: var(--md-sys-state-hover-state-layer-opacity);
+  --md-comp-checkbox-selected-hover-state-layer-opacity: var(
+    --md-sys-state-hover-state-layer-opacity
+  );
   /* Checkbox state layer size */
   --md-comp-checkbox-state-layer-size: 40px;
 }
