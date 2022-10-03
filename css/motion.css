@@ -14,11 +14,12 @@
  limitations under the License.
 */
 
-:where(html), .tokens {
+:where(html),
+.tokens {
   /* Linear */
-  --md-sys-motion-easing-linear: cubic-bezier(0,0,1,1);
+  --md-sys-motion-easing-linear: cubic-bezier(0, 0, 1, 1);
   /* Standard */
-  --md-sys-motion-easing-standard: cubic-bezier(0.20000000298023224,0,0,1);
+  --md-sys-motion-easing-standard: cubic-bezier(0.20000000298023224, 0, 0, 1);
   /* Short 1 */
   --md-sys-motion-duration-short1: 50;
   /* Short 2 */
@@ -52,17 +53,47 @@
   /* Extra long 4 */
   --md-sys-motion-duration-extra-long4: 1000;
   /* Standard accelerate */
-  --md-sys-motion-easing-standard-accelerate: cubic-bezier(0.30000001192092896,0,1,1);
+  --md-sys-motion-easing-standard-accelerate: cubic-bezier(
+    0.30000001192092896,
+    0,
+    1,
+    1
+  );
   /* Standard decelerate */
-  --md-sys-motion-easing-standard-decelerate: cubic-bezier(0,0,0,1);
+  --md-sys-motion-easing-standard-decelerate: cubic-bezier(0, 0, 0, 1);
   /* Emphasized accelerate */
-  --md-sys-motion-easing-emphasized-accelerate: cubic-bezier(0.30000001192092896,0,0.800000011920929,0.15000000596046448);
+  --md-sys-motion-easing-emphasized-accelerate: cubic-bezier(
+    0.30000001192092896,
+    0,
+    0.800000011920929,
+    0.15000000596046448
+  );
   /* Emphasized decelerate */
-  --md-sys-motion-easing-emphasized-decelerate: cubic-bezier(0.05000000074505806,0.699999988079071,0.10000000149011612,1);
+  --md-sys-motion-easing-emphasized-decelerate: cubic-bezier(
+    0.05000000074505806,
+    0.699999988079071,
+    0.10000000149011612,
+    1
+  );
   /* Legacy */
-  --md-sys-motion-easing-legacy: cubic-bezier(0.4000000059604645,0,0.20000000298023224,1);
+  --md-sys-motion-easing-legacy: cubic-bezier(
+    0.4000000059604645,
+    0,
+    0.20000000298023224,
+    1
+  );
   /* Legacy accelerate */
-  --md-sys-motion-easing-legacy-accelerate: cubic-bezier(0.4000000059604645,0,1,1);
+  --md-sys-motion-easing-legacy-accelerate: cubic-bezier(
+    0.4000000059604645,
+    0,
+    1,
+    1
+  );
   /* Legacy decelerate */
-  --md-sys-motion-easing-legacy-decelerate: cubic-bezier(0,0,0.20000000298023224,1);
+  --md-sys-motion-easing-legacy-decelerate: cubic-bezier(
+    0,
+    0,
+    0.20000000298023224,
+    1
+  );
 }

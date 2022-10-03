@@ -1,7 +1,6 @@
 # Material Tokens
 
-Material Design now supports the [Design System Package (DSP)](https://github.com/AdobeXD/design-system-package-dsp)  for importing and exporting [Material Design Tokens](http://m3.material.io/foundations/design-tokens/overview) within the [Material Theme Builder](http://material.io/material-theme-builder). DSP can be used in designer and developer workflow tools and Material Component libraries. Let’s dive into how you can use Material Tokens (DSP) within the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) to generate code.
-
+Material Design now supports the [Design System Package (DSP)](https://github.com/AdobeXD/design-system-package-dsp) for importing and exporting [Material Design Tokens](http://m3.material.io/foundations/design-tokens/overview) within the [Material Theme Builder](http://material.io/material-theme-builder). DSP can be used in designer and developer workflow tools and Material Component libraries. Let’s dive into how you can use Material Tokens (DSP) within the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) to generate code.
 
 ## Getting Started
 
@@ -19,7 +18,6 @@ Click on install and you may have to reopen or reload VSCode. After the extensio
 
 ![alt_text](/assets/image13.png)
 
-
 After the plugin opens it should look like the following screenshot.
 
 ![alt_text](/assets/image2.png)
@@ -36,13 +34,11 @@ Open the Adobe XD plugin and select “Edit Package” on the bottom left, then 
 
 ![alt_text](/assets/image5.png)
 
-
 ## Exploring the DSP
 
 With the DSP opened in the plugin you should see the following screenshot.
 
 ![alt_text](/assets/image10.png)
-
 
 The Material Tokens (DSP) is made up of a few sections (Light, Dark, Default, Palette, Typography).
 
@@ -54,16 +50,13 @@ Select “Start Editing” and then “Finish Editing” to trigger code generat
 
 ![alt_text](/assets/image1.png)
 
-
 Select “Install” then you will see another notification asking to export tokens.
 
 ![alt_text](/assets/image8.png)
 
-
 Select “Export tokens” then you will see a notification asking you to open the folder.
 
 ![alt_text](/assets/image3.png)
-
 
 Opening the folder you will see the following sub directories.
 
@@ -73,15 +66,12 @@ This directory is located in the current directory under a newly generated folde
 
 ![alt_text](/assets/image4.png)
 
-
 Opening up the “variables.css” for example you will see the following flat list of tokens used to theme your application.
 
 ![alt_text](/assets/image6.png)
 
-
 The “android/colors.xml” should look similar.
 
 ![alt_text](/assets/image12.png)
-
 
 Using the Material Tokens (DSP) will ensure your styles are shared throughout your designer and developer workflow. Learn more about [Material Design Tokens](http://m3.material.io/foundations/design-tokens/overview).

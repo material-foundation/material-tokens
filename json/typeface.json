@@ -2,16 +2,12 @@
   "md.ref.typeface.plain": {
     "type": "font",
     "description": "Plain typeface",
-    "value": [
-      "Roboto"
-    ]
+    "value": ["Roboto"]
   },
   "md.ref.typeface.brand": {
     "type": "font",
     "description": "Brand typeface",
-    "value": [
-      "Roboto"
-    ]
+    "value": ["Roboto"]
   },
   "md.ref.typeface.weight-bold": {
     "description": "Bold weight",

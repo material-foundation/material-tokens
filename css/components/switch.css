@@ -14,7 +14,8 @@
  limitations under the License.
 */
 
-:where(html), .tokens {
+:where(html),
+.tokens {
   /* Switch track shape */
   --md-comp-switch-track-shape: var(--md-sys-shape-corner-full);
   /* Switch track outline width */
@@ -30,17 +31,29 @@
   /* Switch handle elevation */
   --md-comp-switch-handle-elevation: var(--md-sys-elevation-level1);
   /* Switch unselected pressed state layer opacity */
-  --md-comp-switch-unselected-pressed-state-layer-opacity: var(--md-sys-state-pressed-state-layer-opacity);
+  --md-comp-switch-unselected-pressed-state-layer-opacity: var(
+    --md-sys-state-pressed-state-layer-opacity
+  );
   /* Switch selected pressed state layer opacity */
-  --md-comp-switch-selected-pressed-state-layer-opacity: var(--md-sys-state-pressed-state-layer-opacity);
+  --md-comp-switch-selected-pressed-state-layer-opacity: var(
+    --md-sys-state-pressed-state-layer-opacity
+  );
   /* Switch unselected focus state layer opacity */
-  --md-comp-switch-unselected-focus-state-layer-opacity: var(--md-sys-state-focus-state-layer-opacity);
+  --md-comp-switch-unselected-focus-state-layer-opacity: var(
+    --md-sys-state-focus-state-layer-opacity
+  );
   /* Switch selected focus state layer opacity */
-  --md-comp-switch-selected-focus-state-layer-opacity: var(--md-sys-state-focus-state-layer-opacity);
+  --md-comp-switch-selected-focus-state-layer-opacity: var(
+    --md-sys-state-focus-state-layer-opacity
+  );
   /* Switch unselected hover state layer opacity */
-  --md-comp-switch-unselected-hover-state-layer-opacity: var(--md-sys-state-hover-state-layer-opacity);
+  --md-comp-switch-unselected-hover-state-layer-opacity: var(
+    --md-sys-state-hover-state-layer-opacity
+  );
   /* Switch selected hover state layer opacity */
-  --md-comp-switch-selected-hover-state-layer-opacity: var(--md-sys-state-hover-state-layer-opacity);
+  --md-comp-switch-selected-hover-state-layer-opacity: var(
+    --md-sys-state-hover-state-layer-opacity
+  );
   /* Switch disabled selected handle opacity */
   --md-comp-switch-disabled-selected-handle-opacity: 1;
   /* Switch disabled unselected handle opacity */

@@ -14,7 +14,8 @@
  limitations under the License.
 */
 
-:where(html), .tokens {
+:where(html),
+.tokens {
   /* Label Medium text transform */
   --md-sys-typescale-label-medium-text-transform: none;
   /* Label Small line height */
@@ -114,7 +115,9 @@
   /* Headline Small font size */
   --md-sys-typescale-headline-small-size: 24px;
   /* Headline Small font weight */
-  --md-sys-typescale-headline-small-weight: var(--md-ref-typeface-weight-regular);
+  --md-sys-typescale-headline-small-weight: var(
+    --md-ref-typeface-weight-regular
+  );
   /* Headline Small font name */
   --md-sys-typescale-headline-small-font: var(--md-ref-typeface-brand);
   /* Headline Medium line height */
@@ -124,7 +127,9 @@
   /* Headline Medium font size */
   --md-sys-typescale-headline-medium-size: 28px;
   /* Headline Medium font weight */
-  --md-sys-typescale-headline-medium-weight: var(--md-ref-typeface-weight-regular);
+  --md-sys-typescale-headline-medium-weight: var(
+    --md-ref-typeface-weight-regular
+  );
   /* Headline Medium font name */
   --md-sys-typescale-headline-medium-font: var(--md-ref-typeface-brand);
   /* Headline Large line height */
@@ -136,7 +141,9 @@
   /* Headline Large font name */
   --md-sys-typescale-headline-large-font: var(--md-ref-typeface-brand);
   /* Headline Large font weight */
-  --md-sys-typescale-headline-large-weight: var(--md-ref-typeface-weight-regular);
+  --md-sys-typescale-headline-large-weight: var(
+    --md-ref-typeface-weight-regular
+  );
   /* Display Small line height */
   --md-sys-typescale-display-small-line-height: 44px;
   /* Display Small font tracking */
@@ -144,7 +151,9 @@
   /* Display Small font size */
   --md-sys-typescale-display-small-size: 36px;
   /* Display Small font weight */
-  --md-sys-typescale-display-small-weight: var(--md-ref-typeface-weight-regular);
+  --md-sys-typescale-display-small-weight: var(
+    --md-ref-typeface-weight-regular
+  );
   /* Display Small font name */
   --md-sys-typescale-display-small-font: var(--md-ref-typeface-brand);
   /* Display Medium line height */
@@ -154,7 +163,9 @@
   /* Display Medium font size */
   --md-sys-typescale-display-medium-size: 45px;
   /* Display Medium font weight */
-  --md-sys-typescale-display-medium-weight: var(--md-ref-typeface-weight-regular);
+  --md-sys-typescale-display-medium-weight: var(
+    --md-ref-typeface-weight-regular
+  );
   /* Display Medium font name */
   --md-sys-typescale-display-medium-font: var(--md-ref-typeface-brand);
   /* Display Large line height */
@@ -164,7 +175,9 @@
   /* Display Large font size */
   --md-sys-typescale-display-large-size: 57px;
   /* Display Large font weight */
-  --md-sys-typescale-display-large-weight: var(--md-ref-typeface-weight-regular);
+  --md-sys-typescale-display-large-weight: var(
+    --md-ref-typeface-weight-regular
+  );
   /* Display Large font name */
   --md-sys-typescale-display-large-font: var(--md-ref-typeface-brand);
 }
