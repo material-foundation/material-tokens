@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Aug 2022 20:33:41 GMT
+ * Generated on Thu, 27 Oct 2022 21:32:26 GMT
  */
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
@@ -247,3 +247,12 @@ export const MdSysTypescaleDisplayMediumLineHeight = "52"; // typescale display 
 export const MdSysTypescaleDisplayMediumTracking = "0";
 export const MdSysTypescaleDisplayLargeLineHeight = "64"; // typescale display large line-height
 export const MdSysTypescaleDisplayLargeTracking = "0"; // typescale display large tracking
+export const MdSysSpacingXxxSmall = "4"; // spacing xxx small
+export const MdSysSpacingXxSmall = "8"; // spacing xx small
+export const MdSysSpacingXSmall = "12"; // spacing x small
+export const MdSysSpacingSmall = "16"; // spacing small
+export const MdSysSpacingMedium = "24"; // spacing medium
+export const MdSysSpacingLarge = "32"; // spacing large
+export const MdSysSpacingXLarge = "48"; // spacing x large
+export const MdSysSpacingXxLarge = "56"; // spacing xx large
+export const MdSysSpacingXxxLarge = "64"; // spacing xxx large

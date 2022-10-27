@@ -137,6 +137,42 @@
     "md_sys_typescale_display-large_tracking": {
       "value": "0",
       "comment": "typescale display large tracking"
+    },
+    "md_sys_spacing_xxx-small": {
+      "value": "4",
+      "comment": "spacing xxx small"
+    },
+    "md_sys_spacing_xx-small": {
+      "value": "8",
+      "comment": "spacing xx small"
+    },
+    "md_sys_spacing_x-small": {
+      "value": "12",
+      "comment": "spacing x small"
+    },
+    "md_sys_spacing_small": {
+      "value": "16",
+      "comment": "spacing small"
+    },
+    "md_sys_spacing_medium": {
+      "value": "24",
+      "comment": "spacing medium"
+    },
+    "md_sys_spacing_large": {
+      "value": "32",
+      "comment": "spacing large"
+    },
+    "md_sys_spacing_x-large": {
+      "value": "48",
+      "comment": "spacing x large"
+    },
+    " md_sys_spacing_xx-large": {
+      "value": "56",
+      "comment": "spacing xx large"
+    },
+    " md_sys_spacing_xxx-large": {
+      "value": "64",
+      "comment": "spacing xxx large"
     }
   }
 }

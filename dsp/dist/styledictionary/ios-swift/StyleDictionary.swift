@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Aug 2022 20:33:41 GMT
+// Generated on Thu, 27 Oct 2022 21:32:26 GMT
 
 
 import UIKit
@@ -179,6 +179,15 @@ public class StyleDictionary {
     public static let mdSysColorTertiaryContainerLight = UIColor(red: 1.000, green: 0.847, blue: 0.894, alpha: 1) /* Tertiary container */
     public static let mdSysColorTertiaryDark = UIColor(red: 0.937, green: 0.722, blue: 0.784, alpha: 1) /* Tertiary */
     public static let mdSysColorTertiaryLight = UIColor(red: 0.490, green: 0.322, blue: 0.376, alpha: 1) /* Tertiary */
+    public static let mdSysSpacingLarge = 32 /* spacing large */
+    public static let mdSysSpacingMedium = 24 /* spacing medium */
+    public static let mdSysSpacingSmall = 16 /* spacing small */
+    public static let mdSysSpacingXLarge = 48 /* spacing x large */
+    public static let mdSysSpacingXSmall = 12 /* spacing x small */
+    public static let mdSysSpacingXxLarge = 56 /* spacing xx large */
+    public static let mdSysSpacingXxSmall = 8 /* spacing xx small */
+    public static let mdSysSpacingXxxLarge = 64 /* spacing xxx large */
+    public static let mdSysSpacingXxxSmall = 4 /* spacing xxx small */
     public static let mdSysTypescaleBodyLargeFamily = Roboto
     public static let mdSysTypescaleBodyLargeLineHeight = 24 /* typescale body large line-height */
     public static let mdSysTypescaleBodyLargeSize = CGFloat(256.00)
