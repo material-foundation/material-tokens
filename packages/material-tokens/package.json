@@ -1,6 +1,6 @@
 {
   "name": "@jmsstudiosinc/material-tokens",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "yerloveraaa <yerloveraaa@gmail.com>",
   "homepage": "https://github.com/JmsStudiosInc/material-tokens/tree/main/packages/material-tokens#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/JmsStudiosInc/material-tokens/issues"
   },
-  "gitHead": "ef36d5301f6f1ce5a427042186c7e022d590cb0c"
+  "gitHead": "da6c5a95aa753183928c0c400672073422cafa6f"
 }
