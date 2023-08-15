@@ -1,658 +1,658 @@
 {
   "color": {
-    "md_sys_color_surface-tint_light": {
-      "value": "{color.md_sys_color_primary.value}",
+    "gkv_sys_color_surface-tint_light": {
+      "value": "{color.gkv_sys_color_primary.value}",
       "comment": "Surface tint"
     },
-    "md_sys_color_on-error-container_light": {
-      "value": "{color.md_ref_palette_error10.value}",
+    "gkv_sys_color_on-error-container_light": {
+      "value": "{color.gkv_ref_palette_error10.value}",
       "comment": "On error container"
     },
-    "md_sys_color_on-error_light": {
-      "value": "{color.md_ref_palette_error100.value}",
+    "gkv_sys_color_on-error_light": {
+      "value": "{color.gkv_ref_palette_error100.value}",
       "comment": "On error"
     },
-    "md_sys_color_error-container_light": {
-      "value": "{color.md_ref_palette_error90.value}",
+    "gkv_sys_color_error-container_light": {
+      "value": "{color.gkv_ref_palette_error90.value}",
       "comment": "Error container"
     },
-    "md_sys_color_on-tertiary-container_light": {
-      "value": "{color.md_ref_palette_tertiary10.value}",
+    "gkv_sys_color_on-tertiary-container_light": {
+      "value": "{color.gkv_ref_palette_tertiary10.value}",
       "comment": "On tertiary container"
     },
-    "md_sys_color_on-tertiary_light": {
-      "value": "{color.md_ref_palette_tertiary100.value}",
+    "gkv_sys_color_on-tertiary_light": {
+      "value": "{color.gkv_ref_palette_tertiary100.value}",
       "comment": "On tertiary"
     },
-    "md_sys_color_tertiary-container_light": {
-      "value": "{color.md_ref_palette_tertiary90.value}",
+    "gkv_sys_color_tertiary-container_light": {
+      "value": "{color.gkv_ref_palette_tertiary90.value}",
       "comment": "Tertiary container"
     },
-    "md_sys_color_tertiary_light": {
-      "value": "{color.md_ref_palette_tertiary40.value}",
+    "gkv_sys_color_tertiary_light": {
+      "value": "{color.gkv_ref_palette_tertiary40.value}",
       "comment": "Tertiary"
     },
-    "md_sys_color_shadow_light": {
-      "value": "{color.md_ref_palette_neutral0.value}",
+    "gkv_sys_color_shadow_light": {
+      "value": "{color.gkv_ref_palette_neutral0.value}",
       "comment": "Shadow"
     },
-    "md_sys_color_error_light": {
-      "value": "{color.md_ref_palette_error40.value}",
+    "gkv_sys_color_error_light": {
+      "value": "{color.gkv_ref_palette_error40.value}",
       "comment": "Error"
     },
-    "md_sys_color_outline_light": {
-      "value": "{color.md_ref_palette_neutral-variant50.value}",
+    "gkv_sys_color_outline_light": {
+      "value": "{color.gkv_ref_palette_neutral-variant50.value}",
       "comment": "Outline"
     },
-    "md_sys_color_on-background_light": {
-      "value": "{color.md_ref_palette_neutral10.value}",
+    "gkv_sys_color_on-background_light": {
+      "value": "{color.gkv_ref_palette_neutral10.value}",
       "comment": "On background"
     },
-    "md_sys_color_background_light": {
-      "value": "{color.md_ref_palette_neutral99.value}",
+    "gkv_sys_color_background_light": {
+      "value": "{color.gkv_ref_palette_neutral99.value}",
       "comment": "Background"
     },
-    "md_sys_color_inverse-on-surface_light": {
-      "value": "{color.md_ref_palette_neutral95.value}",
+    "gkv_sys_color_inverse-on-surface_light": {
+      "value": "{color.gkv_ref_palette_neutral95.value}",
       "comment": "Inverse on surface"
     },
-    "md_sys_color_inverse-surface_light": {
-      "value": "{color.md_ref_palette_neutral20.value}",
+    "gkv_sys_color_inverse-surface_light": {
+      "value": "{color.gkv_ref_palette_neutral20.value}",
       "comment": "Inverse surface"
     },
-    "md_sys_color_on-surface-variant_light": {
-      "value": "{color.md_ref_palette_neutral-variant30.value}",
+    "gkv_sys_color_on-surface-variant_light": {
+      "value": "{color.gkv_ref_palette_neutral-variant30.value}",
       "comment": "On surface variant"
     },
-    "md_sys_color_on-surface_light": {
-      "value": "{color.md_ref_palette_neutral10.value}",
+    "gkv_sys_color_on-surface_light": {
+      "value": "{color.gkv_ref_palette_neutral10.value}",
       "comment": "On surface"
     },
-    "md_sys_color_surface-variant_light": {
-      "value": "{color.md_ref_palette_neutral-variant90.value}",
+    "gkv_sys_color_surface-variant_light": {
+      "value": "{color.gkv_ref_palette_neutral-variant90.value}",
       "comment": "Surface Variant"
     },
-    "md_sys_color_surface_light": {
-      "value": "{color.md_ref_palette_neutral99.value}",
+    "gkv_sys_color_surface_light": {
+      "value": "{color.gkv_ref_palette_neutral99.value}",
       "comment": "Surface"
     },
-    "md_sys_color_on-secondary-container_light": {
-      "value": "{color.md_ref_palette_secondary10.value}",
+    "gkv_sys_color_on-secondary-container_light": {
+      "value": "{color.gkv_ref_palette_secondary10.value}",
       "comment": "On secondary container"
     },
-    "md_sys_color_on-secondary_light": {
-      "value": "{color.md_ref_palette_secondary100.value}",
+    "gkv_sys_color_on-secondary_light": {
+      "value": "{color.gkv_ref_palette_secondary100.value}",
       "comment": "On secondary"
     },
-    "md_sys_color_secondary-container_light": {
-      "value": "{color.md_ref_palette_secondary90.value}",
+    "gkv_sys_color_secondary-container_light": {
+      "value": "{color.gkv_ref_palette_secondary90.value}",
       "comment": "Secondary container"
     },
-    "md_sys_color_secondary_light": {
-      "value": "{color.md_ref_palette_secondary40.value}",
+    "gkv_sys_color_secondary_light": {
+      "value": "{color.gkv_ref_palette_secondary40.value}",
       "comment": "Secondary"
     },
-    "md_sys_color_inverse-primary_light": {
-      "value": "{color.md_ref_palette_primary80.value}",
+    "gkv_sys_color_inverse-primary_light": {
+      "value": "{color.gkv_ref_palette_primary80.value}",
       "comment": "Inverse primary"
     },
-    "md_sys_color_on-primary-container_light": {
-      "value": "{color.md_ref_palette_primary10.value}",
+    "gkv_sys_color_on-primary-container_light": {
+      "value": "{color.gkv_ref_palette_primary10.value}",
       "comment": "On primary container"
     },
-    "md_sys_color_on-primary_light": {
-      "value": "{color.md_ref_palette_primary100.value}",
+    "gkv_sys_color_on-primary_light": {
+      "value": "{color.gkv_ref_palette_primary100.value}",
       "comment": "On primary"
     },
-    "md_sys_color_primary-container_light": {
-      "value": "{color.md_ref_palette_primary90.value}",
+    "gkv_sys_color_primary-container_light": {
+      "value": "{color.gkv_ref_palette_primary90.value}",
       "comment": "Primary container"
     },
-    "md_sys_color_primary_light": {
-      "value": "{color.md_ref_palette_primary40.value}",
+    "gkv_sys_color_primary_light": {
+      "value": "{color.gkv_ref_palette_primary40.value}",
       "comment": "Primary"
     },
-    "md_sys_color_surface-tint_dark": {
-      "value": "{color.md_sys_color_primary.value}",
+    "gkv_sys_color_surface-tint_dark": {
+      "value": "{color.gkv_sys_color_primary.value}",
       "comment": "Surface tint"
     },
-    "md_sys_color_on-error-container_dark": {
-      "value": "{color.md_ref_palette_error80.value}",
+    "gkv_sys_color_on-error-container_dark": {
+      "value": "{color.gkv_ref_palette_error80.value}",
       "comment": "On error container"
     },
-    "md_sys_color_on-error_dark": {
-      "value": "{color.md_ref_palette_error20.value}",
+    "gkv_sys_color_on-error_dark": {
+      "value": "{color.gkv_ref_palette_error20.value}",
       "comment": "On error"
     },
-    "md_sys_color_error-container_dark": {
-      "value": "{color.md_ref_palette_error30.value}",
+    "gkv_sys_color_error-container_dark": {
+      "value": "{color.gkv_ref_palette_error30.value}",
       "comment": "Error container"
     },
-    "md_sys_color_on-tertiary-container_dark": {
-      "value": "{color.md_ref_palette_tertiary90.value}",
+    "gkv_sys_color_on-tertiary-container_dark": {
+      "value": "{color.gkv_ref_palette_tertiary90.value}",
       "comment": "On tertiary container"
     },
-    "md_sys_color_on-tertiary_dark": {
-      "value": "{color.md_ref_palette_tertiary20.value}",
+    "gkv_sys_color_on-tertiary_dark": {
+      "value": "{color.gkv_ref_palette_tertiary20.value}",
       "comment": "On tertiary"
     },
-    "md_sys_color_tertiary-container_dark": {
-      "value": "{color.md_ref_palette_tertiary30.value}",
+    "gkv_sys_color_tertiary-container_dark": {
+      "value": "{color.gkv_ref_palette_tertiary30.value}",
       "comment": "Tertiary container"
     },
-    "md_sys_color_tertiary_dark": {
-      "value": "{color.md_ref_palette_tertiary80.value}",
+    "gkv_sys_color_tertiary_dark": {
+      "value": "{color.gkv_ref_palette_tertiary80.value}",
       "comment": "Tertiary"
     },
-    "md_sys_color_shadow_dark": {
-      "value": "{color.md_ref_palette_neutral0.value}",
+    "gkv_sys_color_shadow_dark": {
+      "value": "{color.gkv_ref_palette_neutral0.value}",
       "comment": "Shadow"
     },
-    "md_sys_color_error_dark": {
-      "value": "{color.md_ref_palette_error80.value}",
+    "gkv_sys_color_error_dark": {
+      "value": "{color.gkv_ref_palette_error80.value}",
       "comment": "Error"
     },
-    "md_sys_color_outline_dark": {
-      "value": "{color.md_ref_palette_neutral-variant60.value}",
+    "gkv_sys_color_outline_dark": {
+      "value": "{color.gkv_ref_palette_neutral-variant60.value}",
       "comment": "Outline"
     },
-    "md_sys_color_on-background_dark": {
-      "value": "{color.md_ref_palette_neutral90.value}",
+    "gkv_sys_color_on-background_dark": {
+      "value": "{color.gkv_ref_palette_neutral90.value}",
       "comment": "On background"
     },
-    "md_sys_color_background_dark": {
-      "value": "{color.md_ref_palette_neutral10.value}",
+    "gkv_sys_color_background_dark": {
+      "value": "{color.gkv_ref_palette_neutral10.value}",
       "comment": "Background"
     },
-    "md_sys_color_inverse-on-surface_dark": {
-      "value": "{color.md_ref_palette_neutral20.value}",
+    "gkv_sys_color_inverse-on-surface_dark": {
+      "value": "{color.gkv_ref_palette_neutral20.value}",
       "comment": "Inverse on surface"
     },
-    "md_sys_color_inverse-surface_dark": {
-      "value": "{color.md_ref_palette_neutral90.value}",
+    "gkv_sys_color_inverse-surface_dark": {
+      "value": "{color.gkv_ref_palette_neutral90.value}",
       "comment": "Inverse surface"
     },
-    "md_sys_color_on-surface-variant_dark": {
-      "value": "{color.md_ref_palette_neutral-variant80.value}",
+    "gkv_sys_color_on-surface-variant_dark": {
+      "value": "{color.gkv_ref_palette_neutral-variant80.value}",
       "comment": "On surface variant"
     },
-    "md_sys_color_on-surface_dark": {
-      "value": "{color.md_ref_palette_neutral90.value}",
+    "gkv_sys_color_on-surface_dark": {
+      "value": "{color.gkv_ref_palette_neutral90.value}",
       "comment": "On surface"
     },
-    "md_sys_color_surface-variant_dark": {
-      "value": "{color.md_ref_palette_neutral-variant30.value}",
+    "gkv_sys_color_surface-variant_dark": {
+      "value": "{color.gkv_ref_palette_neutral-variant30.value}",
       "comment": "Surface Variant"
     },
-    "md_sys_color_surface_dark": {
-      "value": "{color.md_ref_palette_neutral10.value}",
+    "gkv_sys_color_surface_dark": {
+      "value": "{color.gkv_ref_palette_neutral10.value}",
       "comment": "Surface"
     },
-    "md_sys_color_on-secondary-container_dark": {
-      "value": "{color.md_ref_palette_secondary90.value}",
+    "gkv_sys_color_on-secondary-container_dark": {
+      "value": "{color.gkv_ref_palette_secondary90.value}",
       "comment": "On secondary container"
     },
-    "md_sys_color_on-secondary_dark": {
-      "value": "{color.md_ref_palette_secondary20.value}",
+    "gkv_sys_color_on-secondary_dark": {
+      "value": "{color.gkv_ref_palette_secondary20.value}",
       "comment": "On secondary"
     },
-    "md_sys_color_secondary-container_dark": {
-      "value": "{color.md_ref_palette_secondary30.value}",
+    "gkv_sys_color_secondary-container_dark": {
+      "value": "{color.gkv_ref_palette_secondary30.value}",
       "comment": "Secondary container"
     },
-    "md_sys_color_secondary_dark": {
-      "value": "{color.md_ref_palette_secondary80.value}",
+    "gkv_sys_color_secondary_dark": {
+      "value": "{color.gkv_ref_palette_secondary80.value}",
       "comment": "Secondary"
     },
-    "md_sys_color_inverse-primary_dark": {
-      "value": "{color.md_ref_palette_primary40.value}",
+    "gkv_sys_color_inverse-primary_dark": {
+      "value": "{color.gkv_ref_palette_primary40.value}",
       "comment": "Inverse primary"
     },
-    "md_sys_color_on-primary-container_dark": {
-      "value": "{color.md_ref_palette_primary90.value}",
+    "gkv_sys_color_on-primary-container_dark": {
+      "value": "{color.gkv_ref_palette_primary90.value}",
       "comment": "On primary container"
     },
-    "md_sys_color_on-primary_dark": {
-      "value": "{color.md_ref_palette_primary20.value}",
+    "gkv_sys_color_on-primary_dark": {
+      "value": "{color.gkv_ref_palette_primary20.value}",
       "comment": "On primary"
     },
-    "md_sys_color_primary-container_dark": {
-      "value": "{color.md_ref_palette_primary30.value}",
+    "gkv_sys_color_primary-container_dark": {
+      "value": "{color.gkv_ref_palette_primary30.value}",
       "comment": "Primary container"
     },
-    "md_sys_color_primary_dark": {
-      "value": "{color.md_ref_palette_primary80.value}",
+    "gkv_sys_color_primary_dark": {
+      "value": "{color.gkv_ref_palette_primary80.value}",
       "comment": "Primary"
     },
-    "md_sys_color_surface-tint": {
-      "value": "{color.md_sys_color_surface-tint_light.value}",
+    "gkv_sys_color_surface-tint": {
+      "value": "{color.gkv_sys_color_surface-tint_light.value}",
       "comment": "Surface tint"
     },
-    "md_sys_color_on-error-container": {
-      "value": "{color.md_sys_color_on-error-container_light.value}",
+    "gkv_sys_color_on-error-container": {
+      "value": "{color.gkv_sys_color_on-error-container_light.value}",
       "comment": "On error container"
     },
-    "md_sys_color_on-error": {
-      "value": "{color.md_sys_color_on-error_light.value}",
+    "gkv_sys_color_on-error": {
+      "value": "{color.gkv_sys_color_on-error_light.value}",
       "comment": "On error"
     },
-    "md_sys_color_error-container": {
-      "value": "{color.md_sys_color_error-container_light.value}",
+    "gkv_sys_color_error-container": {
+      "value": "{color.gkv_sys_color_error-container_light.value}",
       "comment": "Error container"
     },
-    "md_sys_color_on-tertiary-container": {
-      "value": "{color.md_sys_color_on-tertiary-container_light.value}",
+    "gkv_sys_color_on-tertiary-container": {
+      "value": "{color.gkv_sys_color_on-tertiary-container_light.value}",
       "comment": "On tertiary container"
     },
-    "md_sys_color_on-tertiary": {
-      "value": "{color.md_sys_color_on-tertiary_light.value}",
+    "gkv_sys_color_on-tertiary": {
+      "value": "{color.gkv_sys_color_on-tertiary_light.value}",
       "comment": "On tertiary"
     },
-    "md_sys_color_tertiary-container": {
-      "value": "{color.md_sys_color_tertiary-container_light.value}",
+    "gkv_sys_color_tertiary-container": {
+      "value": "{color.gkv_sys_color_tertiary-container_light.value}",
       "comment": "Tertiary container"
     },
-    "md_sys_color_tertiary": {
-      "value": "{color.md_sys_color_tertiary_light.value}",
+    "gkv_sys_color_tertiary": {
+      "value": "{color.gkv_sys_color_tertiary_light.value}",
       "comment": "Tertiary"
     },
-    "md_sys_color_shadow": {
-      "value": "{color.md_sys_color_shadow_light.value}",
+    "gkv_sys_color_shadow": {
+      "value": "{color.gkv_sys_color_shadow_light.value}",
       "comment": "Shadow"
     },
-    "md_sys_color_error": {
-      "value": "{color.md_sys_color_error_light.value}",
+    "gkv_sys_color_error": {
+      "value": "{color.gkv_sys_color_error_light.value}",
       "comment": "Error"
     },
-    "md_sys_color_outline": {
-      "value": "{color.md_sys_color_outline_light.value}",
+    "gkv_sys_color_outline": {
+      "value": "{color.gkv_sys_color_outline_light.value}",
       "comment": "Outline"
     },
-    "md_sys_color_on-background": {
-      "value": "{color.md_sys_color_on-background_light.value}",
+    "gkv_sys_color_on-background": {
+      "value": "{color.gkv_sys_color_on-background_light.value}",
       "comment": "On background"
     },
-    "md_sys_color_background": {
-      "value": "{color.md_sys_color_background_light.value}",
+    "gkv_sys_color_background": {
+      "value": "{color.gkv_sys_color_background_light.value}",
       "comment": "Background"
     },
-    "md_sys_color_inverse-on-surface": {
-      "value": "{color.md_sys_color_inverse-on-surface_light.value}",
+    "gkv_sys_color_inverse-on-surface": {
+      "value": "{color.gkv_sys_color_inverse-on-surface_light.value}",
       "comment": "Inverse on surface"
     },
-    "md_sys_color_inverse-surface": {
-      "value": "{color.md_sys_color_inverse-surface_light.value}",
+    "gkv_sys_color_inverse-surface": {
+      "value": "{color.gkv_sys_color_inverse-surface_light.value}",
       "comment": "Inverse surface"
     },
-    "md_sys_color_on-surface-variant": {
-      "value": "{color.md_sys_color_on-surface-variant_light.value}",
+    "gkv_sys_color_on-surface-variant": {
+      "value": "{color.gkv_sys_color_on-surface-variant_light.value}",
       "comment": "On surface variant"
     },
-    "md_sys_color_on-surface": {
-      "value": "{color.md_sys_color_on-surface_light.value}",
+    "gkv_sys_color_on-surface": {
+      "value": "{color.gkv_sys_color_on-surface_light.value}",
       "comment": "On surface"
     },
-    "md_sys_color_surface-variant": {
-      "value": "{color.md_sys_color_surface-variant_light.value}",
+    "gkv_sys_color_surface-variant": {
+      "value": "{color.gkv_sys_color_surface-variant_light.value}",
       "comment": "Surface Variant"
     },
-    "md_sys_color_surface": {
-      "value": "{color.md_sys_color_surface_light.value}",
+    "gkv_sys_color_surface": {
+      "value": "{color.gkv_sys_color_surface_light.value}",
       "comment": "Surface"
     },
-    "md_sys_color_on-secondary-container": {
-      "value": "{color.md_sys_color_on-secondary-container_light.value}",
+    "gkv_sys_color_on-secondary-container": {
+      "value": "{color.gkv_sys_color_on-secondary-container_light.value}",
       "comment": "On secondary container"
     },
-    "md_sys_color_on-secondary": {
-      "value": "{color.md_sys_color_on-secondary_light.value}",
+    "gkv_sys_color_on-secondary": {
+      "value": "{color.gkv_sys_color_on-secondary_light.value}",
       "comment": "On secondary"
     },
-    "md_sys_color_secondary-container": {
-      "value": "{color.md_sys_color_secondary-container_light.value}",
+    "gkv_sys_color_secondary-container": {
+      "value": "{color.gkv_sys_color_secondary-container_light.value}",
       "comment": "Secondary container"
     },
-    "md_sys_color_secondary": {
-      "value": "{color.md_sys_color_secondary_light.value}",
+    "gkv_sys_color_secondary": {
+      "value": "{color.gkv_sys_color_secondary_light.value}",
       "comment": "Secondary"
     },
-    "md_sys_color_inverse-primary": {
-      "value": "{color.md_sys_color_inverse-primary_light.value}",
+    "gkv_sys_color_inverse-primary": {
+      "value": "{color.gkv_sys_color_inverse-primary_light.value}",
       "comment": "Inverse primary"
     },
-    "md_sys_color_on-primary-container": {
-      "value": "{color.md_sys_color_on-primary-container_light.value}",
+    "gkv_sys_color_on-primary-container": {
+      "value": "{color.gkv_sys_color_on-primary-container_light.value}",
       "comment": "On primary container"
     },
-    "md_sys_color_on-primary": {
-      "value": "{color.md_sys_color_on-primary_light.value}",
+    "gkv_sys_color_on-primary": {
+      "value": "{color.gkv_sys_color_on-primary_light.value}",
       "comment": "On primary"
     },
-    "md_sys_color_primary-container": {
-      "value": "{color.md_sys_color_primary-container_light.value}",
+    "gkv_sys_color_primary-container": {
+      "value": "{color.gkv_sys_color_primary-container_light.value}",
       "comment": "Primary container"
     },
-    "md_sys_color_primary": {
-      "value": "{color.md_sys_color_primary_light.value}",
+    "gkv_sys_color_primary": {
+      "value": "{color.gkv_sys_color_primary_light.value}",
       "comment": "Primary"
     },
-    "md_ref_palette_error0": {
+    "gkv_ref_palette_error0": {
       "value": "#000000ff",
       "comment": "Error 0"
     },
-    "md_ref_palette_error10": {
+    "gkv_ref_palette_error10": {
       "value": "#410e0bff",
       "comment": "Error 10"
     },
-    "md_ref_palette_error20": {
+    "gkv_ref_palette_error20": {
       "value": "#601410ff",
       "comment": "Error 20"
     },
-    "md_ref_palette_error30": {
+    "gkv_ref_palette_error30": {
       "value": "#8c1d18ff",
       "comment": "Error 30"
     },
-    "md_ref_palette_error40": {
+    "gkv_ref_palette_error40": {
       "value": "#b3261eff",
       "comment": "Error 40"
     },
-    "md_ref_palette_error50": {
+    "gkv_ref_palette_error50": {
       "value": "#dc362eff",
       "comment": "Error 50"
     },
-    "md_ref_palette_error60": {
+    "gkv_ref_palette_error60": {
       "value": "#e46962ff",
       "comment": "Error 60"
     },
-    "md_ref_palette_error70": {
+    "gkv_ref_palette_error70": {
       "value": "#ec928eff",
       "comment": "Error 70"
     },
-    "md_ref_palette_error80": {
+    "gkv_ref_palette_error80": {
       "value": "#f2b8b5ff",
       "comment": "Error 80"
     },
-    "md_ref_palette_error90": {
+    "gkv_ref_palette_error90": {
       "value": "#f9dedcff",
       "comment": "Error 90"
     },
-    "md_ref_palette_error95": {
+    "gkv_ref_palette_error95": {
       "value": "#fceeeeff",
       "comment": "Error 95"
     },
-    "md_ref_palette_error99": {
+    "gkv_ref_palette_error99": {
       "value": "#fffbf9ff",
       "comment": "Error 99"
     },
-    "md_ref_palette_error100": {
+    "gkv_ref_palette_error100": {
       "value": "#ffffffff",
       "comment": "Error 100"
     },
-    "md_ref_palette_tertiary0": {
+    "gkv_ref_palette_tertiary0": {
       "value": "#000000ff",
       "comment": "Tertiary 0"
     },
-    "md_ref_palette_tertiary10": {
+    "gkv_ref_palette_tertiary10": {
       "value": "#31111dff",
       "comment": "Tertiary 10"
     },
-    "md_ref_palette_tertiary20": {
+    "gkv_ref_palette_tertiary20": {
       "value": "#492532ff",
       "comment": "Tertiary 20"
     },
-    "md_ref_palette_tertiary30": {
+    "gkv_ref_palette_tertiary30": {
       "value": "#633b48ff",
       "comment": "Tertiary 30"
     },
-    "md_ref_palette_tertiary40": {
+    "gkv_ref_palette_tertiary40": {
       "value": "#7d5260ff",
       "comment": "Tertiary 40"
     },
-    "md_ref_palette_tertiary50": {
+    "gkv_ref_palette_tertiary50": {
       "value": "#986977ff",
       "comment": "Tertiary 50"
     },
-    "md_ref_palette_tertiary60": {
+    "gkv_ref_palette_tertiary60": {
       "value": "#b58392ff",
       "comment": "Tertiary 60"
     },
-    "md_ref_palette_tertiary70": {
+    "gkv_ref_palette_tertiary70": {
       "value": "#d29dacff",
       "comment": "Tertiary 70"
     },
-    "md_ref_palette_tertiary80": {
+    "gkv_ref_palette_tertiary80": {
       "value": "#efb8c8ff",
       "comment": "Tertiary 80"
     },
-    "md_ref_palette_tertiary90": {
+    "gkv_ref_palette_tertiary90": {
       "value": "#ffd8e4ff",
       "comment": "Tertiary 90"
     },
-    "md_ref_palette_tertiary95": {
+    "gkv_ref_palette_tertiary95": {
       "value": "#ffecf1ff",
       "comment": "Tertiary 95"
     },
-    "md_ref_palette_tertiary99": {
+    "gkv_ref_palette_tertiary99": {
       "value": "#fffbfaff",
       "comment": "Tertiary 99"
     },
-    "md_ref_palette_tertiary100": {
+    "gkv_ref_palette_tertiary100": {
       "value": "#ffffffff",
       "comment": "Tertiary 100"
     },
-    "md_ref_palette_secondary0": {
+    "gkv_ref_palette_secondary0": {
       "value": "#000000ff",
       "comment": "Secondary 0"
     },
-    "md_ref_palette_secondary10": {
+    "gkv_ref_palette_secondary10": {
       "value": "#1d192bff",
       "comment": "Secondary 10"
     },
-    "md_ref_palette_secondary20": {
+    "gkv_ref_palette_secondary20": {
       "value": "#332d41ff",
       "comment": "Secondary 20"
     },
-    "md_ref_palette_secondary30": {
+    "gkv_ref_palette_secondary30": {
       "value": "#4a4458ff",
       "comment": "Secondary 30"
     },
-    "md_ref_palette_secondary40": {
+    "gkv_ref_palette_secondary40": {
       "value": "#625b71ff",
       "comment": "Secondary 40"
     },
-    "md_ref_palette_secondary50": {
+    "gkv_ref_palette_secondary50": {
       "value": "#7a7289ff",
       "comment": "Secondary 50"
     },
-    "md_ref_palette_secondary60": {
+    "gkv_ref_palette_secondary60": {
       "value": "#958da5ff",
       "comment": "Secondary 60"
     },
-    "md_ref_palette_secondary70": {
+    "gkv_ref_palette_secondary70": {
       "value": "#b0a7c0ff",
       "comment": "Secondary 70"
     },
-    "md_ref_palette_secondary80": {
+    "gkv_ref_palette_secondary80": {
       "value": "#ccc2dcff",
       "comment": "Secondary 80"
     },
-    "md_ref_palette_secondary90": {
+    "gkv_ref_palette_secondary90": {
       "value": "#e8def8ff",
       "comment": "Secondary 90"
     },
-    "md_ref_palette_secondary95": {
+    "gkv_ref_palette_secondary95": {
       "value": "#f6edffff",
       "comment": "Secondary 95"
     },
-    "md_ref_palette_secondary99": {
+    "gkv_ref_palette_secondary99": {
       "value": "#fffbfeff",
       "comment": "Secondary 99"
     },
-    "md_ref_palette_secondary100": {
+    "gkv_ref_palette_secondary100": {
       "value": "#ffffffff",
       "comment": "Secondary 100"
     },
-    "md_ref_palette_primary0": {
+    "gkv_ref_palette_primary0": {
       "value": "#000000ff",
       "comment": "Primary 0"
     },
-    "md_ref_palette_primary10": {
+    "gkv_ref_palette_primary10": {
       "value": "#21005dff",
       "comment": "Primary 10"
     },
-    "md_ref_palette_primary20": {
+    "gkv_ref_palette_primary20": {
       "value": "#381e72ff",
       "comment": "Primary 20"
     },
-    "md_ref_palette_primary30": {
+    "gkv_ref_palette_primary30": {
       "value": "#4f378bff",
       "comment": "Primary 30"
     },
-    "md_ref_palette_primary40": {
+    "gkv_ref_palette_primary40": {
       "value": "#6750a4ff",
       "comment": "Primary 40"
     },
-    "md_ref_palette_primary50": {
+    "gkv_ref_palette_primary50": {
       "value": "#7f67beff",
       "comment": "Primary 50"
     },
-    "md_ref_palette_primary60": {
+    "gkv_ref_palette_primary60": {
       "value": "#9a82dbff",
       "comment": "Primary 60"
     },
-    "md_ref_palette_primary70": {
+    "gkv_ref_palette_primary70": {
       "value": "#b69df8ff",
       "comment": "Primary 70"
     },
-    "md_ref_palette_primary80": {
+    "gkv_ref_palette_primary80": {
       "value": "#d0bcffff",
       "comment": "Primary 80"
     },
-    "md_ref_palette_primary90": {
+    "gkv_ref_palette_primary90": {
       "value": "#eaddffff",
       "comment": "Primary 90"
     },
-    "md_ref_palette_primary95": {
+    "gkv_ref_palette_primary95": {
       "value": "#f6edffff",
       "comment": "Primary 95"
     },
-    "md_ref_palette_primary99": {
+    "gkv_ref_palette_primary99": {
       "value": "#fffbfeff",
       "comment": "Primary 99"
     },
-    "md_ref_palette_primary100": {
+    "gkv_ref_palette_primary100": {
       "value": "#ffffffff",
       "comment": "Primary 100"
     },
-    "md_ref_palette_neutral-variant0": {
+    "gkv_ref_palette_neutral-variant0": {
       "value": "#000000ff",
       "comment": "Neutral Variant 0"
     },
-    "md_ref_palette_neutral-variant10": {
+    "gkv_ref_palette_neutral-variant10": {
       "value": "#1d1a22ff",
       "comment": "Neutral Variant 10"
     },
-    "md_ref_palette_neutral-variant20": {
+    "gkv_ref_palette_neutral-variant20": {
       "value": "#322f37ff",
       "comment": "Neutral Variant 20"
     },
-    "md_ref_palette_neutral-variant30": {
+    "gkv_ref_palette_neutral-variant30": {
       "value": "#49454fff",
       "comment": "Neutral Variant 30"
     },
-    "md_ref_palette_neutral-variant40": {
+    "gkv_ref_palette_neutral-variant40": {
       "value": "#605d66ff",
       "comment": "Neutral Variant 40"
     },
-    "md_ref_palette_neutral-variant50": {
+    "gkv_ref_palette_neutral-variant50": {
       "value": "#79747eff",
       "comment": "Neutral Variant 50"
     },
-    "md_ref_palette_neutral-variant60": {
+    "gkv_ref_palette_neutral-variant60": {
       "value": "#938f99ff",
       "comment": "Neutral Variant 60"
     },
-    "md_ref_palette_neutral-variant70": {
+    "gkv_ref_palette_neutral-variant70": {
       "value": "#aea9b4ff",
       "comment": "Neutral Variant 70"
     },
-    "md_ref_palette_neutral-variant80": {
+    "gkv_ref_palette_neutral-variant80": {
       "value": "#cac4d0ff",
       "comment": "Neutral Variant 80"
     },
-    "md_ref_palette_neutral-variant90": {
+    "gkv_ref_palette_neutral-variant90": {
       "value": "#e7e0ecff",
       "comment": "Neutral Variant 90"
     },
-    "md_ref_palette_neutral-variant95": {
+    "gkv_ref_palette_neutral-variant95": {
       "value": "#f5eefaff",
       "comment": "Neutral Variant 95"
     },
-    "md_ref_palette_neutral-variant99": {
+    "gkv_ref_palette_neutral-variant99": {
       "value": "#fffbfeff",
       "comment": "Neutral Variant 99"
     },
-    "md_ref_palette_neutral-variant100": {
+    "gkv_ref_palette_neutral-variant100": {
       "value": "#ffffffff",
       "comment": "Neutral Variant 100"
     },
-    "md_ref_palette_neutral0": {
+    "gkv_ref_palette_neutral0": {
       "value": "#000000ff",
       "comment": "Neutral 0"
     },
-    "md_ref_palette_neutral10": {
+    "gkv_ref_palette_neutral10": {
       "value": "#1c1b1fff",
       "comment": "Neutral 10"
     },
-    "md_ref_palette_neutral20": {
+    "gkv_ref_palette_neutral20": {
       "value": "#313033ff",
       "comment": "Neutral 20"
     },
-    "md_ref_palette_neutral30": {
+    "gkv_ref_palette_neutral30": {
       "value": "#484649ff",
       "comment": "Neutral 30"
     },
-    "md_ref_palette_neutral40": {
+    "gkv_ref_palette_neutral40": {
       "value": "#605d62ff",
       "comment": "Neutral 40"
     },
-    "md_ref_palette_neutral50": {
+    "gkv_ref_palette_neutral50": {
       "value": "#787579ff",
       "comment": "Neutral 50"
     },
-    "md_ref_palette_neutral60": {
+    "gkv_ref_palette_neutral60": {
       "value": "#939094ff",
       "comment": "Neutral 60"
     },
-    "md_ref_palette_neutral70": {
+    "gkv_ref_palette_neutral70": {
       "value": "#aeaaaeff",
       "comment": "Neutral 70"
     },
-    "md_ref_palette_neutral80": {
+    "gkv_ref_palette_neutral80": {
       "value": "#c9c5caff",
       "comment": "Neutral 80"
     },
-    "md_ref_palette_neutral90": {
+    "gkv_ref_palette_neutral90": {
       "value": "#e6e1e5ff",
       "comment": "Neutral 90"
     },
-    "md_ref_palette_neutral95": {
+    "gkv_ref_palette_neutral95": {
       "value": "#f4eff4ff",
       "comment": "Neutral 95"
     },
-    "md_ref_palette_neutral99": {
+    "gkv_ref_palette_neutral99": {
       "value": "#fffbfeff",
       "comment": "Neutral 99"
     },
-    "md_ref_palette_neutral100": {
+    "gkv_ref_palette_neutral100": {
       "value": "#ffffffff",
       "comment": "Neutral 100"
     },
-    "md_ref_palette_black": {
+    "gkv_ref_palette_black": {
       "value": "#000000ff",
       "comment": "Black"
     },
-    "md_ref_palette_white": {
+    "gkv_ref_palette_white": {
       "value": "#ffffffff",
       "comment": "White"
     }
